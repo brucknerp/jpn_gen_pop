@@ -1,0 +1,43 @@
+﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+<title language="japanese">曲名 順子</title>
+<title language="english">junko</title>
+
+<singer language="japanese" gender="male">長渕剛</singer>
+<singer language="japanese" gender="male">Tsuyoshi Nagabuchi</singer>
+
+<lyricist language="japanese" gender="male">長渕剛</lyricist>
+<lyricist language="english" gender="male">Tsuyoshi Nagabuchi</lyricist>
+<release>1980</release>
+
+</meta>
+
+<body>
+<verse>
+<line>離れない　離さない　離したくない君</line>
+<line>いろんな言葉で君に愛を告げてきたけれども</line>
+<line>終わりさ みんな終わりさ　僕のひとりよがり</line>
+<line>君へつないだ心の糸は今プツリと切れた</line>
+</verse>
+<chorus>
+<line>順子　君の名を呼べば僕はせつないよ</line>
+<line>やさしさはいつも僕の前でカラカラから回り</line>
+<line>順子　君の名を呼べば僕はかなしいよ</line>
+<line>だから心のドアをノックしないで</line>
+</chorus>
+
+<verse>
+<line>嫌いかい　嫌いなんだね　こんな僕の事</line>
+<line>あと2年待つことがそんなにいやだったとはね</line>
+<line>ずるいよ　君はずるいよ　内緒であんな奴と</line>
+<line>僕と比べていたとは冗談のひとつにもなりゃしない</line>
+</verse>
+
+<chorus>
+<line>順子　君の名を呼べば僕はせつないよ</line>
+<line>やさしさはいつも僕の前でカラカラから回り</line>
+<line>順子　君の名を呼べば僕はかなしいよ</line>
+<line>だから心のドアをノックしないで</line>
+</chorus>
+</body></song>

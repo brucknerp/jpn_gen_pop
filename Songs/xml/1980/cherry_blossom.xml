@@ -1,0 +1,37 @@
+﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+<title language="japanese">チェリーブラッサム</title>
+<title language="english">Cherry Blossom</title>
+
+<singer language="japanese" gender="female">松田聖子</singer>
+<singer language="english" gender="female">Seiko Matsuda</singer>
+
+<lyricist language="japanese" gender="female">三浦徳子</lyricist>
+<lyricist language="english" gender="female">Yoshiko Miura</lyricist>
+
+<release>1980</release>
+</meta>
+<body>
+<verse>
+<line>何もかもめざめてく新しい私</line>
+<line>走り出した船の後　白い波踊ってる</line>
+<line>あなたとの約束が叶うのは明日</line>
+<line>胸に抱いた愛の花</line>
+<line>受けとめてくれるでしょう</line>
+<line>つばめが飛ぶ青い空は</line>
+<line>未来の夢　キャンバスね</line>
+<line>自由な線　自由な色</line>
+<line>描いてゆく二人で</line>
+<line>何もかもめざめてく新しい私</line>
+<line>走り出した愛は　ただあなたへと続いてる</line>
+</verse>
+
+<verse>
+<line>夕日は今　夜のために</line>
+<line>水平線　沈むのよ</line>
+<line>私は今　愛のために</line>
+<line>激しい風　吹かれて</line>
+<line>何もかもめざめてく新しい私</line>
+<line>走り出した船は　ただあなたへと続いてる</line>
+</verse></body></song>

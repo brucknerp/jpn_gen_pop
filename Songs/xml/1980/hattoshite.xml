@@ -1,0 +1,57 @@
+﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+<title language="japanese">ハッとして！Good</title>
+<title language="english">hattoshite! good!</title>
+
+<singer language="japanese" gender="male">田原俊彦</singer>
+<singer language="english" gender="male">Toshihiko Tahari</singer>
+
+<lyricist language="japanese" gender="male">宮下智</lyricist>
+<lyricist language="english" gender="male">Tatomo Miyashi</lyricist>
+
+<release>1980</release>
+</meta>
+
+<body>
+<verse>
+<line>パステルに染った高原の　Telephone Box</line>
+<line>電話をかける君と　偶然バッタリ出合ったよ</line>
+</verse>
+
+<bridge>
+<line>ハッとして　グッときて</line>
+<line>パッと目覚める　恋だから</line>
+<line>フッとした瞬間の　君は天使さ</line>
+</bridge>
+
+<chorus>
+<line>君と出会う　Sweet Situation</line>
+<line>きらめく高原で　僕は今　さわやかな</line>
+<line>君だけのプリンスになると　決めたのさ</line>
+</chorus>
+<verse>
+<line>グレーのテニスコート　思わず触れた君の手に</line>
+<line>ラケット持つ手止まり　その頬まっ赤に染ったよ</line>
+</verse>
+
+<bridge>
+<line>ハッとして　サッとひき</line>
+<line>パッと取らう　その瞳</line>
+<line>ふっとして瞬間の　君は天使さ</line>
+</bridge>
+<chorus>
+<line>君と触れた　Sweet Situation</line>
+<line>きらめく高原で　僕は今　君だけに</line>
+<line>心からやさしくなれると　知ったのさ</line>
+</chorus>
+<bridge>
+<line>ハッとして　グッときて</line>
+<line>パッと目覚める　恋だから</line>
+<line>フッとした瞬間の　君は天使さ</line>
+</bridge>
+<chorus>
+<line>君とはずむ　Sweet Situation</line>
+<line>きらめく高原で　僕は今　君をのせ</line>
+<line>二人だけの世界へと　はばたくよ</line>
+</chorus></body></song>
