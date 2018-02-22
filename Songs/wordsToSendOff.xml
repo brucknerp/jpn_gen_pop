@@ -3,7 +3,7 @@
 <song>
 <meta>
 <title language="japanese">贈る言葉</title>
-<title language="english">words to send off ?</title>
+<title language="english">words to send off</title>
 
 <singer language="japanese" gender="male">海援隊</singer>
 <singer language="english" gender="male">kaientai</singer>
@@ -17,7 +17,7 @@
 <body>
 <verse>
 <line>暮れなずむ町の　光と影の中</line>
-<line>去りゆくあなたへ　贈る言葉</line>
+<line>去りゆく<feature type="2ndpn" gender="mixed">あなた</feature>へ　贈る言葉</line>
 </verse>
 
 <verse>
@@ -29,35 +29,35 @@
 
 <verse>
 <line>さよならだけでは　さびしすぎるから</line>
-<line>愛するあなたへ　贈る言葉</line>
+<line>愛する<feature type="2ndpn" gender="mixed">あなた</feature>へ　贈る言葉</line>
 </verse>
 
 <verse>
-<line>夕暮れの風に　＿＿切れたけれど</line>
+    <line>夕暮れの風に　途切れたけれど</line>
 <line>終わりまで聞いて　贈る言葉</line>
 </verse>
 
 <verse>
-<line>信じられぬと　＿＿よりも</line>
+    <line>信じられぬと　嘆くよりも</line>
 <line>人を信じて　傷つくほうがいい</line>
-<line>＿＿ないで　優しさなんか</line>
-<line>＿＿病者の　言いわけだから</line>
+    <line>求めないで　優しさなんか</line>
+    <line>臆病者の　言いわけだから</line>
 </verse>
 
 <verse>
-<line>はじめて愛した　あなたのために</line>
-<line>＿＿もつけずに　贈る言葉</line>
+<line>はじめて愛した　<feature type="2ndpn" gender="mixed">あなた</feature>のために</line>
+    <line>飾りもつけずに　贈る言葉</line>
 </verse>
 
 <verse>
 <line>これから始まる　暮らしの中で</line>
-<line>だれかがあなたを　愛するでしょう</line>
-<line>だけど　私ほど　あなたの事を</line>
-<line>深く愛した　ヤツはいない</line>
+<line>だれかが<feature type="2ndpn" gender="mixed">あなた</feature>を　愛する<feature type="SFP" gender="mixed">でしょう</feature></line>
+<line>だけど　<feature type="1stpn" gender="mixed">私</feature>ほど　<feature type="2ndpn" gender="mixed">あなた</feature>の事を</line>
+<line>深く愛した　<feature type="3rdpn" gender="male">ヤツ</feature>はいない</line>
 </verse>
     
 <verse>
-<line>遠ざかる影が　人＿＿に消えた</line>
+    <line>遠ざかる影が　人混みに消えた</line>
 <line>もうとどかない　贈る言葉</line>
 <line>もうとどかない　贈る言葉</line>
 </verse>

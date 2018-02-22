@@ -2,65 +2,66 @@
 
 <?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-<meta>
-<title language="japanese"> 風は秋色</title>
-<title language="english">the wind is autumn colored</title>
+    <meta>
+        <title language="japanese"> 風は秋色</title>
+        <title language="english">the wind is autumn colored</title>
 
-<singer language="japanese" gender="female">松田聖子</singer>
-<singer language="english" gender="female">seiko matsuda</singer>
+        <singer language="japanese" gender="female">松田聖子</singer>
+        <singer language="english" gender="female">seiko matsuda</singer>
 
-<lyricist language="japanese" gender="male">作詞 三浦徳子</lyricist>
-<lyricist language="japanese" gender="male">Yoshiko Miura</lyricist>
+        <lyricist language="japanese" gender="male">作詞 三浦徳子</lyricist>
+        <lyricist language="japanese" gender="male">Yoshiko Miura</lyricist>
 
-<release>10-1-1980
-</release>
+        <release>10-1-1980 </release>
 
-</meta>
-<body>
-<chorus>
-<line>La La La......Oh, ミルキィ・スマイル</line>
-<line>あなたの腕の中で旅をする</line>
-<line>Oh, ミルキィ・スマイル抱きしめて</line>
-<line>やわらかなその愛で</line>
-</chorus>
-    
-<verse>
-<line>忘れるために＿海辺の街</line>
-<line>ちぎれた愛が指に髪に離れない</line>
-<line>泣き虫なのはあなたのせいよ</line>
-<line>ふるえる心愛のせいなの</line>
-<line>冷たい砂足跡ふり返れば</line>
-<line>遠くでほほえむ</line>
-<line>あなたをあなたを感じてるわ</line>
-</verse>
+    </meta>
+    <body>
+        <chorus>
+            <line>La La La......Oh, ミルキィ・スマイル</line>
+            <line><feature type="2ndpn" gender="mixed">あなた</feature>の腕の中で旅をする</line>
+            <line>Oh, ミルキィ・スマイル抱きしめて</line>
+            <line>やわらかなその愛で</line>
+        </chorus>
 
-<chorus>
-<line>Oh, ミルキィ・スマイル抱きしめて</line>
-<line>あなたの腕の中で旅をする</line>
-<line>Oh, ミルキィ・スマイル受けとめて</line>
-<line>やわらかなその愛で</line>
-</chorus>
+        <verse>
+            <line>忘れるために訪れた海辺の街</line>
+            <line>ちぎれた愛が指に髪に離れない</line>
+            <line>泣き虫なのは<feature type="2ndpn" gender="mixed">あなた</feature>のせい<feature type="SFP" gender="female">よ</feature></line>
+            <line>ふるえる心愛のせい<feature type="SFP" gender="female">なの</feature></line>
+            <line>冷たい砂足跡ふり返れば</line>
+            <line>遠くでほほえむ</line>
+            <line><feature type="2ndpn" gender="mixed">あなた</feature>を<feature type="2ndpn" gender="mixed">あなた</feature>を感じてる<feature type="SFP" gender="female">わ</feature></line>
+        </verse>
 
-<verse>
-<line>恋する＿＿＿を手にいれたこの渚で</line>
-<line>ひとつのソーダにストローが二本揺れてた</line>
-<line>泣き虫なのはあなたのせいよ</line>
-<line>心のあざは愛のせいなの</line>
-<line>冷たい秋ひとりぼっちの夕暮れ</line>
-<line>遠くまでほほえむ</line>
-<line>誰かが誰かが＿＿のよ</line>
-</verse>
+        <chorus>
+            <line>Oh, ミルキィ・スマイル抱きしめて</line>
+            <line><feature type="2ndpn" gender="mixed">あなた</feature>の腕の中で旅をする</line>
+            <line>Oh, ミルキィ・スマイル受けとめて</line>
+            <line>やわらかなその愛で</line>
+        </chorus>
 
-<chorus>
-<line>Oh, ミルキィ・スマイル抱きしめて</line>
-<line>あなたの腕の中で旅をする</line>
-<line>Oh, ミルキィ・スマイル受けとめて</line>
-<line>やわらかなその愛で</line>
-</chorus>
+        <verse>
+            <line>恋する切符を手にいれたこの渚で</line>
+            <line>ひとつのソーダにストローが二本揺れてた</line>
+            <line>泣き虫なのは<feature type="2ndpn" gender="mixed">あなた</feature>のせい<feature type="SFP" gender="female">よ</feature></line>
+            <line>心のあざは愛のせい<feature type="SFP" gender="female">なの</feature></line>
+            <line>冷たい秋ひとりぼっちの夕暮れ</line>
+            <line>遠くまでほほえむ</line>
+            <line>誰かが誰かが横切る<feature type="SFP" gender="female">のよ</feature></line>
+        </verse>
 
-<chorus>
-<line>La La La......Oh, ミルキィ・スマイル</line>
-<line>あなたの腕の中で旅をする</line>
-<line>Oh, ミルキィ・スマイル抱きしめて</line>
-<line>やわらかなその愛で</line>
-</chorus></body></song>
+        <chorus>
+            <line>Oh, ミルキィ・スマイル抱きしめて</line>
+            <line><feature type="2ndpn" gender="mixed">あなた</feature>の腕の中で旅をする</line>
+            <line>Oh, ミルキィ・スマイル受けとめて</line>
+            <line>やわらかなその愛で</line>
+        </chorus>
+
+        <chorus>
+            <line>La La La......Oh, ミルキィ・スマイル</line>
+            <line><feature type="2ndpn" gender="mixed">あなた</feature>の腕の中で旅をする</line>
+            <line>Oh, ミルキィ・スマイル抱きしめて</line>
+            <line>やわらかなその愛で</line>
+        </chorus>
+    </body>
+</song>

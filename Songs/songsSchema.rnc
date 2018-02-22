@@ -11,6 +11,8 @@ body = element body {verse+&bridge*&chorus*}
 verse = element verse {line+}
 bridge = element bridge {line+}
 chorus = element chorus {line+}
-line = element line {mixed{(insert)*}}
-insert = element insert {text}
+line = element line {mixed{(feature)*}}
+feature = element feature {type, gender, polite, text}
+type = attribute type {"SFP"|"1stpn"|"2ndpn"|"3rdpn"|"hon"|"other"}
+polite = attribute polite {"plain" | "polite" | "depr"}
 
