@@ -21,28 +21,28 @@
 </verse>
 
 <chorus>
-<line>恋人よ　そばにいて</line>
-<line>こごえる私のそばにいてよ</line>
+    <line>恋人<feature type="SFP" gender="female">よ</feature>　そばにいて</line>
+    <line>こごえる<feature type="1stpn" gender="mixed">私</feature>のそばにいてよ</line>
 <line>そしてひとこと　この別れ話が</line>
-<line>冗談だよと　笑ってほしい</line>
+<line>冗談<feature type="SFP" gender="male" quote="yes">だよ</feature>と　笑ってほしい</line>
 </chorus>
 
 <verse>
 <line>砂利路を駆け足で</line>
 <line>マラソン人が行き過ぎる</line>
 <line>まるで忘却のぞむように</line>
-<line>止まる私を　誘っている</line>
+    <line>止まる<feature type="1stpn" gender="mixed">私</feature>を　誘っている</line>
 </verse>
 <verse>
-<line>恋人よ　さようなら</line>
+    <line>恋人<feature type="SFP" gender="female">よ</feature>　さようなら</line>
 <line>季節はめぐってくるけど</line>
 <line>あの日の二人　宵の流れ星</line>
-<line>光っては消える　無情の夢よ</line>
+    <line>光っては消える　無情の夢<feature type="SFP" gender="female">よ</feature></line>
 </verse>
 
 <chorus>
-<line>恋人よ　そばにいて</line>
-<line>こごえる私のそばにいてよ</line>
+    <line>恋人<feature type="SFP" gender="female">よ</feature>　そばにいて</line>
+    <line>こごえる<feature type="1stpn" gender="mixed">私</feature>のそばにいてよ</line>
 <line>そしてひとこと　この別れ話が</line>
-<line>冗談だよと　笑ってほしい</line>
+    <line>冗談<feature type="SFP" gender="male" quote="yes">だよ</feature>と　笑ってほしい</line>
 </chorus></body></song>

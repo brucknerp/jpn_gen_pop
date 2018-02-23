@@ -16,9 +16,9 @@
 <verse>
 <line>哀しみのヴェールをはずす</line>
 <line>気まぐれなこの都会（まち）だけど</line>
-<line>まるで今あなたの　胸にいるよう</line>
+    <line>まるで今<feature type="2ndpn" gender="mixed">あなた</feature>の　胸にいるよう</line>
 <line>エアメールさりげない愛</line>
-<line>届けるわ　あなたのドアに</line>
+    <line>届ける<feature type="SFP" gender="female">わ</feature>　<feature type="2ndpn" gender="mixed">あなた</feature>のドアに</line>
 <line>いつも想い出して どこにいても</line>
 </verse>
 
@@ -33,13 +33,13 @@
 <line>Purple town Purple town</line>
 <line>翼広げて　hu hu hu.</line>
 <line>New York</line>
-<line>愛する気持ちを呼びさます都会ね</line>
+    <line>愛する気持ちを呼びさます都会<feature type="SFP" gender="female">ね</feature></line>
 <line>New York 紫にけむる夜明け</line>
 </chorus>
 <verse>
 <line>傷ついた心もいつか</line>
 <line>癒えてゆく新しい風</line>
-<line>そうよすぐ戻るわ　あなたのもとへ</line>
+    <line>そう<feature type="SFP" gender="female">よ</feature>すぐ戻る<feature type="SFP" gender="female">わ</feature>　<feature type="2ndpn" gender="mixed">あなた</feature>のもとへ</line>
 </verse>
 
 <bridge>
@@ -53,7 +53,7 @@
 <line>Purple town Purple town</line>
 <line>翼広げて hu hu hu.</line>
 <line>New York</line>
-<line>愛する気持ちを呼びさます都会ね</line>
+    <line>愛する気持ちを呼びさます都会<feature type="SFP" gender="female">ね</feature></line>
 <line>New York 紫にけむる夜明け</line>
 </chorus>
 
@@ -63,7 +63,7 @@
 <line>Purple town Purple town</line>
 <line>翼広げて hu hu hu.</line>
 <line>New York</line>
-<line>愛する気持ちを呼びさます都会ね</line>
+    <line>愛する気持ちを呼びさます都会<feature type="SFP" gender="female">ね</feature></line>
 <line>New York 紫にけむる夜明け</line>
 </chorus>
 

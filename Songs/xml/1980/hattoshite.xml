@@ -16,42 +16,42 @@
 <body>
 <verse>
 <line>パステルに染った高原の　Telephone Box</line>
-<line>電話をかける君と　偶然バッタリ出合ったよ</line>
+    <line>電話をかける<feature type="2ndpn" gender="male">君</feature>と　偶然バッタリ出合った<feature type="SFP" gender="male">よ</feature></line>
 </verse>
 
 <bridge>
 <line>ハッとして　グッときて</line>
 <line>パッと目覚める　恋だから</line>
-<line>フッとした瞬間の　君は天使さ</line>
+    <line>フッとした瞬間の　<feature type="2ndpn" gender="male">君</feature>は天使<feature type="SFP" gender="male">さ</feature></line>
 </bridge>
 
 <chorus>
-<line>君と出会う　Sweet Situation</line>
-<line>きらめく高原で　僕は今　さわやかな</line>
-<line>君だけのプリンスになると　決めたのさ</line>
+    <line><feature type="2ndpn" gender="male">君</feature>と出会う　Sweet Situation</line>
+    <line>きらめく高原で　<feature type="1stpn" gender="male" polite="plain">僕</feature>は今　さわやかな</line>
+    <line><feature type="2ndpn" gender="male">君</feature>だけのプリンスになると　決めたの<feature type="SFP" gender="male">さ</feature></line>
 </chorus>
 <verse>
-<line>グレーのテニスコート　思わず触れた君の手に</line>
-<line>ラケット持つ手止まり　その頬まっ赤に染ったよ</line>
+    <line>グレーのテニスコート　思わず触れた<feature type="2ndpn" gender="male">君</feature>の手に</line>
+    <line>ラケット持つ手止まり　その頬まっ赤に染った<feature type="SFP" gender="female">よ</feature></line>
 </verse>
 
 <bridge>
 <line>ハッとして　サッとひき</line>
 <line>パッと取らう　その瞳</line>
-<line>ふっとして瞬間の　君は天使さ</line>
+    <line>ふっとして瞬間の　<feature type="2ndpn" gender="male">君</feature>は天使<feature type="SFP" gender="male">さ</feature></line>
 </bridge>
 <chorus>
-<line>君と触れた　Sweet Situation</line>
-<line>きらめく高原で　僕は今　君だけに</line>
-<line>心からやさしくなれると　知ったのさ</line>
+    <line><feature type="2ndpn" gender="male">君</feature>と触れた　Sweet Situation</line>
+    <line>きらめく高原で　<feature type="1stpn" gender="male" polite="plain">僕</feature>は今　<feature type="2ndpn" gender="male">君</feature>だけに</line>
+    <line>心からやさしくなれると　知ったの<feature type="SFP" gender="male">さ</feature></line>
 </chorus>
 <bridge>
 <line>ハッとして　グッときて</line>
 <line>パッと目覚める　恋だから</line>
-<line>フッとした瞬間の　君は天使さ</line>
+    <line>フッとした瞬間の　<feature type="2ndpn" gender="male">君</feature>は天使<feature type="SFP" gender="male">さ</feature></line>
 </bridge>
 <chorus>
-<line>君とはずむ　Sweet Situation</line>
-<line>きらめく高原で　僕は今　君をのせ</line>
+    <line><feature type="2ndpn" gender="male">君</feature>とはずむ　Sweet Situation</line>
+    <line>きらめく高原で　<feature type="1stpn" gender="male" polite="plain">僕</feature>は今　<feature type="2ndpn" gender="male">君</feature>をのせ</line>
 <line>二人だけの世界へと　はばたくよ</line>
 </chorus></body></song>

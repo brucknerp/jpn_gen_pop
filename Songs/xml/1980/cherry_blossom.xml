@@ -14,24 +14,24 @@
 </meta>
 <body>
 <verse>
-<line>何もかもめざめてく新しい私</line>
+    <line>何もかもめざめてく新しい<feature type="1stpn" gender="mixed">私</feature></line>
 <line>走り出した船の後　白い波踊ってる</line>
-<line>あなたとの約束が叶うのは明日</line>
+    <line><feature type="2ndpn" gender="mixed">あなた</feature>との約束が叶うのは明日</line>
 <line>胸に抱いた愛の花</line>
-<line>受けとめてくれるでしょう</line>
+    <line>受けとめてくれる<feature type="SFP" gender="mixed">でしょう</feature></line>
 <line>つばめが飛ぶ青い空は</line>
-<line>未来の夢　キャンバスね</line>
+    <line>未来の夢　キャンバス<feature type="SFP" gender="female">ね</feature></line>
 <line>自由な線　自由な色</line>
 <line>描いてゆく二人で</line>
-<line>何もかもめざめてく新しい私</line>
-<line>走り出した愛は　ただあなたへと続いてる</line>
+    <line>何もかもめざめてく新しい<feature type="1stpn" gender="mixed">私</feature></line>
+    <line>走り出した愛は　ただ<feature type="2ndpn" gender="mixed">あなた</feature>へと続いてる</line>
 </verse>
 
 <verse>
 <line>夕日は今　夜のために</line>
-<line>水平線　沈むのよ</line>
-<line>私は今　愛のために</line>
+    <line>水平線　沈む<feature type="SFP" gender="female">のよ</feature></line>
+    <line><feature type="1stpn" gender="mixed">私</feature>は今　愛のために</line>
 <line>激しい風　吹かれて</line>
-<line>何もかもめざめてく新しい私</line>
-<line>走り出した船は　ただあなたへと続いてる</line>
+    <line>何もかもめざめてく新しい<feature type="1stpn" gender="mixed">私</feature></line>
+    <line>走り出した船は　ただ<feature type="2ndpn" gender="mixed">あなた</feature>へと続いてる</line>
 </verse></body></song>

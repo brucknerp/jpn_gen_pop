@@ -14,17 +14,17 @@
 </meta>
 <body>
 <verse>
-<line>わたしは　不幸ぐせ　とれない女と</line>
+    <line><feature type="1stpn" gender="mixed">わたし</feature>は　不幸ぐせ　とれない女と</line>
 <line>この胸に　か細い手をそえて</line>
 <line>あゝ　泣きじゃくる人</line>
-<line>今のおまえが　いればいい</line>
+    <line>今の<feature type="2ndpn" gender="male">おまえ</feature>が　いればいい</line>
 <line>しあわせを　しあわせを</line>
 <line>今日からふたりで</line>
 </verse>
 <verse>
-<line>苦労したんだね　やつれた薬指</line>
-<line>もう二度と　おまえを離さない</line>
-<line>あゝ　涙をおふき</line>
+    <line>苦労した<feature type="SFP" gender="male">だね</feature>　やつれた薬指</line>
+    <line>もう二度と　<feature type="2ndpn" gender="male">おまえ</feature>を離さない</line>
+<line>あゝ　涙を<feature type="hon">お</feature>ふき</line>
 <line>まぶたを　濡らす　泣き癖は</line>
 <line>変わっちゃいないね　あの頃と</line>
 <line>しあわせを　しあわせを</line>
@@ -33,10 +33,10 @@
 
 <verse>
 <line>陽のさす　坂道へ一度でいいから</line>
-<line>目かくしを　おまえにしたままで</line>
-<line>あゝ　連れて行きたいよ</line>
+    <line>目かくしを　<feature type="2ndpn" gender="male">おまえ</feature>にしたままで</line>
+<line>あゝ　連れて行きたい<feature type="SFP" gender="male">よ</feature></line>
 <line>心に　同じ傷をもつ</line>
-<line>似た者どうしさ　俺たちは</line>
+    <line>似た者どうし<feature type="SFP" gender="male">さ</feature>　<feature type="1stpn" gender="male">俺</feature>たちは</line>
 <line>しあわせを　しあわせを</line>
 <line>今日からふたりで</line>
 </verse></body></song>

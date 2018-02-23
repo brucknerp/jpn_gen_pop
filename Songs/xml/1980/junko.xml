@@ -15,29 +15,29 @@
 
 <body>
 <verse>
-<line>離れない　離さない　離したくない君</line>
-<line>いろんな言葉で君に愛を告げてきたけれども</line>
-<line>終わりさ みんな終わりさ　僕のひとりよがり</line>
-<line>君へつないだ心の糸は今プツリと切れた</line>
+    <line>離れない　離さない　離したくない<feature type="2ndpn" gender="male">君</feature></line>
+    <line>いろんな言葉で<feature type="2ndpn" gender="male">君</feature>に愛を告げてきたけれども</line>
+    <line>終わり<feature type="SFP" gender="male">さ</feature> みんな終わり<feature type="SFP" gender="male">さ</feature>　<feature type="1stpn" gender="male" polite="plain">僕</feature>のひとりよがり</line>
+    <line><feature type="2ndpn" gender="male">君</feature>へつないだ心の糸は今プツリと切れた</line>
 </verse>
 <chorus>
-<line>順子　君の名を呼べば僕はせつないよ</line>
-<line>やさしさはいつも僕の前でカラカラから回り</line>
-<line>順子　君の名を呼べば僕はかなしいよ</line>
+    <line>順子　<feature type="2ndpn" gender="male">君</feature>の名を呼べば<feature type="1stpn" gender="male" polite="plain">僕</feature>はせつない<feature type="SFP" gender="male">よ</feature></line>
+    <line>やさしさはいつも<feature type="1stpn" gender="male" polite="plain">僕</feature>の前でカラカラから回り</line>
+    <line>順子　<feature type="2ndpn" gender="male">君</feature>の名を呼べば<feature type="1stpn" gender="male" polite="plain">僕</feature>はかなしい<feature type="SFP" gender="male">よ</feature></line>
 <line>だから心のドアをノックしないで</line>
 </chorus>
 
 <verse>
-<line>嫌いかい　嫌いなんだね　こんな僕の事</line>
+    <line>嫌いかい　嫌いなん<feature type="SFP" gender="male">だね</feature>　こんな<feature type="1stpn" gender="male" polite="plain">僕</feature>の事</line>
 <line>あと2年待つことがそんなにいやだったとはね</line>
-<line>ずるいよ　君はずるいよ　内緒であんな奴と</line>
-<line>僕と比べていたとは冗談のひとつにもなりゃしない</line>
+    <line>ずるい<feature type="SFP" gender="male">よ</feature>　<feature type="2ndpn" gender="male">君</feature>はずるい<feature type="SFP" gender="male">よ</feature>　内緒であんな<feature type="3rdpn" gender="male">奴</feature>と</line>
+    <line><feature type="1stpn" gender="male" polite="plain">僕</feature>と比べていたとは冗談のひとつにもなりゃしない</line>
 </verse>
 
 <chorus>
-<line>順子　君の名を呼べば僕はせつないよ</line>
-<line>やさしさはいつも僕の前でカラカラから回り</line>
-<line>順子　君の名を呼べば僕はかなしいよ</line>
+    <line>順子　<feature type="2ndpn" gender="male">君</feature>の名を呼べば<feature type="1stpn" gender="male" polite="plain">僕</feature>はせつない<feature type="SFP" gender="male">よ</feature></line>
+    <line>やさしさはいつも<feature type="1stpn" gender="male" polite="plain">僕</feature>の前でカラカラから回り</line>
+    <line>順子　<feature type="2ndpn" gender="male">君</feature>の名を呼べば<feature type="1stpn" gender="male" polite="plain">僕</feature>はかなしい<feature type="SFP" gender="male">よ</feature></line>
 <line>だから心のドアをノックしないで</line>
 </chorus>
 </body></song>
