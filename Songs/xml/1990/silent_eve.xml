@@ -1,0 +1,34 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 11-7-1990
+
+歌手　辛島美登里
+Singer Midori Kawashima
+
+作詞 辛島美登里
+Lyricist Midori Kawashima
+
+title サイレント・イブ Silent Eve
+
+真白な粉雪　人は立ち止まり
+心が求める場所を思いだす<feature type="SFP" gen="SF">の</feature>
+いくつも愛を　重ねても　引きよせても
+なぜ　大事な夜にあなたはいない<feature type="SFP" gen="SF">の</feature>
+
+さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain">あなた</feature>のためじゃない
+不安に揺れるキャンドル　悲しかったから
+"ともだち"っていうルールはとても難しいゲーム<feature type="SFP" gen="MF">ね</feature>
+もう二度と二人のことを邪魔したりしない
+
+本当は誰れもが　やさしくなりたい
+それでも　天使に人はなれないから
+瞳をそれさずに　想い出はうるむけれど
+移りゆく季節が　ページをめくる<feature type="SFP" gen="SF">わ</feature>
+
+さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain">あなた</feature>のせいじゃない
+飾った花もカードもみんな Merry Christmas for me
+"ともだち"って微笑むより今は一人で泣かせて<feature type="SFP" gen="N">ね</feature>
+もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent Night
+
+もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent Night</song>

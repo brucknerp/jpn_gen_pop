@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 <meta>
 <title language="japanese">贈る言葉</title>
@@ -17,7 +17,7 @@
 <body>
 <verse>
 <line>暮れなずむ町の　光と影の中</line>
-<line>去りゆく<feature type="2ndpn" gender="mixed">あなた</feature>へ　贈る言葉</line>
+<line>去りゆく<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
 </verse>
 
 <verse>
@@ -29,7 +29,7 @@
 
 <verse>
 <line>さよならだけでは　さびしすぎるから</line>
-<line>愛する<feature type="2ndpn" gender="mixed">あなた</feature>へ　贈る言葉</line>
+<line>愛する<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
 </verse>
 
 <verse>
@@ -45,15 +45,15 @@
 </verse>
 
 <verse>
-<line>はじめて愛した　<feature type="2ndpn" gender="mixed">あなた</feature>のために</line>
+<line>はじめて愛した　<feature type="2p" gen="SM" polite="polite">あなた</feature>のために</line>
     <line>飾りもつけずに　贈る言葉</line>
 </verse>
 
 <verse>
 <line>これから始まる　暮らしの中で</line>
-<line>だれかが<feature type="2ndpn" gender="mixed">あなた</feature>を　愛する<feature type="SFP" gender="mixed">でしょう</feature></line>
-<line>だけど　<feature type="1stpn" gender="mixed">私</feature>ほど　<feature type="2ndpn" gender="mixed">あなた</feature>の事を</line>
-<line>深く愛した　<feature type="3rdpn" gender="male">ヤツ</feature>はいない</line>
+<line>だれかが<feature type="2p" gen="SM" polite="polite">あなた</feature>を　愛する<feature type="SFP" gen="MF">でしょう</feature></line>
+<line>だけど　<feature type="1p" gen="SM" polite="polite">私</feature>ほど　<feature type="2p" gen="SM" polite="polite">あなた</feature>の事を</line>
+<line>深く愛した　<feature type="3p" gen="SM" polite="depr">ヤツ</feature>はいない</line>
 </verse>
     
 <verse>

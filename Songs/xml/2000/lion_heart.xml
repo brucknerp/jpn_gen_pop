@@ -1,0 +1,38 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 8-30-2000
+
+歌手　SMAP
+Singer SMAP
+
+作詞 野島伸司
+Lyricist Shinji Nojima
+
+title らいおんハート Lion Heart
+
+<feature type="2p" gen="SM" polite="plain">君</feature>はいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の薬箱<feature type="SFP" gen="MMN">さ</feature>
+どんな風に<feature type="1p" gen="SM" polite="plain">僕</feature>を癒してくれる
+
+笑うそばから　ほら　その笑顔
+泣いたら　やぱり<feature type="SFP" gen="N">ね</feature>　涙するん<feature type="SFP" gen="MMN">だね</feature>
+
+ありきたりな恋　どうかしてる<feature type="SFP" gen="N">かな
+</feature>
+<feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature type="SFP" gen="MMN">んだ</feature>
+あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる
+眠った横顔　震えるこの胸　Lion Heart
+
+いつか　もし子供が生まれたら
+世界で二番目にスキだと話そう
+
+<feature type="2p" gen="SM" polite="plain">君</feature>もやがてきっと巡り合う
+<feature type="2p" gen="SM" polite="plain">君</feature>のママに出会った　<feature type="1p" gen="SM" polite="plain">僕</feature>のように<feature type="SFP" gen="N">ね</feature>
+
+見せかけの恋に　嘘かさねた過去
+
+失ったものは　みんなみんな埋めてあげる
+この<feature type="1p" gen="SM" polite="plain">僕</feature>に愛を教えてくれたぬくもり
+<feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature type="SFP" gen="MMN">んだ</feature>
+あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる
+眠った横顔　震えるこの胸　Lion Heart</song>

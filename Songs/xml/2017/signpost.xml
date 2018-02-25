@@ -1,0 +1,54 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 1-4-2017
+
+歌手　舞祭組
+Singer Busaiku 
+
+作詞  舞祭組
+Lyricist Busaiku
+
+title 道しるべ　Signpost
+
+<feature type="2p" gen="SM" polite="polite">あなた</feature>からもらった　1000の言葉忘れない
+震えた手　握りしめた　負けない<feature type="SFP" gen="MMN">よ</feature><feature type="1p" gen="SM" polite="plain">僕ら</feature>
+
+<feature type="2p" gen="SM" polite="polite">あなた</feature>といると何故か　全てが上手くいく気がした
+戸惑い　迷い　不安さえも...
+
+本当に２つに割れちゃうなんて　お尻みたいで嫌<feature type="SFP" gen="MMN">だね</feature>嫌<feature type="SFP" gen="MMN">だね</feature>
+そんな冗談も言えないから
+
+<feature type="1p" gen="SM" polite="plain">僕ら</feature>の道を照らしてる
+輝くペリドットが心を繋ぐ絆
+
+ありがとうじゃ足りない<feature type="SFP" gen="SF">の</feature>　思うほど切なく
+声に出して叫び続けた　届く<feature type="SFP" gen="N">かな</feature>
+    これからも<feature type="1p" gen="SM" polite="plain">僕ら</feature>は夢を乗せて走る<feature type="SFP" gen="MMN">よ</feature>
+下手な歌声でも<feature type="2p" gen="SM" polite="polite">あなた</feature>に響くように”ぱにたん”
+
+「もし”この宇宙で一番綺麗なものは何？”と訊かれたら，
+    <feature type="1p" gen="SM" polite="plain">僕</feature>は”<feature type="2p" gen="SM" polite="polite">あなた</feature>の笑顔”と答え<feature type="SFP" gen="N">ます</feature>。
+<feature type="2p" gen="SM" polite="polite">あなた</feature>は笑顔で世界を救えるスーパーマン<feature type="SFP" gen="N">です</feature>から。」
+
+「<feature type="1p" gen="SM" polite="plain">僕</feature>が大好きな人が決めた事だから，受け入れる<feature type="SFP" gen="MMN">よ</feature>。
+    笑顔をくれたように，<feature type="1p" gen="SM" polite="plain">僕</feature>も笑顔を届ける<feature type="SFP" gen="MMN">よ</feature>。
+泣いたって仕方ない。」
+
+「別の道を歩くのは悲しいものじゃない。
+人を成長させるものな<feature type="SFP" gen="MMN">んだ</feature>。
+    <feature type="1p" gen="SM" polite="plain">僕</feature>は前を向いて歩く<feature type="SFP" gen="MMN">よ</feature>。だから，ありがとう。」
+
+「<feature type="2p" gen="SM" polite="polite">あなた</feature>がくれた笑顔の日々が，
+    これからの<feature type="1p" gen="SM" polite="plain">僕</feature>の歩む道を教えてくれた。
+<feature type="1p" gen="SM" polite="plain">僕ら</feature>のたくさんのありがとうを最後まで聴いて下さい。」
+
+前を見よう　振り向かず　<feature type="1p" gen="SM" polite="plain">僕ら</feature>は進める
+心には<feature type="2p" gen="SM" polite="polite">あなた</feature>がいる
+これからも
+
+    <feature type="1p" gen="SM" polite="plain">僕ら</feature>は世界を渡る<feature type="SFP" gen="MMN">よ</feature>　<feature type="2p" gen="SM" polite="polite">あなた</feature>とは違う道で
+もう二度とくるはずのない　この気持ちを
+笑われても大丈夫　泥臭く生きる<feature type="SFP" gen="MMN">よ</feature>
+もう見当たらないその姿　<feature type="1p" gen="SM" polite="plain">僕ら</feature>だけの道しるべ</song>

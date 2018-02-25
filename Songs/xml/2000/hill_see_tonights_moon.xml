@@ -1,0 +1,47 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 2-9-2000
+
+歌手　B'z
+Singer B'z
+
+作詞 稲葉浩志
+Lyricist Koshi Inaba
+
+title 今夜月の見える丘に
+On the kill where we can see tonight's moon
+
+たとえば　どうにかして　<feature type="2p" gen="SM" polite="plain">君</feature>の中　ああ　入っていって
+その瞳から<feature type="1p" gen="SM" polite="plain">僕</feature>をのぞいたら　いろんなことちょっとはわかるかも
+
+愛すれば　愛するほど　霧の中　迷い込んで
+
+手をつないだら　行ってみよう
+燃えるような月の輝く丘に
+迎えにゆくから　そこにいて<feature type="SFP" gen="MMN">よ</feature>
+かけらでもいい
+<feature type="2p" gen="SM" polite="plain">君</feature>の気持ち知るまで　今夜<feature type="1p" gen="SM" polite="plain">僕</feature>は寝ない<feature type="SFP" gen="MMN">よ</feature>
+
+痛いこと　気持ちいいこと　それはみんな人それぞれで
+ちょっとした違いにつまづいて　またしても<feature type="1p" gen="SM" polite="plain">僕</feature>は派手にころんだ
+
+傷ついて　やっとわかる　それでもいい　遅くはない
+
+手をつないだら　行ってみよう
+あやしい星の潜む丘に
+茂みの奥へと進んでゆこう
+怪我してもいい
+はじけるような笑顔の向こう側をみたい<feature type="SFP" gen="MMN">よ</feature>
+
+
+手をつないだら　行ってみよう
+まんまるい月の輝く丘に
+誰もがみんな照らしだされて
+心の模様が空に映ってる
+いつでもそうやって笑ってないで
+かけらでもいい
+<feature type="2p" gen="SM" polite="plain">君</feature>の気持ち知るまで　今夜<feature type="1p" gen="SM" polite="plain">僕</feature>は寝ない<feature type="SFP" gen="MMN">よ</feature>
+
+
+</song>

@@ -1,0 +1,68 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 12-16-2009
+
+歌手　福山雅治
+Singer Masaharu Fukuyama
+
+作詞 福山雅治
+Lyricist Masaharu Fukuyama
+
+title はつ恋
+First love
+
+この想いが<feature type="2p" gen="SM" polite="plain">君</feature>を
+苦しめてしまうとしても
+傷つけてしまうとしても
+<feature type="2p" gen="SM" polite="plain">君</feature>が欲しくて
+
+たがいに手に入れた
+新しい幸せ
+いまこの手で
+壊してしまいそう
+
+帰るべき場所がある
+守るべき人がいる
+愚かすぎる過ちと
+知っているから...
+
+友達ではいられないことも
+恋人には戻れないことも
+わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を
+永遠の　はつ恋と呼ばせて
+
+また　ひとり読み返してる
+誕生日に<feature type="2p" gen="SM" polite="plain">君</feature>がくれた手紙
+ささやかな<feature type="2p" gen="SM" polite="plain">君</feature>の夢が
+胸を掻きむしる
+
+<feature type="2p" gen="SM" polite="plain">君</feature>が抱えていた
+消えぬ愛の傷跡
+触れないことが
+やさしさと思ってた
+
+どんなに大切でも
+言葉にもカタチにも出来なけりゃ
+やさしさなど不意味<feature type="SFP" gen="MMN">さ</feature>
+
+ずっと探してた　これが愛ならば
+愛の謎はもう解き明かしてる
+叶わぬけれど　かけがえのない想いを
+ひとり抱きしめて生きる<feature type="SFP" gen="MMN">よ</feature>
+
+時間はいつか
+この恋に答えをくれる<feature type="SFP" gen="N">の</feature>？
+もう一度　あの日のように
+人を愛することなど出来る<feature type="SFP" gen="N">の</feature>？
+
+友達ではいられないことも
+恋人には戻れないことも
+わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を
+永遠の　はつ恋と呼ばせて
+せめて　はつ恋と呼ばせて
+永遠の　はつ恋と呼ばせて
+
+
+
+</song>

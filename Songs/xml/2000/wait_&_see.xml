@@ -1,0 +1,76 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 4-19-2000
+
+歌手　宇多田ヒカル
+Singer Hikaru Utada
+
+作詞 宇多田ヒカル
+Lyricist Hikaru Utada
+
+title Wait &amp; See~リスク~ (~risk~)
+
+だって「つまずきながら」って
+口で言う程　楽じゃないはず<feature type="SFP" gen="MF">でしょ</feature>
+待って
+もう少し分かってくれたらきっと
+もっといい雨が降るから
+
+勝手。
+そう呼ばれちゃって
+時々孤独　感じても大丈夫
+二人で出した答に乗り込んで
+曇り空を追い抜くから
+
+廻らないタイヤが目の前に
+並んでるけど
+Accel 踏まずにいるのは誰<feature type="SFP" gen="N">だろうね</feature>
+矛盾屋
+
+Oh baby wait and see
+たまには痛さもいい<feature type="SFP" gen="MMN">よね</feature>
+リスクがあるからこそ
+信じることに意味がある<feature type="SFP" gen="MMN">のさ</feature>
+迷わないなんて無理
+Oh baby can't you see
+待つのは得意じゃないけど
+決めつけるのは早すぎる<feature type="SFP" gen="MMN">んだ</feature>
+占いなんて信じたりしないで
+
+愛情
+向かって左に欠乏
+だから<feature type="2p" gen="SM" polite="plain">君</feature>が必要
+冷たい態度で自分を
+守ってるつもり<feature type="SFP" gen="SF">なの</feature>？
+
+変えられないものを受け入れる力
+そして受け入れられないものを
+変える力をちょうだい<feature type="SFP" gen="MMN">よ</feature>
+
+Oh baby wait and see
+やっぱ痛いのはイヤだけど
+リスクがあるからこそ
+戦う程に強くなる<feature type="SFP" gen="MMN">のさ</feature>
+怖れないなんて無理
+Oh baby can't you see
+待つのは得意じゃないけど
+決めつけるのは早すぎる<feature type="SFP" gen="MMN">んだ</feature>
+占いなんて信じたりしないで
+
+So baby wait and see
+癒せない傷なんてない
+リスクがあるからこそ
+愛する程にせつないの<feature type="SFP" gen="N">かな</feature>
+そんなに悪くはない
+どこか遠くへ
+逃げたら楽になるの<feature type="SFP" gen="N">かな</feature>
+そんなわけ無い<feature type="SFP" gen="MMN">よね</feature>
+    どこにいたって<feature type="1p" gen="SF" polite="plain">私</feature>は<feature type="1p" gen="SF" polite="plain">私</feature>なんだから
+
+キーが高すぎるなら下げてもいい<feature type="SFP" gen="MMN">よ</feature>
+歌は変わらない強さ持ってる
+悩みなんて一つの通過点
+大きすぎるけどブレスレットのように　するり
+
+Don't believe until you see all there is to see...</song>

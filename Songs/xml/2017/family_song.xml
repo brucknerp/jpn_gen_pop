@@ -1,0 +1,64 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 8-16-2017
+
+歌手　星野源 
+Singer Gen Hoshino
+
+作詞  岡嶋 星野源 
+Lyricist Gen Hoshino
+
+title Family Song
+
+目が覚めて涎を拭いたら
+窓辺に光が微笑んでた
+空の青　踊る緑の葉
+畳んだタオルの痕
+
+救急車のサイレンが
+胸の糸を締めるから
+夕方のメロディに
+想い乗せて届けてくれない<feature type="SFP" gen="N">か</feature>
+
+ただ　幸せが
+一日でも多く
+側にありますように
+悲しみは
+次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
+橋になりますように
+遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature>
+
+出会いに意味などないけれど
+血の色　形も違うけれど
+いつまでも側にいろことが
+できたらいい<feature type="SFP" gen="MMN">だろうな</feature>
+
+遠きビルに日が跳ねて
+帰り道を照らすように
+道頭のメロディに
+祈りのせて届けてくれない<feature type="SFP" gen="N">か</feature>
+
+ただ　幸せが
+一日でも多く
+側にありますように
+悲しみは
+次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
+架け橋になるように
+
+    <feature type="2p" gen="SM" polite="polite">あなた</feature>は　何処でも行ける
+    <feature type="2p" gen="SM" polite="polite">あなた</feature>は　何にでもなれる
+
+ただ　幸せが
+一日でも多く
+側にありますように
+悲しみは
+次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
+橋になりますように
+
+微笑みが
+一日でも多く
+側にありますように
+涙の味は
+橋になりますように
+遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></song>

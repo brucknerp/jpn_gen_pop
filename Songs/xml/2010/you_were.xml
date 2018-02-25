@@ -1,0 +1,46 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 12-29-2009
+
+歌手　浜崎あゆみ
+Singer Ayumi hamasaki
+
+作詞 ayumi hamasaki
+Lyricist ayumi hamasaki
+
+title you were...
+
+すれ違う恋人達が　肩を寄せ合い歩いてく
+冷たさが身に染みるのは　<feature type="2p" gen="SM" polite="plain">君</feature>が居ないから
+
+季節さえ忘れる位　他に何もいらない位
+そう夢中で輝いたのは　恋をしていたから
+
+<feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った
+<feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった
+こんな広い夜空の下ひとり
+一体何を想えばいい<feature type="SFP" gen="N">の</feature>
+
+今誰の隣で笑顔　見せているの<feature type="SFP" gen="N" quote="yes">かな</feature>だなんて
+ねぇねぇどれ程時がたったら　苦しみは終わるの<feature type="SFP" gen="N">かな</feature>
+
+いつか話してた夢の続きも
+いつも言っていたあの口癖も
+全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature>
+だけどひとつも忘れたくない
+
+静寂に包まれた　瞬間に襲ってくる
+優しくて温かすぎる　想い出が
+
+<feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った
+<feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった
+こんな広い夜空の下ひとり
+一体何を想えばいい<feature type="SFP" gen="N">の</feature>
+
+いつか話してた夢の続きも
+いつも言っていたあの口癖も
+全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature>
+だけどひとつも忘れたくない
+
+だけどひとつも　忘れたくない</song>

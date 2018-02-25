@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song><meta><title language="japanese">ダンシング・オールナイト</title>
 <title language="english">Dancing All Night</title>
 

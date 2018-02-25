@@ -1,0 +1,48 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 1-19-2000
+
+歌手　L'Arc~ en~ Ciel
+Singer L'Arc~ en~ Ciel
+
+作詞 hyde
+Lyricist hyde
+
+title NEO UNIVERSE
+
+傾きかけた天秤の上へ
+築き上げてく天よりも高く
+
+そんな飛べない無邪気な天使にも
+朝は届く鮮やかに
+
+その手を放さないで
+目覚めるこの世界を感じて
+
+ひび割れそうでも透明なままで
+昨日照らず待っていた<feature type="SFP" gen="MMN">んだね</feature>
+
+夢を見ていた奇跡はもう来ないけど
+違い空が導いて
+
+<feature type="2p" gen="SM" polite="polite">あなた</feature>は風のように優しく
+鳥のように自由に
+この世界をはばたく
+恐がらずに　neo universe
+
+悲劇だとしても
+    <feature type="2p" gen="SM" polite="polite">あなた</feature>に巡り会えてよかった
+
+背中合わせの絶望をゆだねた
+信じていたい　いつまでも
+
+きれいな花のように笑って
+星のように輝いて
+その世界をはばたく
+恐がらずに neo universe
+
+生まれ変わる季節<feature type="SFP" gen="SF">よ</feature>
+    切なすぎた季節<feature type="SFP" gen="SF">よ</feature>
+空のように一つに
+結ばれよう　neo universe</song>

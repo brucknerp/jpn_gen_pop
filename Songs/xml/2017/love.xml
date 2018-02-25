@@ -1,0 +1,41 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 9-4-2017
+
+歌手 中島みゆき
+Singer Miyuki Nakajima
+
+作詞  中島みゆき 
+Lyricist Miyuki Nakajima
+
+title 慕情
+    Love
+
+愛より急ぐものが　どこにあったの<feature type="SFP" gen="N">だろう</feature>
+愛を後回しにして何を急いだの<feature type="SFP" gen="N">だろう</feature>
+甘えてはいけない　時に情けは無い
+手離してならぬ筈の何かを　間違える<feature type="SFP" gen="MMN">な</feature>
+振り向く景色はあまりに遠い
+もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain">あなた</feature>と歩きだせるなら
+もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい
+
+海から産まれて来た　それは知ってるのに
+どこへ流れ着くのかを知らなくて怯えた
+生き残る歳月　ひとりで歩ける<feature type="SFP" gen="N">かな</feature>
+    生き残らない歳月　ひとりで歩ける<feature type="SFP" gen="N">かな</feature>
+限りない愚かさ　限りない慕情
+もいちど出逢いから　もしも<feature type="2p" gen="SF" polite="plain">あなた</feature>と歩きだせるなら
+もいちど出逢いから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい
+
+少し嬉しかった事や　少し悲しかった事で
+明日の行方は　たやすくたやすく
+翻るものだから
+甘えてはいけない　時に情けは無い
+手離してならぬ筈の何かを　間違える<feature type="SFP" gen="MMN">な</feature>
+
+限りない愚かさ　限りない慕情
+もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain">あなた</feature>と歩きだせるなら
+もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい
+もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain">あなた</feature>と歩きだせるなら
+もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい</song>

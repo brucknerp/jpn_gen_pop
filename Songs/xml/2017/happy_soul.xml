@@ -1,0 +1,67 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 3-8-2017
+
+歌手　3代目 J soul brothers from EXILE TRIBE
+Singer 3rd Generation J Soul Brothers from EXILE TRIBE
+
+作詞 今市隆二　小竹正人
+Lyricist Ryuji Imaicji  Masato Kodake
+
+title HAPPY
+
+ネガティブを吹き飛ばしたら
+ポジティブになるってことを
+時にEverybody 忘れがちで...
+案外何でも Time will make it better
+
+決して変わらない　そんなものはない
+Let's go Let it go We have to go
+Because a day to shine must be waiting
+楽しむことで笑顔が生まれ
+そうしてもう未来泳法ハッピーなライフ
+
+Why don't you come on? いつまでも　(Na Na Na...)
+<feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La Life)
+人生 Happy Happy Happyに行こう
+ずっとどこまでも
+Are you ready to go? Are you ready to go? 
+And get happy!
+
+    <feature type="1p" gen="SM" polite="plain">僕たち</feature>が進んできた道
+乗り越えてきたDramatic road
+時にUp and down ゆえにUp side down
+いいことばっかじゃなかったNight and day
+
+また迷っても　光射すから
+Let's go Let it go We have to go
+Because the rain will stop surely soon
+    <feature type="2p" gen="SM" polite="plain">君</feature>が泣いても　<feature type="1p" gen="SM" polite="plain">僕</feature>が笑う
+だからもう未来永劫ハッピーなラブ
+
+Why don't you come on? いつまでも　(Na Na Na...)
+    <feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La Life)
+みんな Happy Happy Happyに行こう
+軽快な足取りで
+Are you ready to go? Are you ready to go? 
+And get happy!
+
+Baby baby <feature type="2p" gen="SM" polite="plain">君</feature>は本当にHappy?
+Be my baby 自分で決めるのがHappy
+悩みなんて七転び八起きで
+Through Through Yeah Yeah Yeah
+
+いつまでも　(Na Na Na...)
+    <feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La Life)
+人生 Happy Happy Happyに行こう
+ずっとどこまでも
+Are you ready to go? Are you ready to go? 
+And get happy!
+
+これからも　(Na Na Na...)
+そうさ抱き合って　(La La La La La Life)
+みんな Happy Happy Happyになろう
+軽快な足取りで
+Are you ready to go? Are you ready to go? 
+And get happy!</song>

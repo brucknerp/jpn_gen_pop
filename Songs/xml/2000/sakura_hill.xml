@@ -1,0 +1,55 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 4-26-2000
+
+歌手　福山雅治
+Singer Masaharu Fukuyama
+
+作詞 福山雅治
+Lyricist Masaharu Fukuyama
+
+title 桜坂 Cherry Blossom Hill
+
+<feature type="2p" gen="SM" polite="plain">君</feature><feature type="SFP" gen="SF">よ</feature>ずっと幸せに
+風にそっと歌う<feature type="SFP" gen="MMN">よ</feature>
+愛は今も　愛のままで
+
+揺れる木漏れ日　薫る桜坂
+悲しみに似た　薄紅色
+
+    <feature type="2p" gen="SM" polite="plain">君</feature>がいたい　恋をしていた
+    <feature type="2p" gen="SM" polite="plain">君</feature>じゃなきゃダメなのに
+ひとつになれず
+
+愛と知っていたのに
+春はやってくるのに
+夢は今も　夢のままで
+
+頰にくちづけ　染まる桜坂
+抱きしめたい気持ちでいっぱいだった
+
+この街で　ずっとふたりで
+無邪気過ぎた約束
+涙に変わる
+
+
+愛と知っていたのに
+花はそっと咲くのに
+    <feature type="2p" gen="SM" polite="plain">君</feature>は今も　<feature type="2p" gen="SM" polite="plain">君</feature>のままで
+
+逢えないけど
+季節は変わるけど
+愛しき人
+
+    <feature type="2p" gen="SM" polite="plain">君</feature>だけが　わかってくれた
+憧れを追いかけた
+<feature type="1p" gen="SM" polite="plain">僕</feature>は生きる<feature type="SFP" gen="MMN">よ</feature>
+
+愛と知っていたのに
+春はやってくるのに
+夢は今も　夢のままで
+
+    <feature type="2p" gen="SM" polite="plain">君</feature>よずっと幸せに
+風にそっと歌う<feature type="SFP" gen="MMN">よ</feature>
+愛は今も　愛のままで</song>

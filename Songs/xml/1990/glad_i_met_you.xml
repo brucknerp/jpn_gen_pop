@@ -1,0 +1,48 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 5-1991
+
+歌手　小泉今日子
+Singer Kyouko Koizumi
+
+作詞 小泉今日子
+Lyricist Kyouko Koizumi
+
+title あなたに会えてよかった
+I'm glad I met you
+
+サヨナラさえ　上手に言えなかった
+Ah <feature type="2p" gen="SF" polite="plain">あなた</feature>の愛を　信じられず　おびえていた<feature type="SFP" gen="SF">の</feature>
+時がすぎて　今　心から言える
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain"><feature type="1p" gen="SF" polite="plain">私</feature></feature>
+
+淋しい夜　そばに居てくれた<feature type="SFP" gen="N">ね</feature>
+    言葉に出来ない気持ち　わかってくれた<feature type="SFP" gen="N">ね</feature>
+何にも言えず　ただ　泣いてるだけで
+本当の気持ち　いつでも　言えたなら
+そばに居れた<feature type="SFP" gen="N">ね</feature>　ずっと
+
+サヨナラさえ　上手に言えなかった
+Ah <feature type="2p" gen="SF" polite="plain">あなた</feature>の愛を　答えられず　逃げてごめん<feature type="SFP" gen="N">ね</feature>
+時が過ぎて　今　心から言える
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain">私</feature>
+
+切ない夜　キレイに写った<feature type="SFP" gen="N">ね</feature>
+    こわれそうで　大切に抱きしめあった<feature type="SFP" gen="N">ね</feature>
+余裕がなくて　ただ　自信がなくて
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>のゆれる気持ちに　気づかない
+ふりをしてた<feature type="SFP" gen="SF">の</feature>　ずっと
+
+追いかけた　夢が叶うようにと
+ねぇ　どこかで　そっと
+祈ってる　<feature type="2p" gen="SF" polite="plain">あなた</feature>のために
+遠い空に輝く星のように
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>は　ずっと　そのままで　変わらないで
+
+思い出が　星になる...
+
+時が過ぎて　今　心から言える
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain">私</feature>
+
+世界で一番　素敵な恋をした<feature type="SFP" gen="N">ね</feature></song>

@@ -1,0 +1,45 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 7-17-1990
+
+歌手　中森明菜
+Singer Akina Nakamori
+
+作詞 伊東真由美
+Lyricist Mayumi Itou
+
+title Dear Friend
+
+回転ドアの向こうで
+手を振る　彼女の影
+たぶん誰も　気づかない
+ほほえみ…失くしてるなんて
+気弱なうすいrougeの溜息…らしくない<feature type="SFP" gen="SF">わ</feature>
+思い出して！見つめる<feature type="SFP" gen="SF">の</feature>
+瞳の奥にある　かがやきを
+
+Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる
+ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature>
+Dream もっと気ままに　ダイス投げる時
+新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you
+
+誰かに　振り回されて　泣くのは似合わない<feature type="SFP" gen="SF">わ</feature>　For you
+思い出して！　ほほえんで
+その胸の鼓動を確かめて
+Chance そう<feature type="SFP" gen="SF">よ</feature>
+わがままな　視線が魅きつける
+想いは　ちがう風　よぶはず
+Chance きっと
+待ってるだけじゃ　タイクツ<feature type="SFP" gen="MF">ね</feature>
+新しい波... 起こす時<feature type="SFP" gen="SF">よ</feature>　For you
+
+Uh You make me smile again ほほえみを
+Uh You make me love again もう一度
+Uh you make me smile again ほほえみを　
+
+Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる
+    ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature>
+Dream もっと　気ままに　ダイス投げるとき
+新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you　For you
+</song>

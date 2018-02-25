@@ -1,0 +1,53 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender M
+
+release date 5-16-1990
+
+歌手　氷室京介
+Singer Kyosuke Himuro
+
+作詞 氷室京介, 松井五郎
+Lyricist Kyosuke Himuro, Gorou Matsui
+
+title JEALOUSYを眠らせて　let jealousy sleep
+
+抱き合う指に　眠れないジェラシー
+
+風を追い越して Midnight Cruise
+今ふたりは　流れ星に変わる<feature type="SFP" gen="MMN">のさ</feature>
+足りない言葉のすきまを KISSで埋めて
+永遠を　踊るだけ
+I can't stop my Heart
+ワインの海に唇をぬらして
+誰も来ない夜へ
+
+抱き合う指に　眠れないジェラシー
+<feature type="2p" gen="SM" polite="depr">おまえ</feature>のすべてを　奪うものがあれば　許せない
+Baby I'm in blue いつだってジェラシー
+離しはしない<feature type="SFP" gen="MMN">さ</feature>　Just fall in love
+この世界が終わっても...
+
+シーツのDressにくるまって　今<feature type="2p" gen="SM" polite="depr">おまえ</feature>は
+まどろみを続けてる
+そして　真夜中のランゲブー
+何度目かの運命に　出会う<feature type="SFP" gen="N">だろう</feature>
+I can't stop my heart
+言葉の鎖を　溜息でほどいて
+肌に溶けていた
+
+抱き合う指に　眠れないジェラシー
+なくした記憶を　甘い予感に変えて　始めよう
+Baby I'm in blue いつだってジェラシー
+確かめていた　Just fall in love
+ときめきは消せない
+
+I can't stop my heart
+欲しいものを　すべて知りたい<feature type="SFP" gen="MMN">のさ</feature>
+熱い夜のために
+
+抱き合う指に　眠れないジェラシー
+    <feature type="2p" gen="SM" polite="depr">おまえ</feature>のすべてを　奪うものがあれば　許せない
+Baby I'm in blue いつだってジェラシー
+離しはしない<feature type="SFP" gen="MMN">さ</feature>　Just fall in love
+この世界が終わっても...
+</song>

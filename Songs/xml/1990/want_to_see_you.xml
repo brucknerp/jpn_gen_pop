@@ -1,0 +1,64 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 6-27-1990
+
+歌手　沢田知可子
+Singer Chikaco Sawada
+
+作詞 沢ちひろ
+Lyricist Sawa Chihiro
+
+title 会いたい　I want to see you
+
+ビルが見える教室で
+ふたりは机　並べて
+同じ月日を過ごした
+少しの英語と
+バスケット　そして
+<feature type="1p" gen="SF" polite="plain">私</feature>は<feature type="2p" gen="SF" polite="plain">あなた</feature>と恋を覚えた
+
+卒業しても<feature type="1p" gen="SF" polite="plain">私</feature>を
+子供扱いした<feature type="SFP" gen="MMN">よね</feature>
+    「遠くへ行く<feature type="SFP" gen="MMN" quote="yes">なよ</feature>」と
+半分笑って　半分　真顔で
+抱き寄せた
+
+低い雲を広げた　冬の夜
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>　夢のように
+死んでしまった<feature type="SFP" gen="SF">の</feature>
+
+今年も海へ行くって
+いっぱい　映画も観るって
+約束したじゃない
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない
+会いたい...
+
+波打ち際　すすんでは
+不意にあきらめて戻る
+海辺をただひとり
+怒りたい<feature type="SFP" gen="N">のか</feature>　泣きたい<feature type="SFP" gen="N">のか</feature>
+わからずに　歩いてる
+
+声をかける人を　つい見つめる
+彼が<feature type="2p" gen="SF" polite="plain">あなた</feature>だったら
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>だったなら
+
+強がる肩をつかんで
+バカ<feature type="SFP" gen="MMN" quote="yes">だな</feature>って叱って
+優しくKissをして
+嘘<feature type="SFP" gen="MMN" quote="yes">だよ</feature>って　抱きしめていて
+会いたい...
+
+遠くへ行く<feature type="SFP" gen="MMN" quote="yes">な</feature>と言って
+お願い一人でにしないで
+強く　抱き締めて
+    <feature type="1p" gen="SF" polite="plain">私</feature>のそばで生きていて
+
+今年も海へ行くって
+いっぱい　映画も観るって
+約束したじゃない
+    <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない
+会いたい...
+
+</song>

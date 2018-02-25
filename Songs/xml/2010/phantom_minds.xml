@@ -1,0 +1,51 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 1-13-2010
+
+歌手　水樹 奈々
+Singer　Nana Mizuki
+
+作詞 水樹 奈々
+Lyricist Nana Mizuki
+
+title Phantom Minds
+
+いつも探してた<feature type="SFP" gen="MMN">んだ</feature>　本当の笑顔溢れる場所 
+微かなその温もりに未来を映して動けずいた 
+見えない明日に希望を重ねて 
+不安な夜を繰り返すより 
+今ここにある小さな幸せを守りたい 
+
+蒼く澄んだ瞳に浮かぶ　名前もない星空に 
+<feature type="1p" gen="SM" polite="plain">僕</feature>だけが知ってる夢の座標-星座-をそっと記す 
+例え深い闇の中　消えてしまったとしても 
+<feature type="2p" gen="SM" polite="plain">君</feature>へと続くこの記憶は決してなくすことない<feature type="SFP" gen="SF">よ</feature> 
+
+「教えて…？」　<feature type="2p" gen="SM" polite="plain">君</feature>が初めて触れた<feature type="1p" gen="SM" polite="plain">僕</feature>の心の扉 
+一人で過ごす時間にいつの間に慣れてしまっていた 
+
+胸を刺す痛み　届かない思い 
+気付かないように嘘をついた 
+寂しさに理由なんてあるはずないと思ってた 
+
+あの日出会った奇跡は 
+誰にも想像できない物語のプロローグに繋がっていく 
+ありふれた言葉でもいい真っ直ぐに伝えたい<feature type="SFP" gen="MMN">よ</feature> 
+    <feature type="2p" gen="SM" polite="plain">君</feature>の元へと羽撃いていく 
+「行こう…」もう迷わない 
+
+どこかで終わり望んでいた…？ 
+行く先さえわからなくて 
+    <feature type="2p" gen="SM" polite="plain">君</feature>の声が聞こえる 
+「始まり」を告げる<feature type="SFP" gen="MMN">よ</feature>
+
+蒼く澄んだ瞳に浮かぶ　名前もない星空に 
+二人だけの秘密の夢の座標-星座-を描く<feature type="SFP" gen="MMN">よ</feature> 
+
+あの日出会った奇跡は 
+誰にも想像できない物語のプロローグに繋がっていく 
+ありふれた言葉でもいい　真っ直ぐに伝えたい<feature type="SFP" gen="MMN">よ</feature> 
+    <feature type="2p" gen="SM" polite="plain">君</feature>の元へと羽撃いていく 
+ずっと傍にいるから… 
+</song>

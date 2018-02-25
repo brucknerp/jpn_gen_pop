@@ -1,0 +1,53 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>さよなら人類
+Goodbye Humanity
+
+歌手　たま
+Singer Tama
+
+作詞 柳原幼一郎
+Lyricist Youichiro Yanagihara
+
+release date 5-5-1990
+
+gender M
+
+二酸化炭素をはきだして あの子が呼吸をしている<feature type="SFP" gen="MMN">よ</feature>
+どん天もようの空の下　つぼみのままでゆれながら
+野良犬は<feature type="1p" gen="SM" polite="plain">僕</feature>の骨くわえ　野生の力をためしてる
+路地裏に月がおっこちて　犬の目玉は四角<feature type="SFP" gen="MMN">だよ</feature>
+
+今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature>
+    ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature>
+
+アラビアの笛の音ひびく　街のはずれの夢のあと
+つばさをなくしたペガサスが
+夜空にはしごをかけている
+武器をかついだ兵隊さん　南にゆこうとしてるけど
+サーベルの音はチャラチャラと　街の空気を汚してる
+
+今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature>
+    ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature>
+
+歌をわすれた　カナリア
+牛をわすれた　牛小屋
+こわれた磁石を　ひろい集める博士は　まるはげ<feature type="SFP" gen="MMN">さ</feature>
+
+あのこは花火をうちあげて　この日がきたのを祝ってる
+冬の花火は強すぎて　<feature type="1p" gen="SM" polite="plain">僕ら</feature>の身体はくだけちる
+    ブーゲンビルアの木の下で　<feature type="1p" gen="SM" polite="plain">僕</feature>はあのこを探すけど
+月の光にじゃまされて　あのこのカケラはみつからない
+
+今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature>
+    ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature>
+今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature>
+    ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature>
+
+さるにはなりたくない　さるにはなりたくない
+こわれた磁石を　砂浜でひろっているだけ<feature type="SFP" gen="MMN">さ</feature>
+
+今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature>
+    ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature>
+
+さるに　なる<feature type="SFP" gen="MMN">よ</feature>　さるに　なる<feature type="SFP" gen="MMN">よ</feature>
+</song>

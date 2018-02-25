@@ -1,0 +1,43 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>gender F
+
+release date 6-7-2000
+
+歌手　浜崎あゆみ
+Singer Ayumi Hamasaki
+
+作詞 浜崎あゆみ
+Lyricist Ayumi Hamasaki
+
+title SEASONS
+
+今年もひとつ季節が巡って
+思い出はまた遠くなった
+曖昧だった夢と現実の
+境界線は濃くなった
+
+それでもいつか<feature type="2p" gen="SM" polite="plain">君</feature>に話した
+夢に嘘はひとつもなかった
+La La-i
+
+今日がとても楽しいと
+明日もきっと楽しく
+そんな日々は続いてく
+そう思っていたあの頃
+
+繰り返してく毎日に少し
+物足りなさを感じながら
+
+不自然な時代のせい<feature type="SFP" gen="MMN">だよ</feature>と
+先回りして諦めていた
+La La-i
+
+今日がとても悲しくて
+明日もしも泣いていても
+そんな日々もあった<feature type="SFP" gen="N">ね</feature>と
+笑える日が来る<feature type="SFP" gen="N">だろう</feature>
+
+幾度巡り巡りゆく
+限りある季節の中に
+<feature type="1p" gen="SM" polite="plain">僕ら</feature>は今生きていて
+そして何を見つける<feature type="SFP" gen="N">だろう</feature></song>
