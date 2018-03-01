@@ -25,11 +25,14 @@
         <verse>
             <line>忘れるために訪れた海辺の街</line>
             <line>ちぎれた愛が指に髪に離れない</line>
-            <line>泣き虫なのは<feature type="2p" gen="SM" polite="plain">あなた</feature>のせい<feature type="SFP" gen="SF">よ</feature></line>
+            <line>泣き虫なのは<feature type="2p" gen="SM" polite="plain">あなた</feature>のせい<feature
+                    type="SFP" gen="SF">よ</feature></line>
             <line>ふるえる心愛のせい<feature type="SFP" gen="SF">なの</feature></line>
             <line>冷たい砂足跡ふり返れば</line>
             <line>遠くでほほえむ</line>
-            <line><feature type="2p" gen="SM" polite="plain">あなた</feature>を<feature type="2p" gen="SM" polite="plain">あなた</feature>を感じてる<feature type="SFP" gen="SF">わ</feature></line>
+            <line><feature type="2p" gen="SM" polite="plain">あなた</feature>を<feature type="2p"
+                    gen="SM" polite="plain">あなた</feature>を感じてる<feature type="SFP" gen="SF"
+                    >わ</feature></line>
         </verse>
 
         <chorus>
@@ -42,7 +45,8 @@
         <verse>
             <line>恋する切符を手にいれたこの渚で</line>
             <line>ひとつのソーダにストローが二本揺れてた</line>
-            <line>泣き虫なのは<feature type="2p" gen="SM" polite="plain">あなた</feature>のせい<feature type="SFP" gen="SF">よ</feature></line>
+            <line>泣き虫なのは<feature type="2p" gen="SM" polite="plain">あなた</feature>のせい<feature
+                    type="SFP" gen="SF">よ</feature></line>
             <line>心のあざは愛のせい<feature type="SFP" gen="SF">なの</feature></line>
             <line>冷たい秋ひとりぼっちの夕暮れ</line>
             <line>遠くまでほほえむ</line>

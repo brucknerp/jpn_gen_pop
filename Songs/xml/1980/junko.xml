@@ -1,43 +1,58 @@
 ﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-<meta>
-<title language="japanese">曲名 順子</title>
-<title language="english">junko</title>
+    <meta>
+        <title language="japanese">曲名 順子</title>
+        <title language="english">junko</title>
 
-<singer language="japanese" gender="male">長渕剛</singer>
-<singer language="japanese" gender="male">Tsuyoshi Nagabuchi</singer>
+        <singer language="japanese" gender="male">長渕剛</singer>
+        <singer language="japanese" gender="male">Tsuyoshi Nagabuchi</singer>
 
-<lyricist language="japanese" gender="male">長渕剛</lyricist>
-<lyricist language="english" gender="male">Tsuyoshi Nagabuchi</lyricist>
-<release>1980</release>
+        <lyricist language="japanese" gender="male">長渕剛</lyricist>
+        <lyricist language="english" gender="male">Tsuyoshi Nagabuchi</lyricist>
+        <release>1980</release>
 
-</meta>
+    </meta>
 
-<body>
-<verse>
-    <line>離れない　離さない　離したくない<feature type="2p" gen="SM" polite="plain">君</feature></line>
-    <line>いろんな言葉で<feature type="2p" gen="SM" polite="plain">君</feature>に愛を告げてきたけれども</line>
-    <line>終わり<feature type="SFP" gen="MMN">さ</feature> みんな終わり<feature type="SFP" gen="MMN">さ</feature>　<feature type="1p" gen="SM" polite="plain">僕</feature>のひとりよがり</line>
-    <line><feature type="2p" gen="SM" polite="plain">君</feature>へつないだ心の糸は今プツリと切れた</line>
-</verse>
-<chorus>
-    <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p" gen="SM" polite="plain">僕</feature>はせつない<feature type="SFP" gen="MMN">よ</feature></line>
-    <line>やさしさはいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の前でカラカラから回り</line>
-    <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p" gen="SM" polite="plain">僕</feature>はかなしい<feature type="SFP" gen="MMN">よ</feature></line>
-<line>だから心のドアをノックしないで</line>
-</chorus>
+    <body>
+        <verse>
+            <line>離れない　離さない　離したくない<feature type="2p" gen="SM" polite="plain">君</feature></line>
+            <line>いろんな言葉で<feature type="2p" gen="SM" polite="plain">君</feature>に愛を告げてきたけれども</line>
+            <line>終わり<feature type="SFP" gen="MMN">さ</feature> みんな終わり<feature type="SFP" gen="MMN"
+                    >さ</feature>　<feature type="1p" gen="SM" polite="plain"
+                >僕</feature>のひとりよがり</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>へつないだ心の糸は今プツリと切れた</line>
+        </verse>
+        <chorus>
+            <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>はせつない<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+            <line>やさしさはいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の前でカラカラから回り</line>
+            <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>はかなしい<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+            <line>だから心のドアをノックしないで</line>
+        </chorus>
 
-<verse>
-    <line>嫌いかい　嫌いなん<feature type="SFP" gen="MMN">だね</feature>　こんな<feature type="1p" gen="SM" polite="plain">僕</feature>の事</line>
-<line>あと2年待つことがそんなにいやだったとはね</line>
-    <line>ずるい<feature type="SFP" gen="MMN">よ</feature>　<feature type="2p" gen="SM" polite="plain">君</feature>はずるい<feature type="SFP" gen="MMN">よ</feature>　内緒であんな<feature type="3p" gen="SM">奴</feature>と</line>
-    <line><feature type="1p" gen="SM" polite="plain">僕</feature>と比べていたとは冗談のひとつにもなりゃしない</line>
-</verse>
+        <verse>
+            <line>嫌いかい　嫌いなん<feature type="SFP" gen="MMN">だね</feature>　こんな<feature type="1p" gen="SM"
+                    polite="plain">僕</feature>の事</line>
+            <line>あと2年待つことがそんなにいやだったとはね</line>
+            <line>ずるい<feature type="SFP" gen="MMN">よ</feature>　<feature type="2p" gen="SM"
+                    polite="plain">君</feature>はずるい<feature type="SFP" gen="MMN"
+                    >よ</feature>　内緒であんな<feature type="3p" gen="SM">奴</feature>と</line>
+            <line><feature type="1p" gen="SM" polite="plain"
+                >僕</feature>と比べていたとは冗談のひとつにもなりゃしない</line>
+        </verse>
 
-<chorus>
-    <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p" gen="SM" polite="plain">僕</feature>はせつない<feature type="SFP" gen="MMN">よ</feature></line>
-    <line>やさしさはいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の前でカラカラから回り</line>
-    <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p" gen="SM" polite="plain">僕</feature>はかなしい<feature type="SFP" gen="MMN">よ</feature></line>
-<line>だから心のドアをノックしないで</line>
-</chorus>
-</body></song>
+        <chorus>
+            <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>はせつない<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+            <line>やさしさはいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の前でカラカラから回り</line>
+            <line>順子　<feature type="2p" gen="SM" polite="plain">君</feature>の名を呼べば<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>はかなしい<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+            <line>だから心のドアをノックしないで</line>
+        </chorus>
+    </body>
+</song>

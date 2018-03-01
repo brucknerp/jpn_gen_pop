@@ -1,64 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-<meta>
-<title language="japanese">贈る言葉</title>
-<title language="english">words to send off</title>
+    <meta>
+        <title language="japanese">贈る言葉</title>
+        <title language="english">words to send off</title>
 
-<singer language="japanese" gender="male">海援隊</singer>
-<singer language="english" gender="male">kaientai</singer>
+        <singer language="japanese" gender="male">海援隊</singer>
+        <singer language="english" gender="male">kaientai</singer>
 
-<lyricist language="japanese" gender="male">水谷啓二</lyricist>
-<lyricist language="english" gender="male">Tetsuya Takeda</lyricist>
+        <lyricist language="japanese" gender="male">水谷啓二</lyricist>
+        <lyricist language="english" gender="male">Tetsuya Takeda</lyricist>
 
-<release>4-21-1980</release>
+        <release>4-21-1980</release>
 
-</meta>
-<body>
-<verse>
-<line>暮れなずむ町の　光と影の中</line>
-<line>去りゆく<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
-</verse>
+    </meta>
+    <body>
+        <verse>
+            <line>暮れなずむ町の　光と影の中</line>
+            <line>去りゆく<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
+        </verse>
 
-<verse>
-<line>悲しみこらえて　微笑むよりも</line>
-<line>涙かれるまで　泣くほうがいい</line>
-<line>人は悲しみが　多いほど</line>
-<line>人には優しく　できるのだから</line>
-</verse>
+        <verse>
+            <line>悲しみこらえて　微笑むよりも</line>
+            <line>涙かれるまで　泣くほうがいい</line>
+            <line>人は悲しみが　多いほど</line>
+            <line>人には優しく　できるのだから</line>
+        </verse>
 
-<verse>
-<line>さよならだけでは　さびしすぎるから</line>
-<line>愛する<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
-</verse>
+        <verse>
+            <line>さよならだけでは　さびしすぎるから</line>
+            <line>愛する<feature type="2p" gen="SM" polite="polite">あなた</feature>へ　贈る言葉</line>
+        </verse>
 
-<verse>
-    <line>夕暮れの風に　途切れたけれど</line>
-<line>終わりまで聞いて　贈る言葉</line>
-</verse>
+        <verse>
+            <line>夕暮れの風に　途切れたけれど</line>
+            <line>終わりまで聞いて　贈る言葉</line>
+        </verse>
 
-<verse>
-    <line>信じられぬと　嘆くよりも</line>
-<line>人を信じて　傷つくほうがいい</line>
-    <line>求めないで　優しさなんか</line>
-    <line>臆病者の　言いわけだから</line>
-</verse>
+        <verse>
+            <line>信じられぬと　嘆くよりも</line>
+            <line>人を信じて　傷つくほうがいい</line>
+            <line>求めないで　優しさなんか</line>
+            <line>臆病者の　言いわけだから</line>
+        </verse>
 
-<verse>
-<line>はじめて愛した　<feature type="2p" gen="SM" polite="polite">あなた</feature>のために</line>
-    <line>飾りもつけずに　贈る言葉</line>
-</verse>
+        <verse>
+            <line>はじめて愛した　<feature type="2p" gen="SM" polite="polite">あなた</feature>のために</line>
+            <line>飾りもつけずに　贈る言葉</line>
+        </verse>
 
-<verse>
-<line>これから始まる　暮らしの中で</line>
-<line>だれかが<feature type="2p" gen="SM" polite="polite">あなた</feature>を　愛する<feature type="SFP" gen="MF">でしょう</feature></line>
-<line>だけど　<feature type="1p" gen="SM" polite="polite">私</feature>ほど　<feature type="2p" gen="SM" polite="polite">あなた</feature>の事を</line>
-<line>深く愛した　<feature type="3p" gen="SM" polite="depr">ヤツ</feature>はいない</line>
-</verse>
-    
-<verse>
-    <line>遠ざかる影が　人混みに消えた</line>
-<line>もうとどかない　贈る言葉</line>
-<line>もうとどかない　贈る言葉</line>
-</verse>
-</body></song>
+        <verse>
+            <line>これから始まる　暮らしの中で</line>
+            <line>だれかが<feature type="2p" gen="SM" polite="polite">あなた</feature>を　愛する<feature
+                    type="SFP" gen="MF">でしょう</feature></line>
+            <line>だけど　<feature type="1p" gen="SM" polite="polite">私</feature>ほど　<feature type="2p"
+                    gen="SM" polite="polite">あなた</feature>の事を</line>
+            <line>深く愛した　<feature type="3p" gen="SM" polite="depr">ヤツ</feature>はいない</line>
+        </verse>
+
+        <verse>
+            <line>遠ざかる影が　人混みに消えた</line>
+            <line>もうとどかない　贈る言葉</line>
+            <line>もうとどかない　贈る言葉</line>
+        </verse>
+    </body>
+</song>

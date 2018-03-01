@@ -1,45 +1,59 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
 
-release date 7-17-1990
+    <meta>
 
-歌手　中森明菜
-Singer Akina Nakamori
+        <title language="english">Dear Friend</title>
 
-作詞 伊東真由美
-Lyricist Mayumi Itou
+        <singer language="japanese" gender="female">中森明菜</singer>
+        <singer language="english" gender="female">Akina Nakamori</singer>
 
-title Dear Friend
+        <lyricist language="japanese" gender="female">伊東真由美</lyricist>
+        <lyricist language="english" gender="female">Mayumi Itou</lyricist>
+        <release>7-17-1990</release>
+    </meta>
 
-回転ドアの向こうで
-手を振る　彼女の影
-たぶん誰も　気づかない
-ほほえみ…失くしてるなんて
-気弱なうすいrougeの溜息…らしくない<feature type="SFP" gen="SF">わ</feature>
-思い出して！見つめる<feature type="SFP" gen="SF">の</feature>
-瞳の奥にある　かがやきを
+    <body>
 
-Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる
-ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature>
-Dream もっと気ままに　ダイス投げる時
-新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you
+        <verse>
+            <line>回転ドアの向こうで</line>
+            <line>手を振る　彼女の影</line>
+            <line>たぶん誰も　気づかない</line>
+            <line>ほほえみ…失くしてるなんて</line>
+            <line>気弱なうすいrougeの溜息…らしくない<feature type="SFP" gen="SF">わ</feature></line>
+            <line>思い出して！見つめる<feature type="SFP" gen="SF">の</feature></line>
+            <line>瞳の奥にある　かがやきを</line>
+        </verse>
 
-誰かに　振り回されて　泣くのは似合わない<feature type="SFP" gen="SF">わ</feature>　For you
-思い出して！　ほほえんで
-その胸の鼓動を確かめて
-Chance そう<feature type="SFP" gen="SF">よ</feature>
-わがままな　視線が魅きつける
-想いは　ちがう風　よぶはず
-Chance きっと
-待ってるだけじゃ　タイクツ<feature type="SFP" gen="MF">ね</feature>
-新しい波... 起こす時<feature type="SFP" gen="SF">よ</feature>　For you
+        <chorus>
+            <line>Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる</line>
+            <line>ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature></line>
+            <line>Dream もっと気ままに　ダイス投げる時</line>
+            <line>新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you</line>
+        </chorus>
 
-Uh You make me smile again ほほえみを
-Uh You make me love again もう一度
-Uh you make me smile again ほほえみを　
+        <verse>
+            <line>誰かに　振り回されて　泣くのは似合わない<feature type="SFP" gen="SF">わ</feature>　For you</line>
+            <line>思い出して！　ほほえんで</line>
+            <line>その胸の鼓動を確かめて</line>
+            <line>Chance そう<feature type="SFP" gen="SF">よ</feature></line>
+            <line>わがままな　視線が魅きつける</line>
+            <line>想いは　ちがう風　よぶはず</line>
+            <line>Chance きっと</line>
+            <line>待ってるだけじゃ　タイクツ<feature type="SFP" gen="MF">ね</feature></line>
+            <line>新しい波... 起こす時<feature type="SFP" gen="SF">よ</feature>　For you</line>
+        </verse>
 
-Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる
-    ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature>
-Dream もっと　気ままに　ダイス投げるとき
-新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you　For you
+        <verse>
+            <line>Uh You make me smile again ほほえみを</line>
+            <line>Uh You make me love again もう一度</line>
+            <line>Uh you make me smile again ほほえみを</line>
+        </verse>
+        <chorus>
+            <line>Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる</line>
+            <line>ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature></line>
+            <line>Dream もっと　気ままに　ダイス投げるとき</line>
+            <line>新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you　For you</line>
+        </chorus>
+    </body>
 </song>

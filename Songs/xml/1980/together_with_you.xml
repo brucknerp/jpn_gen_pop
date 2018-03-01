@@ -1,42 +1,44 @@
 ﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
 
-<meta>
-<title language="japanese">おまえとふたり</title>
-<title language="english">together with you
-</title>
-<singer language="japanese" gender="male">五木ひろし</singer>
-<singer language="english" gender="male">hiroshi itsuki</singer>
+    <meta>
+        <title language="japanese">おまえとふたり</title>
+        <title language="english">together with you </title>
+        <singer language="japanese" gender="male">五木ひろし</singer>
+        <singer language="english" gender="male">hiroshi itsuki</singer>
 
-<lyricist language="japanese" gender="male">たかたかし</lyricist>
-<lyricist language="english" gender="male">takatakashi</lyricist>
-<release>1980</release>
-</meta>
-<body>
-<verse>
-    <line><feature type="1p" gen="SM" polite="polite">わたし</feature>は　不幸ぐせ　とれない女と</line>
-<line>この胸に　か細い手をそえて</line>
-<line>あゝ　泣きじゃくる人</line>
-    <line>今の<feature type="2p" gen="SM" polite="depr">おまえ</feature>が　いればいい</line>
-<line>しあわせを　しあわせを</line>
-<line>今日からふたりで</line>
-</verse>
-<verse>
-    <line>苦労した<feature type="SFP" gen="MMN">だね</feature>　やつれた薬指</line>
-    <line>もう二度と　<feature type="2p" gen="SM" polite="depr">おまえ</feature>を離さない</line>
-<line>あゝ　涙を<feature type="hon" gen="N">お</feature>ふき</line>
-<line>まぶたを　濡らす　泣き癖は</line>
-<line>変わっちゃいない<feature type="SFP" gen="N">ね</feature>　あの頃と</line>
-<line>しあわせを　しあわせを</line>
-<line>今日からふたりで</line>
-</verse>
+        <lyricist language="japanese" gender="male">たかたかし</lyricist>
+        <lyricist language="english" gender="male">takatakashi</lyricist>
+        <release>1980</release>
+    </meta>
+    <body>
+        <verse>
+            <line><feature type="1p" gen="SM" polite="polite">わたし</feature>は　不幸ぐせ　とれない女と</line>
+            <line>この胸に　か細い手をそえて</line>
+            <line>あゝ　泣きじゃくる人</line>
+            <line>今の<feature type="2p" gen="SM" polite="depr">おまえ</feature>が　いればいい</line>
+            <line>しあわせを　しあわせを</line>
+            <line>今日からふたりで</line>
+        </verse>
+        <verse>
+            <line>苦労した<feature type="SFP" gen="MMN">だね</feature>　やつれた薬指</line>
+            <line>もう二度と　<feature type="2p" gen="SM" polite="depr">おまえ</feature>を離さない</line>
+            <line>あゝ　涙を<feature type="hon" gen="N">お</feature>ふき</line>
+            <line>まぶたを　濡らす　泣き癖は</line>
+            <line>変わっちゃいない<feature type="SFP" gen="N">ね</feature>　あの頃と</line>
+            <line>しあわせを　しあわせを</line>
+            <line>今日からふたりで</line>
+        </verse>
 
-<verse>
-<line>陽のさす　坂道へ一度でいいから</line>
-    <line>目かくしを　<feature type="2p" gen="SM" polite="depr">おまえ</feature>にしたままで</line>
-<line>あゝ　連れて行きたい<feature type="SFP" gen="MMN">よ</feature></line>
-<line>心に　同じ傷をもつ</line>
-    <line>似た者どうし<feature type="SFP" gen="MMN">さ</feature>　<feature type="1p" gender="SM" polite="depr">俺たち</feature>は</line>
-<line>しあわせを　しあわせを</line>
-<line>今日からふたりで</line>
-</verse></body></song>
+        <verse>
+            <line>陽のさす　坂道へ一度でいいから</line>
+            <line>目かくしを　<feature type="2p" gen="SM" polite="depr">おまえ</feature>にしたままで</line>
+            <line>あゝ　連れて行きたい<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>心に　同じ傷をもつ</line>
+            <line>似た者どうし<feature type="SFP" gen="MMN">さ</feature>　<feature type="1p" gen="SM"
+                    polite="depr">俺たち</feature>は</line>
+            <line>しあわせを　しあわせを</line>
+            <line>今日からふたりで</line>
+        </verse>
+    </body>
+</song>

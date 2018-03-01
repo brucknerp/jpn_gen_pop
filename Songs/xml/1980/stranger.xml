@@ -1,56 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <song>
-<meta>
-<title language="japanese">曲名 異邦人</title>
-<title language="english">Stranger</title>
+    <meta>
+        <title language="japanese">曲名 異邦人</title>
+        <title language="english">Stranger</title>
 
-<singer language="japanese" gender="female">久保田早紀</singer>
-<singer language="english" gender="female">Sayuri Kume</singer>
+        <singer language="japanese" gender="female">久保田早紀</singer>
+        <singer language="english" gender="female">Sayuri Kume</singer>
 
-<lyricist language="japanese" gender="female">久保田早紀 </lyricist>
-<lyricist language="english" gender="female">Sayuri Kume</lyricist>
+        <lyricist language="japanese" gender="female">久保田早紀 </lyricist>
+        <lyricist language="english" gender="female">Sayuri Kume</lyricist>
 
-<release>10-1-1979</release>
+        <release>10-1-1979</release>
 
-</meta>
+    </meta>
 
-<body>
-<verse>
-<line>子供たちが空に向かい　両手をひろげ</line>
-<line>鳥や雲や夢までも</line>
-<line>つかもうとしている</line>
-<line>その姿はきのうまでの</line>
-<line>何も知らない<feature type="1p" gen="SF" polite="plain">私</feature></line>
-<line><feature type="2p" gen="SF" polite="plain">あなた</feature>にこの指が</line>
-<line>届くと信じていた</line>
-</verse>
+    <body>
+        <verse>
+            <line>子供たちが空に向かい　両手をひろげ</line>
+            <line>鳥や雲や夢までも</line>
+            <line>つかもうとしている</line>
+            <line>その姿はきのうまでの</line>
+            <line>何も知らない<feature type="1p" gen="SF" polite="plain">私</feature></line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>にこの指が</line>
+            <line>届くと信じていた</line>
+        </verse>
 
-<verse>
-<line>空と大地がふれ合う彼方</line>
-<line>過去からの旅人を呼んでる道</line>
-    <line><feature type="2p" gen="SF" polite="plain">あなた</feature>にとって<feature type="1p" gen="SF" polite="plain">私</feature></line>
-<line>ただの通りすがり</line>
-<line>ちょっとふり向いて見ただけの</line>
-<line>異邦人</line>
-</verse>
+        <verse>
+            <line>空と大地がふれ合う彼方</line>
+            <line>過去からの旅人を呼んでる道</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>にとって<feature type="1p"
+                    gen="SF" polite="plain">私</feature></line>
+            <line>ただの通りすがり</line>
+            <line>ちょっとふり向いて見ただけの</line>
+            <line>異邦人</line>
+        </verse>
 
-<verse>
-<line>市場へ行く人の波に　身体を預け</line>
-<line>石だたもの街角を</line>
-<line>ゆらゆらとさまよう</line>
-<line>祈りの声　ひずめの音</line>
-<line>歌うようなざわめき</line>
-    <line><feature type="1p" gen="SF" polite="plain">私</feature>をお置きざりに</line>
-<line>過ぎてゆく白い朝</line>
-</verse>
+        <verse>
+            <line>市場へ行く人の波に　身体を預け</line>
+            <line>石だたもの街角を</line>
+            <line>ゆらゆらとさまよう</line>
+            <line>祈りの声　ひずめの音</line>
+            <line>歌うようなざわめき</line>
+            <line><feature type="1p" gen="SF" polite="plain">私</feature>をお置きざりに</line>
+            <line>過ぎてゆく白い朝</line>
+        </verse>
 
-<verse>
-<line>時間旅行が　心の傷を</line>
-<line>なぜ<feature type="SFP" gen="SF">かしら</feature>埋めてゆく不思議な道</line>
-<line>サヨナラだけの手紙</line>
-<line>あとは哀しみをもて余す異邦人</line>
-<line>あとは哀しみをもて余す異邦人</line>
-</verse>
-</body>
+        <verse>
+            <line>時間旅行が　心の傷を</line>
+            <line>なぜ<feature type="SFP" gen="SF">かしら</feature>埋めてゆく不思議な道</line>
+            <line>サヨナラだけの手紙</line>
+            <line>あとは哀しみをもて余す異邦人</line>
+            <line>あとは哀しみをもて余す異邦人</line>
+        </verse>
+    </body>
 </song>
