@@ -1,38 +1,60 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="japanese">tらいおんハート </title>
+        <title language="english">Lion Heart</title>
 
-release date 8-30-2000
+        <singer language="english" gender="male">SMAP</singer>
 
-歌手　SMAP
-Singer SMAP
+        <lyricist language="japanese" gender="male">野島伸司</lyricist>
+        <lyricist language="english" gender="male">Shinji Nojima</lyricist>
+        <release>8-30-2000</release>
 
-作詞 野島伸司
-Lyricist Shinji Nojima
+    </meta>
+    <body>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>はいつも<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>の薬箱<feature type="SFP" gen="MMN"
+                >さ</feature></line>
+            <line>どんな風に<feature type="1p" gen="SM" polite="plain">僕</feature>を癒してくれる</line>
+        </verse>
 
-title らいおんハート Lion Heart
+        <verse>
+            <line>笑うそばから　ほら　その笑顔</line>
+            <line>泣いたら　やぱり<feature type="SFP" gen="N">ね</feature>　涙するん<feature type="SFP" gen="MMN"
+                    >だね</feature></line>
+        </verse>
+        <verse>
+            <line>ありきたりな恋　どうかしてる<feature type="SFP" gen="N">かな</feature></line>
+        </verse>
+        <chorus>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature
+                    type="SFP" gen="MMN">んだ</feature></line>
+            <line>あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる</line>
+            <line>眠った横顔　震えるこの胸　Lion Heart</line>
+        </chorus>
+        <verse>
+            <line>いつか　もし子供が生まれたら</line>
+            <line>世界で二番目にスキだと話そう</line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>もやがてきっと巡り合う</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>のママに出会った　<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>のように<feature type="SFP" gen="N"
+                >ね</feature></line>
+        </verse>
 
-<feature type="2p" gen="SM" polite="plain">君</feature>はいつも<feature type="1p" gen="SM" polite="plain">僕</feature>の薬箱<feature type="SFP" gen="MMN">さ</feature>
-どんな風に<feature type="1p" gen="SM" polite="plain">僕</feature>を癒してくれる
+        <verse>
+            <line>見せかけの恋に　嘘かさねた過去</line>
+        </verse>
 
-笑うそばから　ほら　その笑顔
-泣いたら　やぱり<feature type="SFP" gen="N">ね</feature>　涙するん<feature type="SFP" gen="MMN">だね</feature>
-
-ありきたりな恋　どうかしてる<feature type="SFP" gen="N">かな
-</feature>
-<feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature type="SFP" gen="MMN">んだ</feature>
-あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる
-眠った横顔　震えるこの胸　Lion Heart
-
-いつか　もし子供が生まれたら
-世界で二番目にスキだと話そう
-
-<feature type="2p" gen="SM" polite="plain">君</feature>もやがてきっと巡り合う
-<feature type="2p" gen="SM" polite="plain">君</feature>のママに出会った　<feature type="1p" gen="SM" polite="plain">僕</feature>のように<feature type="SFP" gen="N">ね</feature>
-
-見せかけの恋に　嘘かさねた過去
-
-失ったものは　みんなみんな埋めてあげる
-この<feature type="1p" gen="SM" polite="plain">僕</feature>に愛を教えてくれたぬくもり
-<feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature type="SFP" gen="MMN">んだ</feature>
-あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる
-眠った横顔　震えるこの胸　Lion Heart</song>
+        <chorus>
+            <line>失ったものは　みんなみんな埋めてあげる</line>
+            <line>この<feature type="1p" gen="SM" polite="plain">僕</feature>に愛を教えてくれたぬくもり</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>を守るため　そのために生まれてきた<feature
+                    type="SFP" gen="MMN">んだ</feature></line>
+            <line>あきれるほどに　そう<feature type="SFP" gen="MMN">さ</feature>　そばにいてあげる</line>
+            <line>眠った横顔　震えるこの胸　Lion Heart</line>
+        </chorus>
+    </body>
+</song>

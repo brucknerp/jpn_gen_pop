@@ -1,59 +1,80 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="english">TSUNAMI</title>
 
-release date 1-26-2000
+        <singer language="japanese" gender="male">サザンオールスターズ</singer>
+        <singer language="english" gender="male">Sazan All Stars</singer>
 
-歌手　サザンオールスターズ
-Singer Sazan All Stars
+        <lyricist language="japanese" gender="male">桑田佳祐</lyricist>
+        <lyricist language="english" gender="male">Keisuke Kuwata</lyricist>
+        <release>1-26-2000</release>
+    </meta>
 
-作詞 桑田佳祐
-Lyricist Keisuke Kuwata
+    <body>
+        <verse>
+            <line>風に戸惑う弱気な<feature type="1p" gen="SM" polite="plain">僕</feature></line>
+            <line>通りすがるあの日の幻影</line>
+            <line>本当は見た目以上</line>
+            <line>涙もろい過去がある</line>
+        </verse>
 
-title TSUNAMI
+        <verse>
+            <line>止めど流る清か水<feature type="SFP" gen="SF">よ</feature></line>
+            <line>消せど燃ゆる魔性の火<feature type="SFP" gen="SF">よ</feature></line>
+            <line>あんなに好きな女性に</line>
+            <line>出逢う夏は二度とない</line>
+        </verse>
 
-風に戸惑う弱気な<feature type="1p" gen="SM" polite="plain">僕</feature>
-通りすがるあの日の幻影
-本当は見た目以上
-涙もろい過去がある
+        <verse>
+            <line>人は誰れも愛求めて　闇に彷徨う運命</line>
+            <line>そして風まかせ　Oh, My destiny</line>
+            <line>涙枯れるまで</line>
+        </verse>
 
-止めど流る清か水<feature type="SFP" gen="SF">よ</feature>
-    消せど燃ゆる魔性の火<feature type="SFP" gen="SF">よ</feature>
-あんなに好きな女性に
-出逢う夏は二度とない
+        <chorus>
+            <line>見つめ合うと素直にお喋り出来ない</line>
+            <line>津波のような侘しさに</line>
+            <line>I know... 怯えてる Hoo...</line>
+            <line>めぐり逢えた瞬間から魔法が解けない</line>
+            <line>鏡のような夢の中で</line>
+            <line>思い出はいつの日も雨</line>
+        </chorus>
 
-人は誰れも愛求めて　闇に彷徨う運命
-そして風まかせ　Oh, My destiny
-涙枯れるまで
+        <verse>
+            <line>夢が終わる目覚める時</line>
+            <line>深い闇に夜明けが来る</line>
+            <line>本当は見た目以上</line>
+            <line>打たれ強い<feature type="1p" gen="SM" polite="plain">僕</feature>がいる</line>
+        </verse>
 
-見つめ合うと素直にお喋り出来ない
-津波のような侘しさに
-I know... 怯えてる Hoo...
-めぐり逢えた瞬間から魔法が解けない
-鏡のような夢の中で
-思い出はいつの日も雨
+        <verse>
+            <line>泣き出しそうな空眺めて　波に漂うカモメ</line>
+            <line>きっと世は情け Oh, Sweet memory</line>
+            <line>旅立ちを胸に</line>
+        </verse>
 
-夢が終わる目覚める時
-深い闇に夜明けが来る
-本当は見た目以上
-打たれ強い<feature type="1p" gen="SM" polite="plain">僕</feature>がいる
+        <verse>
+            <line>人は涙見せずに大人になれない</line>
+            <line>カラスのような恋だとは</line>
+            <line>I know... 気付いてる Hoo...</line>
+            <line>身も心も愛しい女性しか見えない</line>
+            <line>張り裂けそうな胸の奥で</line>
+            <line>悲しみに耐えるのは何故？</line>
+        </verse>
 
-泣き出しそうな空眺めて　波に漂うカモメ
-きっと世は情け Oh, Sweet memory
-旅立ちを胸に
+        <chorus>
+            <line>見つめ合うと素直にお喋り出来ない</line>
+            <line>津波のような侘しさに</line>
+            <line>I know... 怯えてる Hoo...</line>
+            <line>めぐり逢えた瞬間から死ぬまで好きと言って</line>
+            <line>鏡のような夢の中で</line>
+            <line>微笑をくれたのは誰？</line>
+        </chorus>
 
-人は涙見せずに大人になれない
-カラスのような恋だとは
-I know... 気付いてる Hoo...
-身も心も愛しい女性しか見えない
-張り裂けそうな胸の奥で
-悲しみに耐えるのは何故？
-
-見つめ合うと素直にお喋り出来ない
-津波のような侘しさに
-I know... 怯えてる Hoo...
-めぐり逢えた瞬間から死ぬまで好きと言って
-鏡のような夢の中で
-微笑をくれたのは誰？
-
-好きなのに泣いたのは何故？
-思い出はいつの日も...雨</song>
+        <verse>
+            <line>好きなのに泣いたのは何故？</line>
+            <line>思い出はいつの日も...雨</line>
+        </verse>
+    </body>
+</song>

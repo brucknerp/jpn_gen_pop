@@ -1,40 +1,70 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="english">Everything</title>
 
-release date 10-25-2000
 
-歌手　MISIA
-Singer MISIA
+        <singer language="english" gender="female">MISIA</singer>
 
-作詞 MISIA
-Lyricist MISIA
+        <lyricist language="english" gender="female">MISIA</lyricist>
 
-title Everything
+        <release>10-25-2000</release>
+    </meta>
+    <body>
+        <verse>
+            <line>すれ違う時の中で　<feature type="2p" gen="SF" polite="plain">あなた</feature>とめぐり逢えた</line>
+            <line>不思議<feature type="SFP" gen="MF">ね</feature>　願った奇跡が　こんなにも側にあるなんて</line>
+        </verse>
 
-すれ違う時の中で　<feature type="2p" gen="SF" polite="plain">あなた</feature>とめぐり逢えた
-不思議<feature type="SFP" gen="MF">ね</feature>　願った奇跡が　こんなにも側にあるなんて
+        <verse>
+            <line>逢いたい想いのまま　逢えない時間だけが過ぎてく　扉すり抜けて</line>
+            <line>また思い出して　あの人と笑い合う　<feature type="2p" gen="SF" polite="plain">あなた</feature>を</line>
+        </verse>
 
-逢いたい想いのまま　逢えない時間だけが過ぎてく　扉すり抜けて
-また思い出して　あの人と笑い合う　<feature type="2p" gen="SF" polite="plain">あなた</feature>を
+        <verse>
+            <line>愛しき人<feature type="SFP" gen="SF">よ</feature>　悲しませないで　泣き疲れて　眠る夜もあるから</line>
+            <line>過去を見ないで　見つめて<feature type="1p" gen="SF" polite="plain">私</feature>だけ</line>
+        </verse>
 
-愛しき人<feature type="SFP" gen="SF">よ</feature>　悲しませないで　泣き疲れて　眠る夜もあるから
-過去を見ないで　見つめて<feature type="1p" gen="SF" polite="plain">私</feature>だけ
+        <chorus>
+            <line>You're everything You're everything</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain"
+                    >あなた</feature>が想うより強く　やさしい嘘ならいらない　欲しいのは<feature type="2p" gen="SF"
+                    polite="plain">あなた</feature></line>
+        </chorus>
 
-You're everything You're everything
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>が想うより強く　やさしい嘘ならいらない　欲しいのは<feature type="2p" gen="SF" polite="plain">あなた</feature>
+        <verse>
+            <line>どれくらいの時間を　永遠と呼べる<feature type="SFP" gen="N">だろう</feature>　果てしなく遠い未来なら</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain">あなた</feature>と行きたい　<feature type="2p"
+                    gen="SF" polite="plain">あなた</feature>と覗いて見たい　その日を</line>
+        </verse>
+        <verse>
+            <line>愛しき人<feature type="SFP" gen="SF">よ</feature>　抱きしめていて　いつものように　やさしい時の中で</line>
+            <line>この手握って　見つめて今だけを</line>
+        </verse>
+        <chorus>
+            <line>You're everything You're everything</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と離れてる場所でも　会えばきっと許してしまう　どんな夜でも</line>
+            <line>You're everything You're everything</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の夢見るほど強く　愛せる力を勇気に　今かえていこう</line>
+        </chorus>
 
-どれくらいの時間を　永遠と呼べる<feature type="SFP" gen="N">だろう</feature>　果てしなく遠い未来なら
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>と行きたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>と覗いて見たい　その日を
-
-愛しき人<feature type="SFP" gen="SF">よ</feature>　抱きしめていて　いつものように　やさしい時の中で
-この手握って　見つめて今だけを
-
-You're everything You're everything
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>と離れてる場所でも　会えばきっと許してしまう　どんな夜でも
-You're everything You're everything
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>の夢見るほど強く　愛せる力を勇気に　今かえていこう
-
-You're everything You're everything
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>と離れてる場所でも　会えばいつも消え去って行く　胸の痛みも
-You're everything You're everything
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>が想うより強く　やさしい嘘ならいらない　欲しいのは<feature type="2p" gen="SF" polite="plain">あなた</feature></song>
+        <chorus>
+            <line>You're everything You're everything</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と離れてる場所でも　会えばいつも消え去って行く　胸の痛みも</line>
+            <line>You're everything You're everything</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain"
+                    >あなた</feature>が想うより強く　やさしい嘘ならいらない　欲しいのは<feature type="2p" gen="SF"
+                    polite="plain">あなた</feature></line>
+        </chorus>
+    </body>
+</song>

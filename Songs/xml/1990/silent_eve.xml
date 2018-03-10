@@ -1,34 +1,51 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="japanese">サイレント・イブ</title>
+        <title language="english">Silent Eve</title>
 
-release date 11-7-1990
+        <singer language="japanese" gender="female">辛島美登里</singer>
+        <singer language="english" gender="female">Midori Kawashima</singer>
 
-歌手　辛島美登里
-Singer Midori Kawashima
+        <lyricist language="japanese" gender="female">辛島美登里</lyricist>
+        <lyricist language="english" gender="female">Midori Kawashima</lyricist>
+        <release>11-7-1990</release>
 
-作詞 辛島美登里
-Lyricist Midori Kawashima
+    </meta>
 
-title サイレント・イブ Silent Eve
+    <body>
+        <verse>
+            <line>真白な粉雪　人は立ち止まり</line>
+            <line>心が求める場所を思いだす<feature type="SFP" gen="SF">の</feature></line>
+            <line>いくつも愛を　重ねても　引きよせても</line>
+            <line>なぜ　大事な夜にあなたはいない<feature type="SFP" gen="SF">の</feature></line>
+        </verse>
+        <verse>
+            <line>さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>のためじゃない</line>
+            <line>不安に揺れるキャンドル　悲しかったから</line>
+            <line>"ともだち"っていうルールはとても難しいゲーム<feature type="SFP" gen="MF">ね</feature></line>
+            <line>もう二度と二人のことを邪魔したりしない</line>
+        </verse>
+        <verse>
+            <line>本当は誰れもが　やさしくなりたい</line>
+            <line>それでも　天使に人はなれないから</line>
+            <line>瞳をそれさずに　想い出はうるむけれど</line>
+            <line>移りゆく季節が　ページをめくる<feature type="SFP" gen="SF">わ</feature></line>
+        </verse>
 
-真白な粉雪　人は立ち止まり
-心が求める場所を思いだす<feature type="SFP" gen="SF">の</feature>
-いくつも愛を　重ねても　引きよせても
-なぜ　大事な夜にあなたはいない<feature type="SFP" gen="SF">の</feature>
+        <verse>
+            <line>さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>のせいじゃない</line>
+            <line>飾った花もカードもみんな Merry Christmas for me</line>
+            <line>"ともだち"って微笑むより今は一人で泣かせて<feature type="SFP" gen="N">ね</feature></line>
+            <line>もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent
+                Night</line>
+        </verse>
 
-さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain">あなた</feature>のためじゃない
-不安に揺れるキャンドル　悲しかったから
-"ともだち"っていうルールはとても難しいゲーム<feature type="SFP" gen="MF">ね</feature>
-もう二度と二人のことを邪魔したりしない
-
-本当は誰れもが　やさしくなりたい
-それでも　天使に人はなれないから
-瞳をそれさずに　想い出はうるむけれど
-移りゆく季節が　ページをめくる<feature type="SFP" gen="SF">わ</feature>
-
-さようならを決めたことは　けっして<feature type="2p" gen="SF" polite="plain">あなた</feature>のせいじゃない
-飾った花もカードもみんな Merry Christmas for me
-"ともだち"って微笑むより今は一人で泣かせて<feature type="SFP" gen="N">ね</feature>
-もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent Night
-
-もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent Night</song>
+        <verse>
+            <line>もう一度　<feature type="1p" gen="SF" polite="plain">私</feature>の夢をつかむまで Silent
+                Night</line>
+        </verse>
+    </body>
+</song>

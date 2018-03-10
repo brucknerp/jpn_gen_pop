@@ -1,64 +1,91 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="japanese">会いたい　</title>
+        <title language="english">I want to see you</title>
 
-release date 6-27-1990
+        <singer language="japanese" gender="female">沢田知可子</singer>
+        <singer language="english" gender="female">Chikaco Sawada</singer>
 
-歌手　沢田知可子
-Singer Chikaco Sawada
+        <lyricist language="japanese" gender="female">作詞 沢ちひろ</lyricist>
+        <lyricist language="english" gender="female">Sawa Chihiro</lyricist>
 
-作詞 沢ちひろ
-Lyricist Sawa Chihiro
+        <release>6-27-1990</release>
 
-title 会いたい　I want to see you
+    </meta>
+    <body>
+        <verse>
+            <line>ビルが見える教室で</line>
+            <line>ふたりは机　並べて</line>
+            <line>同じ月日を過ごした</line>
+            <line>少しの英語と</line>
+            <line>バスケット　そして</line>
+            <line><feature type="1p" gen="SF" polite="plain">私</feature>は<feature type="2p" gen="SF"
+                    polite="plain">あなた</feature>と恋を覚えた</line>
+        </verse>
 
-ビルが見える教室で
-ふたりは机　並べて
-同じ月日を過ごした
-少しの英語と
-バスケット　そして
-<feature type="1p" gen="SF" polite="plain">私</feature>は<feature type="2p" gen="SF" polite="plain">あなた</feature>と恋を覚えた
+        <verse>
+            <line>卒業しても<feature type="1p" gen="SF" polite="plain">私</feature>を</line>
+            <line>子供扱いした<feature type="SFP" gen="MMN">よね</feature></line>
+            <line> 「遠くへ行く<feature type="SFP" gen="MMN" quote="yes">なよ</feature>」と</line>
+            <line>半分笑って　半分　真顔で</line>
+            <line>抱き寄せた</line>
+        </verse>
 
-卒業しても<feature type="1p" gen="SF" polite="plain">私</feature>を
-子供扱いした<feature type="SFP" gen="MMN">よね</feature>
-    「遠くへ行く<feature type="SFP" gen="MMN" quote="yes">なよ</feature>」と
-半分笑って　半分　真顔で
-抱き寄せた
+        <verse>
+            <line>低い雲を広げた　冬の夜</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>　夢のように</line>
+            <line>死んでしまった<feature type="SFP" gen="SF">の</feature></line>
+        </verse>
 
-低い雲を広げた　冬の夜
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>　夢のように
-死んでしまった<feature type="SFP" gen="SF">の</feature>
+        <chorus>
+            <line>今年も海へ行くって</line>
+            <line>いっぱい　映画も観るって</line>
+            <line>約束したじゃない</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない</line>
+            <line>会いたい...</line>
+        </chorus>
 
-今年も海へ行くって
-いっぱい　映画も観るって
-約束したじゃない
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない
-会いたい...
+        <verse>
+            <line>波打ち際　すすんでは</line>
+            <line>不意にあきらめて戻る</line>
+            <line>海辺をただひとり</line>
+            <line>怒りたい<feature type="SFP" gen="N">のか</feature>　泣きたい<feature type="SFP" gen="N"
+                    >のか</feature></line>
+            <line>わからずに　歩いてる</line>
+        </verse>
 
-波打ち際　すすんでは
-不意にあきらめて戻る
-海辺をただひとり
-怒りたい<feature type="SFP" gen="N">のか</feature>　泣きたい<feature type="SFP" gen="N">のか</feature>
-わからずに　歩いてる
+        <verse>
+            <line>声をかける人を　つい見つめる</line>
+            <line>彼が<feature type="2p" gen="SF" polite="plain">あなた</feature>だったら</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain">あなた</feature>だったなら</line>
+        </verse>
 
-声をかける人を　つい見つめる
-彼が<feature type="2p" gen="SF" polite="plain">あなた</feature>だったら
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>だったなら
+        <verse>
+            <line>強がる肩をつかんで</line>
+            <line>バカ<feature type="SFP" gen="MMN" quote="yes">だな</feature>って叱って</line>
+            <line>優しくKissをして</line>
+            <line>嘘<feature type="SFP" gen="MMN" quote="yes">だよ</feature>って　抱きしめていて</line>
+            <line>会いたい...</line>
+        </verse>
 
-強がる肩をつかんで
-バカ<feature type="SFP" gen="MMN" quote="yes">だな</feature>って叱って
-優しくKissをして
-嘘<feature type="SFP" gen="MMN" quote="yes">だよ</feature>って　抱きしめていて
-会いたい...
-
-遠くへ行く<feature type="SFP" gen="MMN" quote="yes">な</feature>と言って
-お願い一人でにしないで
-強く　抱き締めて
-    <feature type="1p" gen="SF" polite="plain">私</feature>のそばで生きていて
-
-今年も海へ行くって
-いっぱい　映画も観るって
-約束したじゃない
-    <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない
-会いたい...
+        <verse>
+            <line>遠くへ行く<feature type="SFP" gen="MMN" quote="yes">な</feature>と言って</line>
+            <line>お願い一人でにしないで</line>
+            <line>強く　抱き締めて</line>
+            <line>
+                <feature type="1p" gen="SF" polite="plain">私</feature>のそばで生きていて</line>
+        </verse>
+        <chorus>
+            <line>今年も海へ行くって</line>
+            <line>いっぱい　映画も観るって</line>
+            <line>約束したじゃない</line>
+            <line>
+                <feature type="2p" gen="SF" polite="plain">あなた</feature>　約束したじゃない</line>
+            <line>会いたい...</line>
+        </chorus>
+    </body>
 
 </song>

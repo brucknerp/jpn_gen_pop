@@ -1,64 +1,83 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="english">Family Song</title>
 
-release date 8-16-2017
+        <singer language="japanese" gender="male">星野源 </singer>
+        <singer language="english" gender="male">Gen Hoshino</singer>
 
-歌手　星野源 
-Singer Gen Hoshino
+        <lyricist language="japanese" gender="male">星野源</lyricist>
+        <lyricist language="english" gender="male">Gen Hoshino</lyricist>
+        <release>8-16-2017</release>
 
-作詞  岡嶋 星野源 
-Lyricist Gen Hoshino
+    </meta>
+    <body>
+        <verse>
+            <line>目が覚めて涎を拭いたら</line>
+            <line>窓辺に光が微笑んでた</line>
+            <line>空の青　踊る緑の葉</line>
+            <line>畳んだタオルの痕</line>
+        </verse>
 
-title Family Song
+        <verse>
+            <line>救急車のサイレンが</line>
+            <line>胸の糸を締めるから</line>
+            <line>夕方のメロディに</line>
+            <line>想い乗せて届けてくれない<feature type="SFP" gen="N">か</feature></line>
+        </verse>
 
-目が覚めて涎を拭いたら
-窓辺に光が微笑んでた
-空の青　踊る緑の葉
-畳んだタオルの痕
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>橋になりますように</line>
+            <line>遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></line>
+        </chorus>
 
-救急車のサイレンが
-胸の糸を締めるから
-夕方のメロディに
-想い乗せて届けてくれない<feature type="SFP" gen="N">か</feature>
+        <verse>
+            <line>出会いに意味などないけれど</line>
+            <line>血の色　形も違うけれど</line>
+            <line>いつまでも側にいろことが</line>
+            <line>できたらいい<feature type="SFP" gen="MMN">だろうな</feature></line>
+        </verse>
 
-ただ　幸せが
-一日でも多く
-側にありますように
-悲しみは
-次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
-橋になりますように
-遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature>
+        <verse>
+            <line>遠きビルに日が跳ねて</line>
+            <line>帰り道を照らすように</line>
+            <line>道頭のメロディに</line>
+            <line>祈りのせて届けてくれない<feature type="SFP" gen="N">か</feature></line>
+        </verse>
 
-出会いに意味などないけれど
-血の色　形も違うけれど
-いつまでも側にいろことが
-できたらいい<feature type="SFP" gen="MMN">だろうな</feature>
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>架け橋になるように</line>
+        </chorus>
 
-遠きビルに日が跳ねて
-帰り道を照らすように
-道頭のメロディに
-祈りのせて届けてくれない<feature type="SFP" gen="N">か</feature>
-
-ただ　幸せが
-一日でも多く
-側にありますように
-悲しみは
-次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
-架け橋になるように
-
-    <feature type="2p" gen="SM" polite="polite">あなた</feature>は　何処でも行ける
-    <feature type="2p" gen="SM" polite="polite">あなた</feature>は　何にでもなれる
-
-ただ　幸せが
-一日でも多く
-側にありますように
-悲しみは
-次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への
-橋になりますように
-
-微笑みが
-一日でも多く
-側にありますように
-涙の味は
-橋になりますように
-遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></song>
+        <bridge>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は　何処でも行ける</line>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は　何にでもなれる</line>
+        </bridge>
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>橋になりますように</line>
+        </chorus>
+        <verse>
+            <line>微笑みが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>涙の味は</line>
+            <line>橋になりますように</line>
+            <line>遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
+    </body>
+</song>

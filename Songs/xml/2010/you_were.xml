@@ -1,46 +1,66 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="english">you were...</title>
 
-release date 12-29-2009
+        <singer language="japanese" gender="female">浜崎あゆみ</singer>
+        <singer language="english" gender="female">Ayumi hamasaki </singer>
+        <lyricist language="japanese" gender="female">浜崎あゆみ</lyricist>
+        <lyricist language="english" gender="female">ayumi hamasaki</lyricist>
+        <release>12-29-2009</release>
+    </meta>
 
-歌手　浜崎あゆみ
-Singer Ayumi hamasaki
+    <body>
+        <verse>
+            <line>すれ違う恋人達が　肩を寄せ合い歩いてく</line>
+            <line>冷たさが身に染みるのは　<feature type="2p" gen="SM" polite="plain">君</feature>が居ないから</line>
+        </verse>
 
-作詞 ayumi hamasaki
-Lyricist ayumi hamasaki
+        <verse>
+            <line>季節さえ忘れる位　他に何もいらない位</line>
+            <line>そう夢中で輝いたのは　恋をしていたから</line>
+        </verse>
 
-title you were...
+        <chorus>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった</line>
+            <line>こんな広い夜空の下ひとり</line>
+            <line>一体何を想えばいい<feature type="SFP" gen="N">の</feature></line>
+        </chorus>
 
-すれ違う恋人達が　肩を寄せ合い歩いてく
-冷たさが身に染みるのは　<feature type="2p" gen="SM" polite="plain">君</feature>が居ないから
+        <verse>
+            <line>今誰の隣で笑顔　見せているの<feature type="SFP" gen="N" quote="yes">かな</feature>だなんて</line>
+            <line>ねぇねぇどれ程時がたったら　苦しみは終わるの<feature type="SFP" gen="N">かな</feature></line>
+        </verse>
 
-季節さえ忘れる位　他に何もいらない位
-そう夢中で輝いたのは　恋をしていたから
+        <verse>
+            <line>いつか話してた夢の続きも</line>
+            <line>いつも言っていたあの口癖も</line>
+            <line>全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature></line>
+            <line>だけどひとつも忘れたくない</line>
+        </verse>
 
-<feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った
-<feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった
-こんな広い夜空の下ひとり
-一体何を想えばいい<feature type="SFP" gen="N">の</feature>
+        <verse>
+            <line>静寂に包まれた　瞬間に襲ってくる</line>
+            <line>優しくて温かすぎる　想い出が</line>
+        </verse>
 
-今誰の隣で笑顔　見せているの<feature type="SFP" gen="N" quote="yes">かな</feature>だなんて
-ねぇねぇどれ程時がたったら　苦しみは終わるの<feature type="SFP" gen="N">かな</feature>
+        <chorus>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった</line>
+            <line>こんな広い夜空の下ひとり</line>
+            <line>一体何を想えばいい<feature type="SFP" gen="N">の</feature></line>
+        </chorus>
 
-いつか話してた夢の続きも
-いつも言っていたあの口癖も
-全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature>
-だけどひとつも忘れたくない
+        <verse>
+            <line>いつか話してた夢の続きも</line>
+            <line>いつも言っていたあの口癖も</line>
+            <line>全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature></line>
+            <line>だけどひとつも忘れたくない</line>
+        </verse>
 
-静寂に包まれた　瞬間に襲ってくる
-優しくて温かすぎる　想い出が
-
-<feature type="2p" gen="SM" polite="plain">君</feature>が最後の人だと思った
-<feature type="2p" gen="SM" polite="plain">君</feature>と最後の恋をしたかった
-こんな広い夜空の下ひとり
-一体何を想えばいい<feature type="SFP" gen="N">の</feature>
-
-いつか話してた夢の続きも
-いつも言っていたあの口癖も
-全て忘れられたら楽<feature type="SFP" gen="MMN">だね</feature>
-だけどひとつも忘れたくない
-
-だけどひとつも　忘れたくない</song>
+        <verse>
+            <line>だけどひとつも　忘れたくない</line>
+        </verse>
+    </body>
+</song>

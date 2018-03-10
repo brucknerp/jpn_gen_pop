@@ -20,12 +20,12 @@
                     type="SFP" gen="male">よ</feature></line>
         </verse>
 
-        <bridge>
+        <pre-chorus>
             <line>ハッとして　グッときて</line>
             <line>パッと目覚める　恋だから</line>
             <line>フッとした瞬間の　<feature type="2p" gen="SM" polite="plain">君</feature>は天使<feature
                     type="SFP" gen="MMN">さ</feature></line>
-        </bridge>
+        </pre-chorus>
 
         <chorus>
             <line><feature type="2p" gen="SM" polite="plain">君</feature>と出会う　Sweet Situation</line>
@@ -38,24 +38,24 @@
             <line>ラケット持つ手止まり　その頬まっ赤に染った<feature type="SFP" gen="MMN">よ</feature></line>
         </verse>
 
-        <bridge>
+        <pre-chorus>
             <line>ハッとして　サッとひき</line>
             <line>パッと取らう　その瞳</line>
             <line>ふっとして瞬間の　<feature type="2p" gen="SM" polite="plain">君</feature>は天使<feature
                     type="SFP" gen="MMN">さ</feature></line>
-        </bridge>
+        </pre-chorus>
         <chorus>
             <line><feature type="2p" gen="SM" polite="plain">君</feature>と触れた　Sweet Situation</line>
             <line>きらめく高原で　<feature type="1p" gen="SM" polite="plain">僕</feature>は今　<feature
                     type="2p" gen="SM" polite="plain">君</feature>だけに</line>
             <line>心からやさしくなれると　知ったの<feature type="SFP" gen="MMN">さ</feature></line>
         </chorus>
-        <bridge>
+        <pre-chorus>
             <line>ハッとして　グッときて</line>
             <line>パッと目覚める　恋だから</line>
             <line>フッとした瞬間の　<feature type="2p" gen="SM" polite="plain">君</feature>は天使<feature
                     type="SFP" gen="MMN">さ</feature></line>
-        </bridge>
+        </pre-chorus>
         <chorus>
             <line><feature type="2p" gen="SM" polite="plain">君</feature>とはずむ　Sweet Situation</line>
             <line>きらめく高原で　<feature type="1p" gen="SM" polite="plain">僕</feature>は今　<feature

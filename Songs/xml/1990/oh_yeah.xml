@@ -1,46 +1,75 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="english">OH YEAH!</title>
 
-release date 4-21-1990
 
-歌手　PRINCESS PRINCESS
-Singer PRINCESS PRINCESS
+        <singer language="english" gender="female">PRINCESS PRINCESS</singer>
 
-作詞 中山加奈子
-Lyricist Kanako Nakayama
 
-title OH YEAH!
+        <lyricist language="japanese" gender="female">中山加奈子</lyricist>
+        <lyricist language="english" gender="female">Kanako Nakayama</lyricist>
+        <release>4-21-1990</release>
+    </meta>
 
-眠れない夜が続き　ウロウロとオリの中
-もつれた髪につきまとう　ハウリングも止まらない
-しくじるはずはない　ずっと　やってこれたじゃない
-退屈なジョークを抜け出す　出口はひとつだけ
+    <body>
+        <verse>
+            <line>眠れない夜が続き　ウロウロとオリの中</line>
+            <line>もつれた髪につきまとう　ハウリングも止まらない</line>
+            <line>しくじるはずはない　ずっと　やってこれたじゃない</line>
+            <line>退屈なジョークを抜け出す　出口はひとつだけ</line>
+        </verse>
 
-あのバスに乗り　どこか遠くへ
-朝もやの向こう　街が見えた　さあ　はじまる<feature type="SFP" gen="MMN">よ</feature>
+        <pre-chorus>
+            <line>あのバスに乗り　どこか遠くへ</line>
+            <line>朝もやの向こう　街が見えた　さあ　はじまる<feature type="SFP" gen="MMN">よ</feature></line>
+        </pre-chorus>
 
-OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>の住む　ブリキの城
-OH YEAH! 火をつけたい　会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready tonight?
-    OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>の声　もっと聞かせて
-OH YEAH! 泳ぎたい<feature type="SFP" gen="SF">の</feature> ライトの海 Wow wow let me go
+        <chorus>
+            <line>OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の住む　ブリキの城</line>
+            <line>OH YEAH! 火をつけたい　会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready
+                tonight?</line>
+            <line>OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の声　もっと聞かせて</line>
+            <line>OH YEAH! 泳ぎたい<feature type="SFP" gen="SF">の</feature> ライトの海 Wow wow let me
+                go</line>
+        </chorus>
 
-0ではじまる電話は　ホテルじゃスロットマシーン
-おやすみのキスか　大ゲンカ　どちらかは運任せ
-昨日の涙は　朝には誰も気づかない
-出番を待つコスチュームが　勝手に踊りだす
+        <verse>
+            <line>0ではじまる電話は　ホテルじゃスロットマシーン</line>
+            <line>おやすみのキスか　大ゲンカ　どちらかは運任せ</line>
+            <line>昨日の涙は　朝には誰も気づかない</line>
+            <line>出番を待つコスチュームが　勝手に踊りだす</line>
+        </verse>
 
-胸が高なり　ちょっと震えてる
-指＿して　ベルが鳴れば　3-2-1 LET'S GO
+        <pre-chorus>
+            <line>胸が高なり　ちょっと震えてる</line>
+            <line>指＿して　ベルが鳴れば　3-2-1 LET'S GO</line>
+        </pre-chorus>
 
-OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>の住む　ブリキの城
-    OH YEAH! 火をつけたい　会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready tonight?
-OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>の声　もっと聞かせて
-OH YEAH! 泳ぎたい<feature type="SFP" gen="SF">の</feature> ライトの海 Wow wow let me go
+        <chorus>
+            <line>OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の住む　ブリキの城</line>
+            <line>OH YEAH! 火をつけたい　会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready
+                tonight?</line>
+            <line>OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の声　もっと聞かせて</line>
+            <line>OH YEAH! 泳ぎたい<feature type="SFP" gen="SF">の</feature> ライトの海 Wow wow let me
+                go</line>
+        </chorus>
 
-OH YEAH! 抱きしめたい　この夜に抱かれていた
-OH YEAH! 火をつけたい　燃え尽きたい　Hey let me go
-
-OH YEAH! 抱きしめたい　この夜に　抱かれていたい
-OH YEAH! 火をつけたい　この夜に　燃えつきたい
-OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain">あなた</feature>の住む　ブリキの城
-OH YEAH! 火をつけたい 会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready tonight?</song>
+        <bridge>
+            <line>OH YEAH! 抱きしめたい　この夜に抱かれていた</line>
+            <line>OH YEAH! 火をつけたい　燃え尽きたい　Hey let me go</line>
+        </bridge>
+        <chorus>
+            <line>OH YEAH! 抱きしめたい　この夜に　抱かれていたい</line>
+            <line>OH YEAH! 火をつけたい　この夜に　燃えつきたい</line>
+            <line>OH YEAH! 抱きしめたい　<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>の住む　ブリキの城</line>
+            <line>OH YEAH! 火をつけたい 会いに来た<feature type="SFP" gen="SF">わ</feature>　Are you ready
+                tonight?</line>
+        </chorus>
+    </body>
+</song>

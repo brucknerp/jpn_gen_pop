@@ -1,51 +1,66 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
 
-release date 8-9-2017
+        <title language="japanese">百火撩乱</title>
+        <title language="english">Hyakka Ryouran (big fire?)</title>
 
-歌手 kalafina
-Singer kalafina
+        <singer language="english" gender="female">kalafina</singer>
 
-作詞  梶浦由記 
-Lyricist Yuki Kajiura
 
-title 百火撩乱
-    Hyakka Ryouran (big fire?)
-    
-夢を見て<feature type="1p" gen="SM" polite="plain">僕ら</feature>は泣いた
-涙を待たぬ筈の
-鋼の心で
-運命（さだめ）を思った
-違う夜明けの色を祈り
+        <lyricist language="japanese" gender="female">梶浦由記 </lyricist>
+        <lyricist language="english" gender="female">Yuki Kajiura</lyricist>
 
-何を守る為にまた
-消えた時を彷徨って
-滅びへと駆け抜ける
-光放つ刃
+        <release>8-9-2017</release>
+    </meta>
 
-あの時消えて行った
-紅い虹の彼方には
-<feature type="2p" gen="SM" polite="plain">君</feature>が見た世界がまだ
-目醒めを知らず天にあって
+    <body>
+        <verse>
+            <line>夢を見て<feature type="1p" gen="SM" polite="plain">僕ら</feature>は泣いた</line>
+            <line>涙を待たぬ筈の</line>
+            <line>鋼の心で</line>
+            <line>運命（さだめ）を思った</line>
+            <line>違う夜明けの色を祈り</line>
+        </verse>
 
-花のように咲く炎の中に
-今も佇む<feature type="1p" gen="SM" polite="plain">僕ら</feature>の姿
-刻み込まれた道に凍る
-砕けた夢の痕
+        <verse>
+            <line>何を守る為にまた</line>
+            <line>消えた時を彷徨って</line>
+            <line>滅びへと駆け抜ける</line>
+            <line>光放つ刃</line>
+        </verse>
 
-残された<feature type="1p" gen="SM" polite="plain">僕ら</feature>はきっと
-錆びたを繋ぐ最後の欠片で
-見届けた夜の
-月の光を蒼く宿す刃
+        <verse>
+            <line>あの時消えて行った</line>
+            <line>紅い虹の彼方には</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が見た世界がまだ</line>
+            <line>目醒めを知らず天にあって</line>
+        </verse>
+        <verse>
+            <line>花のように咲く炎の中に</line>
+            <line>今も佇む<feature type="1p" gen="SM" polite="plain">僕ら</feature>の姿</line>
+            <line>刻み込まれた道に凍る</line>
+            <line>砕けた夢の痕</line>
+        </verse>
+        <verse>
+            <line>残された<feature type="1p" gen="SM" polite="plain">僕ら</feature>はきっと</line>
+            <line>錆びたを繋ぐ最後の欠片で</line>
+            <line>見届けた夜の</line>
+            <line>月の光を蒼く宿す刃</line>
+        </verse>
 
-守りたいと思うのは
-<feature type="2p" gen="SM" polite="plain">君</feature>が夢を見た世界
-光へと駆け抜けた
-その道の眩しさ
-
-思いを残したまま
-心は散って行くけれど
-焼け焼け堕ちた道を辿り
-数多の夢が今も空を焦がす
-いつか焔は天に届く
+        <verse>
+            <line>守りたいと思うのは</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が夢を見た世界</line>
+            <line>光へと駆け抜けた</line>
+            <line>その道の眩しさ</line>
+        </verse>
+        <verse>
+            <line>思いを残したまま</line>
+            <line>心は散って行くけれど</line>
+            <line>焼け焼け堕ちた道を辿り</line>
+            <line>数多の夢が今も空を焦がす</line>
+            <line>いつか焔は天に届く</line>
+        </verse>
+    </body>
 </song>

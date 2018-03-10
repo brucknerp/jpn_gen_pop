@@ -1,67 +1,87 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="japanese">はつ恋</title>
+        <title language="english">First love</title>
 
-release date 12-16-2009
+        <singer language="japanese" gender="male">福山雅治</singer>
+        <singer language="english" gender="male">Masaharu Fukuyama</singer>
 
-歌手　福山雅治
-Singer Masaharu Fukuyama
+        <lyricist language="japanese" gender="male">福山雅治</lyricist>
+        <lyricist language="english" gender="male">Masaharu Fukuyama</lyricist>
 
-作詞 福山雅治
-Lyricist Masaharu Fukuyama
+        <release>12-16-2009</release>
 
-title はつ恋
-First love
+    </meta>
+    <body>
+        <verse>
+            <line>この想いが<feature type="2p" gen="SM" polite="plain">君</feature>を</line>
+            <line>苦しめてしまうとしても</line>
+            <line>傷つけてしまうとしても</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が欲しくて</line>
+        </verse>
 
-この想いが<feature type="2p" gen="SM" polite="plain">君</feature>を
-苦しめてしまうとしても
-傷つけてしまうとしても
-<feature type="2p" gen="SM" polite="plain">君</feature>が欲しくて
+        <verse>
+            <line>たがいに手に入れた</line>
+            <line>新しい幸せ</line>
+            <line>いまこの手で</line>
+            <line>壊してしまいそう</line>
+        </verse>
+        <verse>
+            <line>帰るべき場所がある</line>
+            <line>守るべき人がいる</line>
+            <line>愚かすぎる過ちと</line>
+            <line>知っているから...</line>
+        </verse>
 
-たがいに手に入れた
-新しい幸せ
-いまこの手で
-壊してしまいそう
+        <chorus>
+            <line>友達ではいられないことも</line>
+            <line>恋人には戻れないことも</line>
+            <line>わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を</line>
+            <line>永遠の　はつ恋と呼ばせて</line>
+        </chorus>
 
-帰るべき場所がある
-守るべき人がいる
-愚かすぎる過ちと
-知っているから...
+        <verse>
+            <line>また　ひとり読み返してる</line>
+            <line>誕生日に<feature type="2p" gen="SM" polite="plain">君</feature>がくれた手紙</line>
+            <line>ささやかな<feature type="2p" gen="SM" polite="plain">君</feature>の夢が</line>
+            <line>胸を掻きむしる</line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が抱えていた</line>
+            <line>消えぬ愛の傷跡</line>
+            <line>触れないことが</line>
+            <line>やさしさと思ってた</line>
+        </verse>
 
-友達ではいられないことも
-恋人には戻れないことも
-わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を
-永遠の　はつ恋と呼ばせて
+        <verse>
+            <line>どんなに大切でも</line>
+            <line>言葉にもカタチにも出来なけりゃ</line>
+            <line>やさしさなど不意味<feature type="SFP" gen="MMN">さ</feature></line>
+        </verse>
 
-また　ひとり読み返してる
-誕生日に<feature type="2p" gen="SM" polite="plain">君</feature>がくれた手紙
-ささやかな<feature type="2p" gen="SM" polite="plain">君</feature>の夢が
-胸を掻きむしる
+        <verse>
+            <line>ずっと探してた　これが愛ならば</line>
+            <line>愛の謎はもう解き明かしてる</line>
+            <line>叶わぬけれど　かけがえのない想いを</line>
+            <line>ひとり抱きしめて生きる<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
 
-<feature type="2p" gen="SM" polite="plain">君</feature>が抱えていた
-消えぬ愛の傷跡
-触れないことが
-やさしさと思ってた
-
-どんなに大切でも
-言葉にもカタチにも出来なけりゃ
-やさしさなど不意味<feature type="SFP" gen="MMN">さ</feature>
-
-ずっと探してた　これが愛ならば
-愛の謎はもう解き明かしてる
-叶わぬけれど　かけがえのない想いを
-ひとり抱きしめて生きる<feature type="SFP" gen="MMN">よ</feature>
-
-時間はいつか
-この恋に答えをくれる<feature type="SFP" gen="N">の</feature>？
-もう一度　あの日のように
-人を愛することなど出来る<feature type="SFP" gen="N">の</feature>？
-
-友達ではいられないことも
-恋人には戻れないことも
-わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を
-永遠の　はつ恋と呼ばせて
-せめて　はつ恋と呼ばせて
-永遠の　はつ恋と呼ばせて
+        <verse>
+            <line>時間はいつか</line>
+            <line>この恋に答えをくれる<feature type="SFP" gen="N">の</feature>？</line>
+            <line>もう一度　あの日のように</line>
+            <line>人を愛することなど出来る<feature type="SFP" gen="N">の</feature>？</line>
+        </verse>
+        <chorus>
+            <line>友達ではいられないことも</line>
+            <line>恋人には戻れないことも</line>
+            <line>わかってる<feature type="SFP" gen="MMN">よ</feature>　でもこの真心を</line>
+            <line>永遠の　はつ恋と呼ばせて</line>
+            <line>せめて　はつ恋と呼ばせて</line>
+            <line>永遠の　はつ恋と呼ばせて</line>
+        </chorus>
+    </body>
 
 
 

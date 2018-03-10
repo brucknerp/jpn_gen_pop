@@ -1,48 +1,70 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="english">NEO UNIVERSE</title>
 
-release date 1-19-2000
 
-歌手　L'Arc~ en~ Ciel
-Singer L'Arc~ en~ Ciel
+        <singer language="english" gender="male">L'Arc~ en~ Ciel</singer>
 
-作詞 hyde
-Lyricist hyde
+        <lyricist language="english" gender="male">hyde</lyricist>
+        <release>1-19-2000</release>
 
-title NEO UNIVERSE
+    </meta>
+    <body>
+        <verse>
+            <line>傾きかけた天秤の上へ</line>
+            <line>築き上げてく天よりも高く</line>
+        </verse>
 
-傾きかけた天秤の上へ
-築き上げてく天よりも高く
+        <verse>
+            <line>そんな飛べない無邪気な天使にも</line>
+            <line>朝は届く鮮やかに</line>
+        </verse>
+        <verse>
+            <line>その手を放さないで</line>
+            <line>目覚めるこの世界を感じて</line>
+        </verse>
 
-そんな飛べない無邪気な天使にも
-朝は届く鮮やかに
+        <verse>
+            <line>ひび割れそうでも透明なままで</line>
+            <line>昨日照らず待っていた<feature type="SFP" gen="MMN">んだね</feature></line>
+        </verse>
 
-その手を放さないで
-目覚めるこの世界を感じて
+        <verse>
+            <line>夢を見ていた奇跡はもう来ないけど</line>
+            <line>違い空が導いて</line>
+        </verse>
 
-ひび割れそうでも透明なままで
-昨日照らず待っていた<feature type="SFP" gen="MMN">んだね</feature>
+        <chorus>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は風のように優しく</line>
+            <line>鳥のように自由に</line>
+            <line>この世界をはばたく</line>
+            <line>恐がらずに　neo universe</line>
+        </chorus>
 
-夢を見ていた奇跡はもう来ないけど
-違い空が導いて
+        <verse>
+            <line>悲劇だとしても</line>
+            <line>
+                <feature type="2p" gen="SM" polite="polite">あなた</feature>に巡り会えてよかった</line>
+        </verse>
 
-<feature type="2p" gen="SM" polite="polite">あなた</feature>は風のように優しく
-鳥のように自由に
-この世界をはばたく
-恐がらずに　neo universe
+        <verse>
+            <line>背中合わせの絶望をゆだねた</line>
+            <line>信じていたい　いつまでも</line>
+        </verse>
 
-悲劇だとしても
-    <feature type="2p" gen="SM" polite="polite">あなた</feature>に巡り会えてよかった
+        <chorus>
+            <line>きれいな花のように笑って</line>
+            <line>星のように輝いて</line>
+            <line>その世界をはばたく</line>
+            <line>恐がらずに neo universe</line>
+        </chorus>
 
-背中合わせの絶望をゆだねた
-信じていたい　いつまでも
-
-きれいな花のように笑って
-星のように輝いて
-その世界をはばたく
-恐がらずに neo universe
-
-生まれ変わる季節<feature type="SFP" gen="SF">よ</feature>
-    切なすぎた季節<feature type="SFP" gen="SF">よ</feature>
-空のように一つに
-結ばれよう　neo universe</song>
+        <chorus>
+            <line>生まれ変わる季節<feature type="SFP" gen="SF">よ</feature></line>
+            <line> 切なすぎた季節<feature type="SFP" gen="SF">よ</feature></line>
+            <line>空のように一つに</line>
+            <line>結ばれよう　neo universe</line>
+        </chorus>
+    </body>
+</song>

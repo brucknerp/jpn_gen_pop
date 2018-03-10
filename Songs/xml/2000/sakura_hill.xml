@@ -1,55 +1,83 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
+        <title language="japanese">桜坂 </title>
+        <title language="english">Cherry Blossom Hill</title>
 
-release date 4-26-2000
+        <singer language="japanese" gender="male">福山雅治</singer>
+        <singer language="english" gender="male">Masaharu Fukuyama</singer>
 
-歌手　福山雅治
-Singer Masaharu Fukuyama
-
-作詞 福山雅治
-Lyricist Masaharu Fukuyama
-
-title 桜坂 Cherry Blossom Hill
-
-<feature type="2p" gen="SM" polite="plain">君</feature><feature type="SFP" gen="SF">よ</feature>ずっと幸せに
-風にそっと歌う<feature type="SFP" gen="MMN">よ</feature>
-愛は今も　愛のままで
-
-揺れる木漏れ日　薫る桜坂
-悲しみに似た　薄紅色
-
-    <feature type="2p" gen="SM" polite="plain">君</feature>がいたい　恋をしていた
-    <feature type="2p" gen="SM" polite="plain">君</feature>じゃなきゃダメなのに
-ひとつになれず
-
-愛と知っていたのに
-春はやってくるのに
-夢は今も　夢のままで
-
-頰にくちづけ　染まる桜坂
-抱きしめたい気持ちでいっぱいだった
-
-この街で　ずっとふたりで
-無邪気過ぎた約束
-涙に変わる
+        <lyricist language="japanese" gender="male">福山雅治</lyricist>
+        <lyricist language="english" gender="male">Masaharu Fukuyama</lyricist>
+        <release>4-26-2000</release>
 
 
-愛と知っていたのに
-花はそっと咲くのに
-    <feature type="2p" gen="SM" polite="plain">君</feature>は今も　<feature type="2p" gen="SM" polite="plain">君</feature>のままで
+    </meta>
+    <body>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature><feature type="SFP" gen="SF"
+                    >よ</feature>ずっと幸せに</line>
+            <line>風にそっと歌う<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>愛は今も　愛のままで</line>
+        </verse>
 
-逢えないけど
-季節は変わるけど
-愛しき人
+        <verse>
+            <line>揺れる木漏れ日　薫る桜坂</line>
+            <line>悲しみに似た　薄紅色</line>
+        </verse>
 
-    <feature type="2p" gen="SM" polite="plain">君</feature>だけが　わかってくれた
-憧れを追いかけた
-<feature type="1p" gen="SM" polite="plain">僕</feature>は生きる<feature type="SFP" gen="MMN">よ</feature>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>がいたい　恋をしていた</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>じゃなきゃダメなのに</line>
+            <line>ひとつになれず></line>
+        </verse>
 
-愛と知っていたのに
-春はやってくるのに
-夢は今も　夢のままで
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>春はやってくるのに</line>
+            <line>夢は今も　夢のままで</line>
+        </chorus>
+        <verse>
+            <line>頰にくちづけ　染まる桜坂</line>
+            <line>抱きしめたい気持ちでいっぱいだった</line>
+        </verse>
 
-    <feature type="2p" gen="SM" polite="plain">君</feature>よずっと幸せに
-風にそっと歌う<feature type="SFP" gen="MMN">よ</feature>
-愛は今も　愛のままで</song>
+        <verse>
+            <line>この街で　ずっとふたりで</line>
+            <line>無邪気過ぎた約束</line>
+            <line>涙に変わる</line>
+        </verse>
+
+
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>花はそっと咲くのに</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>は今も　<feature type="2p"
+                    gen="SM" polite="plain">君</feature>のままで</line>
+        </chorus>
+
+        <verse>
+            <line>逢えないけど</line>
+            <line>季節は変わるけど</line>
+            <line>愛しき人</line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>だけが　わかってくれた</line>
+            <line>憧れを追いかけた</line>
+            <line><feature type="1p" gen="SM" polite="plain">僕</feature>は生きる<feature type="SFP"
+                    gen="MMN">よ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>春はやってくるのに</line>
+            <line>夢は今も　夢のままで</line>
+        </chorus>
+
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>よずっと幸せに</line>
+            <line>風にそっと歌う<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>愛は今も　愛のままで</line>
+        </verse>
+    </body>
+</song>

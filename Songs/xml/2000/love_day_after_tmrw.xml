@@ -1,50 +1,49 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song><meta>
+<title language="english">Love, Day After Tomorrow</title>
 
-release date 12-8-1999
+<singer language="japanese" gender="female">倉木麻衣</singer>
+<singer language="english" gender="female">Mai Kuraki</singer>
 
-歌手　倉木麻衣
-Singer Mai Kuraki
+<lyricist language="japanese" gender="female">倉木麻衣</lyricist>
+<lyricist language="english" gender="female">Mai Kuraki</lyricist>
+<release>12-8-1999</release>
 
-作詞 倉木麻衣
-Lyricist Mai Kuraki
+</meta>
+<body><verse><line>いつかは　夢が叶う</line>
+<line>What are you hoping for</line>
+<line>涙も強がりも　投げ捨てることができる<feature type="SFP" gen="MMN">よね</feature></line></verse>
 
-title Love, Day After Tomorrow
+<verse><line>吹き抜ける風の　強さに　心が揺れ</line>
+<line>切ない想いと　今　闘ってる</line>
+<line>Don't ask me why どうしようもなく</line>
+<line>You are the first thing on my mind</line>
+</verse>
+<chorus><line>Love, day after tomorrow......I wish you knew</line>
+<line>曖昧に飾った言葉は要らない</line>
+<line>Love, day after tomorrow......I need you back</line>
+<line>ただ<feature type="2p" gen="SM" polite="plain">君</feature>と同じ速さで歩きたいから</line>
+</chorus>
+<verse><line>あんなに怒った顔は</line>
+<line>You never looked at me this way</line>
+<line>瞳の奥にある　真剣な愛とアドバイス</line>
+</verse>
+<verse><line>「ゴメン<feature type="SFP" gen="N">ネ</feature>」の一言</line>
+<line>メールで送った文字じゃ　「返事はこない<feature type="SFP" gen="N">ね</feature>」</line>
+<line>涙があふれてく　Don't ask me why どうしようもなく</line>
+<line>I can't see the world, walking through</line></verse>
 
-いつかは　夢が叶う
-What are you hoping for
-涙も強がりも　投げ捨てることができる<feature type="SFP" gen="MMN">よね</feature>
+<chorus><line>Love, day after tomorrow......I wish you knew</line>
+<line>迷わずに進みたい　どんな暗闇も</line>
+<line>Love, day after tomorrow......I need you back</line>
+<line>今　<feature type="2p" gen="SM" polite="plain">君</feature>と同じ光を目指しているから...</line>
+</chorus>
+<verse><line>振りだした雨　やさしくされる<feature type="SFP" gen="MMN">よ</feature></line>
+<line>きっと約束した日には</line>
+<line>もっと<feature type="2p" gen="SM" polite="plain">君</feature>に近づく　そして　迷わず</line>
+<line>言える Oh~ Stay with me</line></verse>
 
-吹き抜ける風の　強さに　心が揺れ
-切ない想いと　今　闘ってる
-Don't ask me why どうしようもなく
-You are the first thing on my mind
-
-Love, day after tomorrow......I wish you knew
-曖昧に飾った言葉は要らない
-Love, day after tomorrow......I need you back
-ただ<feature type="2p" gen="SM" polite="plain">君</feature>と同じ速さで歩きたいから
-
-あんなに怒った顔は
-You never looked at me this way
-瞳の奥にある　真剣な愛とアドバイス
-
-「ゴメン<feature type="SFP" gen="N">ネ</feature>」の一言
-メールで送った文字じゃ　「返事はこない<feature type="SFP" gen="N">ね</feature>」
-涙があふれてく　Don't ask me why どうしようもなく
-I can't see the world, walking through
-
-Love, day after tomorrow......I wish you knew
-迷わずに進みたい　どんな暗闇も
-Love, day after tomorrow......I need you back
-今　<feature type="2p" gen="SM" polite="plain">君</feature>と同じ光を目指しているから...
-
-振りだした雨　やさしくされる<feature type="SFP" gen="MMN">よ</feature>
-きっと約束した日には
-もっと<feature type="2p" gen="SM" polite="plain">君</feature>に近づく　そして　迷わず
-言える Oh~ Stay with me
-
-Love, day after tomorrow......I wish you knew
-I'm still in Love, But you're gove, And now my heart is breaking
-Love, day after tomorrow......I need you back
-My heart is waiting for your love, L.O.V.E one more day</song>
+<chorus><line>Love, day after tomorrow......I wish you knew</line>
+<line>I'm still in Love, But you're gove, And now my heart is breaking</line>
+<line>Love, day after tomorrow......I need you back</line>
+<line>My heart is waiting for your love, L.O.V.E one more day</line></chorus></body></song>

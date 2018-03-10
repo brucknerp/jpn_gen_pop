@@ -1,43 +1,61 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender F
+<song>
+    <meta>
+        <title language="english">SEASONS</title>
 
-release date 6-7-2000
+        <singer language="japanese" gender="female">浜崎あゆみ</singer>
+        <singer language="english" gender="female">Ayumi Hamasaki</singer>
 
-歌手　浜崎あゆみ
-Singer Ayumi Hamasaki
+        <lyricist language="japanese" gender="female">浜崎あゆみ</lyricist>
+        <lyricist language="english" gender="female">Ayumi Hamasaki</lyricist>
 
-作詞 浜崎あゆみ
-Lyricist Ayumi Hamasaki
+        <release>6-7-2000</release>
 
-title SEASONS
+    </meta>
+    <body>
+        <verse>
+            <line>今年もひとつ季節が巡って</line>
+            <line>思い出はまた遠くなった</line>
+            <line>曖昧だった夢と現実の</line>
+            <line>境界線は濃くなった</line>
+        </verse>
 
-今年もひとつ季節が巡って
-思い出はまた遠くなった
-曖昧だった夢と現実の
-境界線は濃くなった
+        <verse>
+            <line>それでもいつか<feature type="2p" gen="SM" polite="plain">君</feature>に話した</line>
+            <line>夢に嘘はひとつもなかった</line>
+            <line>La La-i</line>
+        </verse>
 
-それでもいつか<feature type="2p" gen="SM" polite="plain">君</feature>に話した
-夢に嘘はひとつもなかった
-La La-i
+        <verse>
+            <line>今日がとても楽しいと</line>
+            <line>明日もきっと楽しく</line>
+            <line>そんな日々は続いてく</line>
+            <line>そう思っていたあの頃</line>
+        </verse>
 
-今日がとても楽しいと
-明日もきっと楽しく
-そんな日々は続いてく
-そう思っていたあの頃
+        <verse>
+            <line>繰り返してく毎日に少し</line>
+            <line>物足りなさを感じながら</line>
+        </verse>
 
-繰り返してく毎日に少し
-物足りなさを感じながら
+        <verse>
+            <line>不自然な時代のせい<feature type="SFP" gen="MMN">だよ</feature>と</line>
+            <line>先回りして諦めていた</line>
+            <line>La La-i</line>
+        </verse>
 
-不自然な時代のせい<feature type="SFP" gen="MMN">だよ</feature>と
-先回りして諦めていた
-La La-i
+        <verse>
+            <line>今日がとても悲しくて</line>
+            <line>明日もしも泣いていても</line>
+            <line>そんな日々もあった<feature type="SFP" gen="N">ね</feature>と</line>
+            <line>笑える日が来る<feature type="SFP" gen="N">だろう</feature></line>
+        </verse>
 
-今日がとても悲しくて
-明日もしも泣いていても
-そんな日々もあった<feature type="SFP" gen="N">ね</feature>と
-笑える日が来る<feature type="SFP" gen="N">だろう</feature>
-
-幾度巡り巡りゆく
-限りある季節の中に
-<feature type="1p" gen="SM" polite="plain">僕ら</feature>は今生きていて
-そして何を見つける<feature type="SFP" gen="N">だろう</feature></song>
+        <verse>
+            <line>幾度巡り巡りゆく</line>
+            <line>限りある季節の中に</line>
+            <line><feature type="1p" gen="SM" polite="plain">僕ら</feature>は今生きていて</line>
+            <line>そして何を見つける<feature type="SFP" gen="N">だろう</feature></line>
+        </verse>
+    </body>
+</song>

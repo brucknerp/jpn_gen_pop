@@ -1,29 +1,40 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>gender M
+<song>
+    <meta>
 
-release date 7-25-1990
+        <title language="japanese">情熱の薔薇</title>
+        <title language="english">rose of passion</title>
 
-歌手　THE BLUE HEARTS
-Singer THE BLUE HEARTS
 
-作詞 甲本ヒロト
-Lyricist hiroto kohmoto
+        <singer language="english" gender="male">THE BLUE HEARTS</singer>
 
-title 情熱の薔薇　rose of passion
 
-永遠なの<feature type="SFP" gen="N">か</feature>本当<feature type="SFP" gen="N">か</feature>　時の流れは続く<feature type="SFP" gen="N">のか</feature>
-いつまで経っても変わらない　そんな物ある<feature type="SFP" gen="N">だろうか</feature>
-見てきた物や聞いた事　今まで覚えた全部
-でたらめだったら面白い　そんな気持ち分かる<feature type="SFP" gen="MF">でしょう</feature>
+        <lyricist language="japanese" gender="male">甲本ヒロト</lyricist>
+        <lyricist language="english" gender="male">hiroto kohmoto</lyricist>
+        <release>7-25-1990</release>
+    </meta>
+    <body>
+        <verse>
+            <line>永遠なの<feature type="SFP" gen="N">か</feature>本当<feature type="SFP" gen="N"
+                    >か</feature>　時の流れは続く<feature type="SFP" gen="N">のか</feature></line>
+            <line>いつまで経っても変わらない　そんな物ある<feature type="SFP" gen="N">だろうか</feature></line>
+            <line>見てきた物や聞いた事　今まで覚えた全部</line>
+            <line>でたらめだったら面白い　そんな気持ち分かる<feature type="SFP" gen="MF">でしょう</feature></line>
+        </verse>
 
-答えはきっと奥の方　心のずっと奥の方
-涙はそこからやって来る　心のずっと奥の方
-
-なるべく小さな幸せと　なるべく小さな不幸せ
-なるべくいっぱい集めよう　そんな気持ち分かる<feature type="SFP" gen="MF">でしょう</feature>
-答えはきっと奥の方　心のずっと奥の方
-涙はそこからやって来る　心のずっと奥の方
-
-情熱の真っ赤な薔薇を　胸に咲かせよう
-花瓶に水をあげ<feature type="hon" gen="MF">ましょう</feature>　心のずっと奥の方
+        <verse>
+            <line>答えはきっと奥の方　心のずっと奥の方</line>
+            <line>涙はそこからやって来る　心のずっと奥の方</line>
+        </verse>
+        <verse>
+            <line>なるべく小さな幸せと　なるべく小さな不幸せ</line>
+            <line>なるべくいっぱい集めよう　そんな気持ち分かる<feature type="SFP" gen="MF">でしょう</feature></line>
+            <line>答えはきっと奥の方　心のずっと奥の方</line>
+            <line>涙はそこからやって来る　心のずっと奥の方</line>
+        </verse>
+        <verse>
+            <line>情熱の真っ赤な薔薇を　胸に咲かせよう</line>
+            <line>花瓶に水をあげ<feature type="hon" gen="MF">ましょう</feature>　心のずっと奥の方</line>
+        </verse>
+    </body>
 </song>
