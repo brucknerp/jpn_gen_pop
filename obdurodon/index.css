@@ -1,0 +1,118 @@
+h1 {
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
+
+h2 {
+
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
+
+h3 {
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
+
+
+figure {
+    display: table;
+    float: right;
+    padding: 10px;
+    float: right;
+    top: 100px;
+
+}
+
+figure img{
+    width: 320px;
+    height: 192px;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+    font-size: smaller;
+
+}
+
+a{
+    font-family: helvetica, open-sans, sans-serif;
+    color: blue;
+    text-decoration: none;
+}
+.mainTxt {
+    display: block;
+    width: 40%;
+    border: 2px solid #c30000;
+    margin-left: 20%;
+}
+
+p {
+
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
+
+a:link {
+    font-family: helvetica, open-sans, sans-serif;
+    color: blue;
+}
+
+a:visited {
+    font-family: helvetica, open-sans, sans-serif;
+    color: purple;
+}
+
+a:hover {
+    font-family: helvetica, open-sans, sans-serif;
+    color: teal;
+}
+
+
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+    background-color: #ffe6e6;
+    border: 2px solid white;
+    float: left;
+    left: 50px;
+
+}
+
+.nav li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #c30000;
+    text-align: center;
+    border-bottom: 2px solid white;
+
+}
+
+.nav li:last-child {
+    border-bottom: none;
+}
+
+.nav li a:hover {
+    background-color: #c30000;
+    color: white;
+}
+
+.nav li a:active {
+    background-color: #c30000;
+    color: white;
+}
