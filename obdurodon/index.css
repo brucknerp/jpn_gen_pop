@@ -116,3 +116,7 @@ a:hover {
     background-color: #c30000;
     color: white;
 }
+
+.romaji{
+    font-style: italic;
+}
