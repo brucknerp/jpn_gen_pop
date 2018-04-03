@@ -1,15 +1,14 @@
-.body {
-    display: flex;
-    flex-direction: row;
+body {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
 }
-.nav {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-}
-.main {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center
+  .main    { flex: 3 0px; }
+  .nav { order: 1; } 
+  .main    { order: 2; }
+  
+
+body {
+  padding: 2em; 
 }
