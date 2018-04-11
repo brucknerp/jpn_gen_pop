@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <female>
+        <y1980>
+            <SF>15</SF>
+            <MF></MF>
+            <MMN></MMN>
+            <N></N>
+            <SM></SM>
+        </y1980>
+    </female>
+    <male>
+        <y1980>
+            <SF></SF>
+            <MF></MF>
+            <MMN>9</MMN>
+            <N></N>
+            <SM>32</SM>
+        </y1980>   
+    </male>
+</data>
