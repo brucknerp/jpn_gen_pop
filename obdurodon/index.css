@@ -1,15 +1,21 @@
-body {
-  display: flex;  
-  flex-flow: row wrap;
-  text-align: center;
+.body {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
 }
-  .main    { flex: 3 0px; }
-  .nav { order: 1; } 
-  .main    { order: 2; }
-  
+.main {
+    flex: 3 0px;
+}
+.nav {
+    order: 1;
+}
+.main {
+    order: 2;
+}
+
 
 body {
-  padding: 2em; 
+    padding: 2em;
 }
 h1 {
     color: #c30000;
@@ -40,7 +46,7 @@ figure {
 
 }
 
-figure img{
+figure img {
     width: 320px;
     height: 192px;
 }
@@ -55,13 +61,12 @@ figcaption {
 
 }
 
-a{
+a {
     font-family: helvetica, open-sans, sans-serif;
     color: blue;
     text-decoration: none;
 }
 .mainTxt {
-    display: block;
     width: 40%;
     border: 2px solid #c30000;
     margin-left: 20%;
@@ -130,6 +135,6 @@ a:hover {
     color: white;
 }
 
-.romaji{
+.romaji {
     font-style: italic;
 }
