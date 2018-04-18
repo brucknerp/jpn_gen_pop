@@ -104,7 +104,16 @@ a:hover {
     color: teal;
 }
 
+.main ul{
+    list-style-type: none;
+}
 
+.main li{
+    text-decoration: none;
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
 
 .nav ul {
     list-style-type: none;
