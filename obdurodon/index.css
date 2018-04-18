@@ -13,6 +13,13 @@
     order: 2;
 }
 
+figure{
+    order: 3;
+}
+
+figure{
+    order: 4;
+}
 
 body {
     padding: 2em;
