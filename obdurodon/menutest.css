@@ -1,0 +1,96 @@
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+    background-color: #ffe6e6;
+    border: 2px solid white;
+    float: left;
+    left: 50px;
+    position: absolute;
+
+}
+
+.sub ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 160px;
+    background-color: #ffe6e6;
+    border: 2px solid white;
+    float: left;
+    visibility:hidden;
+    position: absolute;
+
+}
+
+.nav li{
+    list-style-type: none;
+    font-family: helvetica, open-sans, sans-serif;
+    background-color: #ffe6e6;
+    width: 190px;
+    position: relative;
+    
+}
+
+.nav li a {
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: #c30000;
+    text-align: center;
+    border-bottom: 2px solid white;
+    width: 160px;
+}
+
+.nav ul li{
+    position: relative;
+}
+
+.nav li ul{
+    position: absolute;
+    display: none;
+    left: 190px;
+    border-left: none;
+}
+
+.nav li ul ul{
+    position: absolute;
+    display: none;
+    left: 190px;
+    border-left: none;
+}
+
+.nav li li ul{
+    position: absolute;
+    display: none;
+    left: 190px;
+    border-left: none;
+}
+
+.sub ul li{
+    position: relative;
+} 
+
+.nav li:hover ul { 
+    display: block; 
+    
+}
+
+.nav li li:hover ul { display: block; 
+visibility: visible;
+}
+
+.nav li:last-child {
+    border-bottom: none;
+}
+
+.nav li a:hover {
+    background-color: #c30000;
+    color: white;
+}
+
+.nav li a:active {
+    background-color: #c30000;
+    color: white;
+}

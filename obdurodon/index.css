@@ -115,46 +115,46 @@ a:hover {
     font-family: helvetica, open-sans, sans-serif;
 }
 
-.nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 160px;
-    background-color: #ffe6e6;
-    border: 2px solid white;
-    float: left;
-    left: 50px;
-
-}
-
-.nav li a {
-    display: block;
-    padding: 8px 16px;
-    text-decoration: none;
-    color: #c30000;
-    text-align: center;
-    border-bottom: 2px solid white;
-
-}
-
-.nav li:last-child {
-    border-bottom: none;
-}
-
-.nav li a:hover {
-    background-color: #c30000;
-    color: white;
-}
-
-.nav li a:active {
-    background-color: #c30000;
-    color: white;
-}
-
 .romaji {
     font-style: italic;
 }
 
-.feature {
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted #08C1B8;
     color: #08C1B8;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
 }

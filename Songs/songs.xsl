@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs"
-    version="2.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
     xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="../../../obdurodon/index.css"/>
+                <link rel="stylesheet" type="text/css" href="index.css"/>
                 <title>Songs</title>
             </head>
             <body>
@@ -26,10 +24,12 @@
             <xsl:apply-templates/>
         </section>
     </xsl:template>
-    <xsl:template match=" title | singer | lyricist | release ">
+    <xsl:template match="title | singer | lyricist | release">
         <xsl:choose>
             <xsl:when test="@language = 'japanese'">
-                <h2 class="japanese"><xsl:apply-templates/></h2>
+                <h2 class="japanese">
+                    <xsl:apply-templates/>
+                </h2>
             </xsl:when>
             <xsl:otherwise>
                 <h2 class="english">
@@ -38,15 +38,28 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match=" verse | chorus ">
+    <xsl:template match="verse | chorus">
         <p>
             <xsl:apply-templates/>
         </p>
     </xsl:template>
     <xsl:template match="feature">
-        <span class="feature">
+        <div class="tooltip">
             <xsl:apply-templates/>
-        </span>
+            <span class="tooltiptext">
+                <xsl:value-of select="@type"/>
+                <xsl:text>, </xsl:text>
+                <xsl:value-of select="@gen"/>
+                <xsl:if test="@polite">
+                    <xsl:text>, </xsl:text>
+                <xsl:value-of select="@polite"/>
+                </xsl:if>
+                <xsl:if test="@quote">
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="@quote"/>
+                </xsl:if>
+            </span>
+        </div>
     </xsl:template>
     <xsl:template match="line">
         <xsl:apply-templates/>
