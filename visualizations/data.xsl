@@ -5,20 +5,17 @@
     version="3.0">
     <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
 <xsl:template match="/">
-    <data><xsl:apply-templates/></data>
+    <data><xsl:apply-templates select="//song"/></data>
 </xsl:template>
-    <xsl:template match="meta">
-        <female></female>
-        <male></male>
-    </xsl:template>
-    <xsl:template match="meta">
-        <year></year>
-    </xsl:template>
-    <xsl:template match="verse">
-        <SF></SF>
-        <MF></MF>
-        <MMN></MMN>
-        <N></N>
-        <SM></SM>
+    <xsl:template match="song">
+        <female><xsl:apply-templates select="//feature/@gen"/></female>
+       <!-- <male><xsl:apply-templates/></male>-->
+</xsl:template>
+    <xsl:template match="body">
+        <SF><xsl:apply-templates select="count(//feature[@gen='SF'])"/></SF>
+        <MF><xsl:apply-templates select="count(//feature[@gen='MF'])"/></MF>
+        <MMN><xsl:apply-templates select="count(//feature[@gen='MMN'])"/></MMN>
+        <N><xsl:apply-templates select="count(//feature[@gen='N'])"/></N>
+        <SM><xsl:apply-templates select="count(//feature[@gen='SM'])"/></SM>
     </xsl:template>
 </xsl:stylesheet>

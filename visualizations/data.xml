@@ -1,77 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <female>
-        <y1980>
-            <SF>43</SF>
-            <MF>5</MF>
-            <N></N>
-            <MMN>1</MMN>
-            <SM></SM>
-        </y1980>
-        <y1990>
-            <SF>41</SF>
-            <MF>2</MF>
-            <N>13</N>
-            <MMN>5</MMN>
-            <SM></SM>
-        </y1990>
-        <y2000>
-            <SF>25</SF>
-            <MF>2</MF>
-            <N>9</N>
-            <MMN>12</MMN>
-            <SM>6</SM>
-        </y2000>
-        <y2010>
-            <SF>18</SF>
-            <MF>3</MF>
-            <N>15</N>
-            <MMN>12</MMN>
-            <SM>13</SM>
-        </y2010>
-        <y2017>
-            <SF>24</SF>
-            <MF></MF>
-            <N>10</N>
-            <MMN>13</MMN>
-            <SM>10</SM>
-        </y2017>
+        <feature gen="SF">151</feature>
+        <feature gen="MF">11</feature>
+        <feature gen="N">25</feature>
+        <feature gen="MMN">43</feature>
+        <feature gen="SM">29</feature>
     </female>
-    <male>
-        <y1980>
-            <SF></SF>
-            <MF>1</MF>
-            <N>2</N>
-            <MMN>11</MMN>
-            <SM>42</SM>
-        </y1980>   
-        <y1990>
-            <SF>1</SF>
-            <MF>3</MF>
-            <N>7</N>
-            <MMN>10</MMN>
-            <SM>7</SM>
-        </y1990>
-        <y2000>
-            <SF>5</SF>
-            <MF></MF>
-            <N>3</N>
-            <MMN>14</MMN>
-            <SM>28</SM>
-        </y2000>
-        <y2010>
-            <SF>2</SF>
-            <MF></MF>
-            <N>6</N>
-            <MMN>7</MMN>
-            <SM>17</SM>
-        </y2010>
-        <y2017>
-            <SF>1</SF>
-            <MF></MF>
-            <N>7</N>
-            <MMN>15</MMN>
-            <SM>38</SM>
-        </y2017>
+     <male>
+            <feature gen="SF">9</feature>
+            <feature gen="MF">4</feature>
+            <feature gen="N">25</feature>
+            <feature gen="MMN">57</feature>
+            <feature gen="SM">132</feature>
     </male>
 </data>
