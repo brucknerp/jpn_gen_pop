@@ -2,6 +2,7 @@
     display: flex;
     flex-flow: row wrap;
     text-align: center;
+    border: 2px solid #c30000;
 }
 .main {
     flex: 3 0px;
@@ -13,13 +14,17 @@
     order: 2;
 }
 
+
 body {
     padding: 2em;
+    
 }
+
 h1 {
     color: #c30000;
     text-align: center;
     font-family: helvetica, open-sans, sans-serif;
+    text-decoration: underline;
 }
 
 h2 {
@@ -40,7 +45,6 @@ figure {
     display: table;
     float: right;
     padding: 10px;
-    float: right;
     top: 100px;
 
 }
@@ -64,11 +68,6 @@ a {
     font-family: helvetica, open-sans, sans-serif;
     color: blue;
     text-decoration: none;
-}
-.mainTxt {
-    width: 40%;
-    border: 2px solid #c30000;
-    margin-left: 20%;
 }
 
 p {

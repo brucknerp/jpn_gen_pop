@@ -9,8 +9,9 @@
         <!--#include virtual="menu.xhtml" -->
         <div class="main"><h1>Methods</h1>
         <h2>Media</h2>
+    <section>    
         <p> Gendered language in Japanese appears most often in speech, not writing, so we wanted to
-            work with a conversational corpus. There are several data sets, like the <a
+            work with a conversastional corpus. There are several data sets, like the <a
                 href="http://pj.ninjal.ac.jp/corpus_center/csj/en/">Corpora for Spontanous Japanese
                 (CSJ)</a>, available, however the issue with these is that they are made in a few
             years, not over a span of a few decades like we needed for our purposes. </p>
@@ -28,31 +29,31 @@
             picked the next highest ranked single. Thus, in total there are 50 songs, which you can
             explore by navigating to the Songs page.</p>
         <h2>Linguistic Features</h2>
+        <figure>
+            <img src="sfpchart.png" alt="Chart of Japanese sentence-final forms and gender associations in Standard and Kansai dialects"/>
+            <figcaption>  
+                [source: <a href="https://is.muni.cz/el/1421/podzim2017/JAP525/um/17cindi.pdf">Japanese Men's Linguistic Stereotypes and Realities (Sreetharan 2004)</a>]
+            </figcaption>
+        </figure>
+        <figure>
+            <img src="fpp_chart.png" alt="Chart of Japanese first-person pronouns and gender/politeness levels"/>
+            <figcaption>  
+                [source: <a href="https://www.duo.uio.no/bitstream/handle/10852/38807/Vranic-Master.pdf?sequence=1">Japanese Women’s Language (Vranic 2013)</a>]
+            </figcaption>
+        </figure>
         <p> The linguistic features we chose to focus on were sentence-final particles (SFP’s) and
-            pronouns. </p>
+            pronouns. There were a handful of other features we noted in our markup, such as the addition of an
+            honorific marker (お- o-, ご- go-) to a noun (marks femininity), but these were few in total.</p>
         <p> SFP’s are perhaps the easiest gendered language to identify in Japanese, and are added
             at the end of utterances, often optionally or stylistically. The chart below identifies
             some of these particles, and how they can differ between dialects: </p>
-            <figure>
-                <img src="sfpchart.png" alt="Chart of Japanese sentence-final forms and gender associations in Standard and Kansai dialects"/>
-                <figcaption>  
-                    [source: <a href="https://is.muni.cz/el/1421/podzim2017/JAP525/um/17cindi.pdf">Japanese Men's Linguistic Stereotypes and Realities (Sreetharan 2004)</a>]
-                </figcaption>
-            </figure>
         <p> Pronouns in Japanese change depending on the gender of the speaker, the gender of the
             recipient, and the level of politeness necessary for the situation. For a plain level of politeness, 
             a man could use "君" <span class="romaji">kimi</span> for the second
             person, while a women is expected to use "あなた" <span class="romaji">anata</span>. The chart below
             details usage for different first-person pronouns: </p>
-            <figure>
-                <img src="fpp_chart.png" alt="Chart of Japanese first-person pronouns and gender/politeness levels"/>
-                <figcaption>  
-                    [source: <a href="https://www.duo.uio.no/bitstream/handle/10852/38807/Vranic-Master.pdf?sequence=1">Japanese Women’s Language (Vranic 2013)</a>]
-                </figcaption>
-            </figure>
-        <p>There were a handful of other features we noted in our markup, such as the addition of an
-            honorific marker (お- o-, ご- go-) to a noun (marks femininity), but these were few in total.</p>
-        <h2>Computational Methods</h2>
+        </section>
+        <section><h2>Computational Methods</h2>
         <p>We transcribed the songs first in .txt files, then converted them to XML with both
             structural and linguistic mark-up. In the structural markup, we accounted for verses and
             lines. For linguistic mark-up, we tagged features with attributes for the type (SFP or
@@ -65,6 +66,6 @@
             Japanese was standardized at the beginning of the twentieth century, it was heavily
             biased towards male speech, which became “neutral” while women’s speech remained marked
             as uniquely feminine (Nakamura, 2014). As a result, there are less instances of
-            masculine marked speech than feminine marked speech.</p></div>
+            masculine marked speech than feminine marked speech.</p></section></div>
     </body>
 </html>
