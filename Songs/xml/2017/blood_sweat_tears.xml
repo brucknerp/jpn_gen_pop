@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="male" year="2017">
     <meta>
         <title language="japanese">血，汗，涙 -Japanese ver.-　</title>
         <title language="english">Blood, Sweat, Tears</title>

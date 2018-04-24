@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="male" year="2000">
     <meta>
         <title language="english">NEO UNIVERSE</title>
 
@@ -7,7 +7,7 @@
         <singer language="english" gender="male">L'Arc~ en~ Ciel</singer>
 
         <lyricist language="english" gender="male">hyde</lyricist>
-        <release>1-19-2000</release>
+        <release>4-26-2000</release>
 
     </meta>
     <body>

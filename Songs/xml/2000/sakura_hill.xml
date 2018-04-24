@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="male" year="2000">
     <meta>
         <title language="japanese">桜坂 </title>
         <title language="english">Cherry Blossom Hill</title>

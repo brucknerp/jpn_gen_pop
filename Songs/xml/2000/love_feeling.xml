@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="female" year="2000">
     <meta>
         <title language="japanese">愛情</title>
         <title language="english">Love Feeling</title>
@@ -9,7 +9,7 @@
 
         <lyricist language="japanese" gender="female">小柳ゆき</lyricist>
         <lyricist language="english" gender="female">Yuki Koyanagi</lyricist>
-        <release> 4-12-2000</release>
+        <release>4-12-2000</release>
 
     </meta>
     <body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="female" year="1980">
     <meta>
         <title language="japanese">曲名 異邦人</title>
         <title language="english">Stranger</title>

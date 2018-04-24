@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="male" year="1990">
 
     <meta>
         <title language="japanese">JEALOUSYを眠らせて</title>

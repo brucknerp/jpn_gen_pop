@@ -1,5 +1,5 @@
 <?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="female" year="2017">
     <meta>
         <title language="japanese">慕情</title>
         <title language="english">Love</title>
