@@ -1,6 +1,6 @@
 .nav ul {
     list-style-type: none;
-    margin: 0;
+    margin-top: -38px;
     padding: 0;
     width: 160px;
     background-color: #ffe6e6;
@@ -13,7 +13,7 @@
 
 .sub ul {
     list-style-type: none;
-    margin: 0;
+    margin-top: -38px;
     padding: 0;
     width: 160px;
     background-color: #ffe6e6;

@@ -17,7 +17,8 @@
                     <link rel="stylesheet" type="text/css" href="index.css"/>
                     <title>Songs</title>
                 </head>
-                <body>
+                <body class="body">
+             
                     <div class="main">
                         <xsl:apply-templates/>
                     </div>
