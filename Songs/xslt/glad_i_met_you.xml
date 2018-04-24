@@ -1,0 +1,75 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">あなたに会えてよかった</title>
+        <title language="english">I'm glad I met you</title>
+
+        <singer language="japanese" gender="female">小泉今日子</singer>
+        <singer language="english" gender="female">Kyouko Koizumi</singer>
+
+        <lyricist language="japanese" gender="female">小泉今日子</lyricist>
+        <lyricist language="english" gender="female">Kyouko Koizumi</lyricist>
+
+        <release>5-1991</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>サヨナラさえ　上手に言えなかった</line>
+            <line>Ah <feature type="2p" gen="SF" polite="plain"
+                    >あなた</feature>の愛を　信じられず　おびえていた<feature type="SFP" gen="SF">の</feature></line>
+            <line>時がすぎて　今　心から言える</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature
+                    type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain"
+                    >私</feature></line>
+        </verse>
+
+        <verse>
+            <line>淋しい夜　そばに居てくれた<feature type="SFP" gen="N">ね</feature></line>
+            <line>言葉に出来ない気持ち　わかってくれた<feature type="SFP" gen="N">ね</feature></line>
+            <line>何にも言えず　ただ　泣いてるだけで</line>
+            <line>本当の気持ち　いつでも　言えたなら</line>
+            <line>そばに居れた<feature type="SFP" gen="N">ね</feature>　ずっと</line>
+        </verse>
+
+        <verse>
+            <line>サヨナラさえ　上手に言えなかった</line>
+            <line>Ah <feature type="2p" gen="SF" polite="plain"
+                    >あなた</feature>の愛を　答えられず　逃げてごめん<feature type="SFP" gen="N">ね</feature></line>
+            <line>時が過ぎて　今　心から言える</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature
+                    type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain"
+                    >私</feature></line>
+        </verse>
+
+        <verse>
+            <line>切ない夜　キレイに写った<feature type="SFP" gen="N">ね</feature></line>
+            <line>こわれそうで　大切に抱きしめあった<feature type="SFP" gen="N">ね</feature></line>
+            <line>余裕がなくて　ただ　自信がなくて</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>のゆれる気持ちに　気づかない</line>
+            <line>ふりをしてた<feature type="SFP" gen="SF">の</feature>　ずっと</line>
+        </verse>
+
+        <verse>
+            <line>追いかけた　夢が叶うようにと</line>
+            <line>ねぇ　どこかで　そっと</line>
+            <line>祈ってる　<feature type="2p" gen="SF" polite="plain">あなた</feature>のために</line>
+            <line>遠い空に輝く星のように</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>は　ずっと　そのままで　変わらないで</line>
+        </verse>
+        <verse>
+            <line>思い出が　星になる...</line>
+        </verse>
+
+        <verse>
+            <line>時が過ぎて　今　心から言える</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>に会えて　よかった<feature
+                    type="SFP" gen="N">ね</feature>　きっと　<feature type="1p" gen="SF" polite="plain"
+                    >私</feature></line>
+        </verse>
+
+        <verse>
+            <line>世界で一番　素敵な恋をした<feature type="SFP" gen="N">ね</feature></line>
+        </verse>
+    </body>
+</song>

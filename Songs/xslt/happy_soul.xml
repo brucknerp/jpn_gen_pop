@@ -1,0 +1,96 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">HAPPY</title>
+
+        <singer language="japanese" gender="male">3代目 J soul brothers from EXILE TRIBE</singer>
+        <singer language="english" gender="male">3rd Generation J Soul Brothers from EXILE
+            TRIBE</singer>
+
+        <lyricist language="japanese" gender="male">今市隆二　小竹正人</lyricist>
+        <lyricist language="english" gender="male">Ryuji Imaicji Masato Kodake</lyricist>
+
+
+        <release>3-8-2017</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>ネガティブを吹き飛ばしたら</line>
+            <line>ポジティブになるってことを</line>
+            <line>時にEverybody 忘れがちで...</line>
+            <line>案外何でも Time will make it better</line>
+        </verse>
+        <verse>
+            <line>決して変わらない　そんなものはない</line>
+            <line>Let's go Let it go We have to go</line>
+            <line>Because a day to shine must be waiting</line>
+            <line>楽しむことで笑顔が生まれ</line>
+            <line>そうしてもう未来泳法ハッピーなライフ</line>
+        </verse>
+
+        <chorus>
+            <line>Why don't you come on? いつまでも　(Na Na Na...)</line>
+            <line><feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La
+                Life)</line>
+            <line>人生 Happy Happy Happyに行こう</line>
+            <line>ずっとどこまでも</line>
+            <line>Are you ready to go? Are you ready to go? </line>
+            <line>And get happy!</line>
+        </chorus>
+
+        <verse>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕たち</feature>が進んできた道</line>
+            <line>乗り越えてきたDramatic road</line>
+            <line>時にUp and down ゆえにUp side down</line>
+            <line>いいことばっかじゃなかったNight and day</line>
+        </verse>
+        <verse>
+            <line>また迷っても　光射すから</line>
+            <line>Let's go Let it go We have to go</line>
+            <line>Because the rain will stop surely soon</line>
+            <line>
+                <feature type="2p" gen="SM" polite="plain">君</feature>が泣いても　<feature type="1p"
+                    gen="SM" polite="plain">僕</feature>が笑う</line>
+            <line>だからもう未来永劫ハッピーなラブ</line>
+        </verse>
+
+        <chorus>
+            <line>Why don't you come on? いつまでも　(Na Na Na...)</line>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La
+                Life)</line>
+            <line>みんな Happy Happy Happyに行こう</line>
+            <line>軽快な足取りで</line>
+            <line>Are you ready to go? Are you ready to go? </line>
+            <line>And get happy!</line>
+        </chorus>
+        <verse>
+            <line>Baby baby <feature type="2p" gen="SM" polite="plain">君</feature>は本当にHappy?</line>
+            <line>Be my baby 自分で決めるのがHappy</line>
+            <line>悩みなんて七転び八起きで</line>
+            <line>Through Through Yeah Yeah Yeah</line>
+        </verse>
+
+        <chorus>
+            <line>いつまでも　(Na Na Na...)</line>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕ら</feature>はなんだかんだ　(La La La La La
+                Life)</line>
+            <line>人生 Happy Happy Happyに行こう</line>
+            <line>ずっとどこまでも</line>
+            <line>Are you ready to go? Are you ready to go? </line>
+            <line>And get happy!</line>
+        </chorus>
+
+        <chorus>
+            <line>これからも　(Na Na Na...)</line>
+            <line>そうさ抱き合って　(La La La La La Life)</line>
+            <line>みんな Happy Happy Happyになろう</line>
+            <line>軽快な足取りで</line>
+            <line>Are you ready to go? Are you ready to go? </line>
+            <line>And get happy!</line>
+        </chorus>
+    </body>
+</song>

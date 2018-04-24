@@ -1,0 +1,93 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">道しるべ</title>
+        <title language="english">Signpost</title>
+        <singer language="japanese" gender="male">舞祭組</singer>
+        <singer language="english" gender="male">Busaiku </singer>
+
+        <lyricist language="japanese" gender="male">舞祭組</lyricist>
+        <lyricist language="english" gender="male">Busaiku</lyricist>
+
+        <release>1-4-2017</release>
+    </meta>
+    <body>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>からもらった　1000の言葉忘れない</line>
+            <line>震えた手　握りしめた　負けない<feature type="SFP" gen="MMN">よ</feature><feature type="1p"
+                    gen="SM" polite="plain">僕ら</feature></line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="polite"
+                >あなた</feature>といると何故か　全てが上手くいく気がした</line>
+            <line>戸惑い　迷い　不安さえも...</line>
+        </verse>
+        <verse>
+            <line>本当に２つに割れちゃうなんて　お尻みたいで嫌<feature type="SFP" gen="MMN">だね</feature>嫌<feature
+                    type="SFP" gen="MMN">だね</feature></line>
+            <line>そんな冗談も言えないから</line>
+        </verse>
+
+        <verse>
+            <line><feature type="1p" gen="SM" polite="plain">僕ら</feature>の道を照らしてる</line>
+            <line>輝くペリドットが心を繋ぐ絆</line>
+        </verse>
+
+        <verse>
+            <line>ありがとうじゃ足りない<feature type="SFP" gen="SF">の</feature>　思うほど切なく</line>
+            <line>声に出して叫び続けた　届く<feature type="SFP" gen="N">かな</feature></line>
+            <line> これからも<feature type="1p" gen="SM" polite="plain">僕ら</feature>は夢を乗せて走る<feature
+                    type="SFP" gen="MMN">よ</feature></line>
+            <line>下手な歌声でも<feature type="2p" gen="SM" polite="polite"
+                >あなた</feature>に響くように”ぱにたん”</line>
+        </verse>
+
+        <verse>
+            <line>「もし”この宇宙で一番綺麗なものは何？”と訊かれたら，</line>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕</feature>は”<feature type="2p" gen="SM"
+                    polite="polite">あなた</feature>の笑顔”と答え<feature type="SFP" gen="N"
+                >ます</feature>。</line>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は笑顔で世界を救えるスーパーマン<feature
+                    type="SFP" gen="N">です</feature>から。」</line>
+        </verse>
+        <verse>
+            <line>「<feature type="1p" gen="SM" polite="plain"
+                    >僕</feature>が大好きな人が決めた事だから，受け入れる<feature type="SFP" gen="MMN"
+                >よ</feature>。</line>
+            <line> 笑顔をくれたように，<feature type="1p" gen="SM" polite="plain">僕</feature>も笑顔を届ける<feature
+                    type="SFP" gen="MMN">よ</feature>。</line>
+            <line>泣いたって仕方ない。」</line>
+        </verse>
+
+        <verse>
+            <line>「別の道を歩くのは悲しいものじゃない。</line>
+            <line>人を成長させるものな<feature type="SFP" gen="MMN">んだ</feature>。</line>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕</feature>は前を向いて歩く<feature type="SFP"
+                    gen="MMN">よ</feature>。だから，ありがとう。」</line>
+        </verse>
+        <verse>
+            <line>「<feature type="2p" gen="SM" polite="polite">あなた</feature>がくれた笑顔の日々が，</line>
+            <line> これからの<feature type="1p" gen="SM" polite="plain">僕</feature>の歩む道を教えてくれた。</line>
+            <line><feature type="1p" gen="SM" polite="plain"
+                >僕ら</feature>のたくさんのありがとうを最後まで聴いて下さい。」</line>
+        </verse>
+
+        <verse>
+            <line>前を見よう　振り向かず　<feature type="1p" gen="SM" polite="plain">僕ら</feature>は進める</line>
+            <line>心には<feature type="2p" gen="SM" polite="polite">あなた</feature>がいる</line>
+            <line>これからも</line>
+        </verse>
+
+        <verse>
+            <line>
+                <feature type="1p" gen="SM" polite="plain">僕ら</feature>は世界を渡る<feature type="SFP"
+                    gen="MMN">よ</feature>　<feature type="2p" gen="SM" polite="polite"
+                >あなた</feature>とは違う道で</line>
+            <line>もう二度とくるはずのない　この気持ちを</line>
+            <line>笑われても大丈夫　泥臭く生きる<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>もう見当たらないその姿　<feature type="1p" gen="SM" polite="plain">僕ら</feature>だけの道しるべ</line>
+        </verse>
+    </body>
+</song>

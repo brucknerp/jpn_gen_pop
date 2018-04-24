@@ -1,0 +1,96 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">One More Time</title>
+
+
+        <singer language="english" gender="female">TWICE</singer>
+
+
+        <lyricist language="english" gender="female">Natsumi Watanabe・YHANAEL</lyricist>
+
+        <release>10-18-2017</release>
+    </meta>
+    <body>
+        <verse>
+            <line>友達じゃ　もう　いられない</line>
+            <line>I need U 心に嘘はつけない</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>のおんなじ　気持ちでいたら</line>
+            <line>一緒に　踏み出そう<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
+
+        <verse>
+            <line>Yeah, ain't got time to waste, my time</line>
+            <line>今すぐ言いたい</line>
+            <line>でも感じるFear いくじなし</line>
+            <line>けど　勇気出してTry</line>
+        </verse>
+        <verse>
+            <line>「好き」と　優しい　笑顔くれたら</line>
+            <line>Baby everything's gonna be all right</line>
+        </verse>
+
+        <chorus>
+            <line>Gimme Gimme More <feature type="2p" gen="SM" polite="plain"
+                    >君</feature>のそばにいる<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>One More Time （ギミギミ）One More Time o oh</line>
+            <line>昨日とは　違う空の下で</line>
+            <line>One More Time 明日も　One More Time</line>
+            <line>始める<feature type="SFP" gen="SF">の</feature></line>
+        </chorus>
+        <verse>
+            <line>One More Time 二人　One More Time</line>
+            <line>One More Time give it to me One More Time</line>
+        </verse>
+        <verse>
+            <line>Yeah, what's up boys?</line>
+            <line>知って欲しい　About girls</line>
+            <line>Look, 告白したいけど Wooo!</line>
+            <line>女子が待つのが　Rule!</line>
+        </verse>
+        <verse>
+            <line>隣でFeel so good</line>
+            <line>覗きたいな瞳I wanna look</line>
+            <line>雲　突き抜けhigher</line>
+            <line>ねぇ　どこまで行ける<feature type="SFP" gen="N">かな</feature>　wonder</line>
+        </verse>
+        <verse>
+            <line>一度のハグじゃ　まだ足りない　"TWICE"</line>
+            <line>大好きな声　もっと聞きたい　"TWICE"</line>
+            <line>つないだ手の中　キセキが広がる</line>
+            <line>トキメキ止まらない　Baby, you're my heart beat</line>
+        </verse>
+
+        <chorus>
+            <line>Gimme Gimme More <feature type="2p" gen="SM" polite="plain"
+                >君</feature>と歩いてゆく</line>
+            <line>One More Time （ギミギミ）One More Time o oh</line>
+            <line>手をつなぎ　見える　全てが好き</line>
+            <line>One More Time 誰より　One More Time</line>
+            <line>輝く<feature type="SFP" gen="SF">の</feature></line>
+        </chorus>
+
+        <verse>
+            <line>二人なら　Happy 幸せが　TWICE</line>
+            <line>もう隠せない　素直な　Truth</line>
+            <line>最高に　Lucky 煌めくの　TWICE</line>
+            <line>身体中に走る　Coolest groove</line>
+        </verse>
+
+        <bridge>
+            <line>One More Time One More Time 〜Forevermore〜</line>
+            <line>One More Time One More Time 〜連れて行って〜</line>
+            <line>One More Time One More Time 〜ねぇ〜</line>
+            <line>
+                <feature type="2p" gen="SM" polite="plain">君</feature>と素晴らしい　恋しよう</line>
+        </bridge>
+        <chorus>
+            <line>Gimme Gimme More <feature type="2p" gen="SM" polite="plain"
+                >君</feature>と歩いてゆく</line>
+            <line>One More Time （ギミギミ）One More Time o oh</line>
+            <line>手をつなぎ　見える　全てが好き</line>
+            <line>One More Time 誰より　One More Time</line>
+            <line>Gimme Gimme More</line>
+        </chorus>
+    </body>
+</song>

@@ -1,0 +1,81 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">Everybody Go</title>
+        <singer language="english" gender="male">Kis_my_Ft2</singer>
+
+
+        <lyricist language="japanese" gender="male">上中丈弥</lyricist>
+        <lyricist language="english" gender="male">Jouya Uenaka</lyricist>
+
+        <release>8-10-2011 </release>
+    </meta>
+    <body>
+        <chorus>
+            <line>この時代のチャンピオン<feature type="SFP" gen="MMN">さぁ</feature>　掴めNo.1</line>
+        </chorus>
+
+        <pre-chorus>
+            <line>3 2 1 GO</line>
+            <line>カモン　カモン　カモン　Everybody Go!</line>
+        </pre-chorus>
+
+        <verse>
+            <line>上がってGO GO! 超盛ってPEACE PEACE!</line>
+            <line>慣れあい　じゃれあい　気分上々！</line>
+            <line>ヤバイ時代<feature type="SFP" gen="N">なの</feature>？　どの変がSOSO!</line>
+            <line>愛を語れば気分はgood job!</line>
+        </verse>
+
+        <pre-chorus>
+            <line><feature type="1p" gen="SM" polite="depr">俺達</feature>の情熱で　明日を飾りにいこう<feature
+                    type="SFP" gen="SM">ぜ</feature></line>
+            <line>ノリにのっかってGO Everyday</line>
+            <line>3 2 1 GO</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>この時代のチャンピオン<feature type="SFP" gen="MMN">さぁ</feature>　掴めNo.1こ</line>
+            <line>ため息<feature type="SFP" gen="SF">よ</feature>歓声に変われ！！　オオー</line>
+            <line>気まぐれに　過ぎていく　今しかない時間を</line>
+            <line>さぁカモンカモンカモン　Everybody Go!</line>
+        </chorus>
+
+        <verse>
+            <line>How about you?調子どう？　このまま今夜どう？</line>
+            <line>肩までかかる髪をなびかして</line>
+            <line>ヤバイ，ギミックで　ぶっ飛んだモーション</line>
+            <line>マジ熱いから始まる衝動</line>
+        </verse>
+
+        <pre-chorus>
+            <line>誤解されやすいけど　<feature type="1p" gen="SM" polite="depr">俺達</feature>もバカじゃないん<feature
+                    type="SFP" gen="MMN">だよ</feature></line>
+            <line>力いっぱい生きてるだけ</line>
+            <line>3 2 1 GO</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>この時代のチャンピオン<feature type="SFP" gen="MMN">さぁ</feature>　掴めNo.1こ</line>
+            <line>いつもハートは燃えたまま<feature type="SFP" gen="MMN">さ</feature>　オオー</line>
+            <line>笑い声　風船に　詰め込んで飛ばそう</line>
+            <line>さぁカモン　カモン　カモン　Everybody Go!</line>
+        </chorus>
+        <bridge>
+            <line>俯いたって<feature type="SFP" gen="MMN">さ</feature>　何も変わらない</line>
+            <line>高く空を見上げて</line>
+        </bridge>
+
+        <chorus>
+            <line>この時代のチャンピオンを　待っている<feature type="SFP" gen="MMN">のさ</feature></line>
+            <line>もしかしたら<feature type="2p" gen="SM" polite="plain">君</feature>かもしれない　オオー</line>
+            <line>この時代のチャンピオン<feature type="SFP" gen="MMN">さぁ</feature>　掴めNo.1</line>
+            <line>ため息<feature type="SFP" gen="SF">よ</feature>歓声変われ！！　オオー</line>
+            <line>悩んだり　怒ったり　泣いちゃったりしながら</line>
+            <line>さぁカモン　カモン　カモン　Everybody Go!</line>
+            <line>Everybody Go!</line>
+        </chorus>
+    </body>
+
+
+</song>

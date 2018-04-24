@@ -1,0 +1,73 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+
+        <title language="japanese">予告</title>
+        <title language="english">Preview</title>
+
+        <singer language="english" gender="female">aiko</singer>
+
+
+        <lyricist language="english" gender="female"> aiko</lyricist>
+
+        <release>12-11-2017</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>目が覚めれば世界は変わる　昨日の孤独と今日の自由</line>
+            <line>スイッチを少しだけひねれ　明日への希望　未来の<feature type="1p" gen="SF" polite="plain"
+                >あたし</feature></line>
+        </verse>
+        <verse>
+            <line>夢などいくらでも見れば良い何度も初めての顔で逢おう</line>
+            <line>後ろ前逆に着たシャツを笑って<feature type="SFP" gen="N">ね</feature>　次回のおはなしは　愉快な話<feature
+                    type="SFP" gen="MMN">さ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>予告</line>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>だけの道を<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>は知っている</line>
+            <line>変幻自在振り返れば綺麗</line>
+            <line>選べない<feature type="SFP" gen="MMN">よ</feature>　ずっと　だけどそれでいい</line>
+            <line>きっと<feature type="1p" gen="SF" polite="plain">あたし</feature>の<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>が知っている</line>
+        </chorus>
+        <verse>
+            <line>何度も胸抜かれた　季節と踊り狂ってた</line>
+            <line>クーラー切って窓を開けた　夕焼けのオレンジを盗め</line>
+        </verse>
+
+        <verse>
+            <line>結んだ約束はそう叶うまい　ただ自転車こぐきっかけ<feature type="SFP" gen="MMN">さ</feature></line>
+            <line>回転数あげて追い越したのはその先に死ぬほど逢いたい人がいるから</line>
+        </verse>
+        <verse>
+            <line>笑う</line>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>だけの道を<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>は知っている</line>
+            <line>真っ最中の真ん中は愛おしい</line>
+            <line>終わらない<feature type="SFP" gen="MMN">よ</feature>ずっとだけどそれがいい</line>
+            <line>きっと<feature type="2p" gen="SF" polite="plain">あなた</feature>と<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>が知っている</line>
+        </verse>
+        <verse>
+            <line>ある日の続き　上を向く前を向く</line>
+            <line>突然思い出して息を吸い声を吐く</line>
+            <line>もうじき頰も晴れやか<feature type="SFP" gen="MMN">だ</feature></line>
+            <line> 泣いたのは出口を探した証<feature type="SFP" gen="MMN">さ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>予告</line>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>だけの道を<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>は知っている</line>
+            <line>変幻自在振り返れば綺麗</line>
+            <line>選べない<feature type="SFP" gen="MMN">よ</feature>　ずっと　だけどそれでいい</line>
+            <line>きっと<feature type="1p" gen="SF" polite="plain">あたし</feature>の<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>が知っている</line>
+        </chorus>
+
+    </body>
+</song>

@@ -1,0 +1,66 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+
+        <title language="japanese">今夜月の見える丘に</title>
+        <title language="english">On the kill where we can see tonight's moon</title>
+
+        <singer language="english" gender="male">B'z</singer>
+
+
+        <lyricist language="japanese" gender="male">稲葉浩志</lyricist>
+        <lyricist language="english" gender="male">Koshi Inaba</lyricist>
+        <release>2-9-2000</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>たとえば　どうにかして　<feature type="2p" gen="SM" polite="plain"
+                >君</feature>の中　ああ　入っていって</line>
+            <line>その瞳から<feature type="1p" gen="SM" polite="plain"
+                >僕</feature>をのぞいたら　いろんなことちょっとはわかるかも</line>
+        </verse>
+        <pre-chorus>
+            <line>愛すれば　愛するほど　霧の中　迷い込んで</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>手をつないだら　行ってみよう</line>
+            <line>燃えるような月の輝く丘に</line>
+            <line>迎えにゆくから　そこにいて<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>かけらでもいい</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>の気持ち知るまで　今夜<feature
+                    type="1p" gen="SM" polite="plain">僕</feature>は寝ない<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+        </chorus>
+
+        <verse>
+            <line>痛いこと　気持ちいいこと　それはみんな人それぞれで</line>
+            <line>ちょっとした違いにつまづいて　またしても<feature type="1p" gen="SM" polite="plain"
+                >僕</feature>は派手にころんだ</line>
+        </verse>
+        <pre-chorus>
+            <line>傷ついて　やっとわかる　それでもいい　遅くはない</line>
+        </pre-chorus>
+        <chorus>
+            <line>手をつないだら　行ってみよう</line>
+            <line>あやしい星の潜む丘に</line>
+            <line>茂みの奥へと進んでゆこう</line>
+            <line>怪我してもいい</line>
+            <line>はじけるような笑顔の向こう側をみたい<feature type="SFP" gen="MMN">よ</feature></line>
+        </chorus>
+
+
+        <chorus>
+            <line>手をつないだら　行ってみよう</line>
+            <line>まんまるい月の輝く丘に</line>
+            <line>誰もがみんな照らしだされて</line>
+            <line>心の模様が空に映ってる</line>
+            <line>いつでもそうやって笑ってないで</line>
+            <line>かけらでもいい</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>の気持ち知るまで　今夜<feature
+                    type="1p" gen="SM" polite="plain">僕</feature>は寝ない<feature type="SFP" gen="MMN"
+                    >よ</feature></line>
+        </chorus>
+    </body>
+</song>

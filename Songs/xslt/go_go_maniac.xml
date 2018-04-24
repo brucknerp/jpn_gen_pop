@@ -1,0 +1,134 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+
+        <title language="english">GO! GO! Maniac</title>
+
+
+        <singer language="japanese" gender="female">放課後ティータイム</singer>
+        <singer language="english" gender="female">After-school Tea Time</singer>
+
+        <lyricist language="japanese" gender="female">大森祥子</lyricist>
+        <lyricist language="english" gender="female">Shouko Oomori</lyricist>
+        <release>4-28-2010</release>
+    </meta>
+    <body>
+        <chorus>
+            <line>やばい 止まれない 止まらない </line>
+            <line>昼に夜に朝にsinging so loud </line>
+            <line>好きなことしてるだけ<feature type="SFP" gen="MMN">だよ</feature> Girls Go Maniac </line>
+            <line>あんなメロディ こんなリリック</line>
+            <line>探していきたい<feature type="SFP" gen="MMN">んだ</feature> もっともっと </line>
+            <line>みんな一緒に<feature type="SFP" gen="N">ね</feature> Chance Chance 願いを</line>
+            <line>Jump Jump 掲げて </line>
+            <line>Fun Fun 想いを Shout Shout 伝えよう </line>
+            <line>ミスったらリハってことにして、もっかい！</line>
+        </chorus>
+
+        <verse>
+            <line>誰も持ってるハートって言う名の小宇宙 </line>
+            <line>ギュッと詰まっている<feature type="SFP" gen="MMN">よ</feature> 喜怒哀楽や愛</line>
+            <line>シュンってなったり ワクワクしたりbusy </line>
+            <line>カオス満載な日々 歌にしちゃおう</line>
+            <line>ぶちまけ合っちゃおう </line>
+        </verse>
+
+        <verse>
+            <line>授業中も無意識に 研究するmusicianship </line>
+            <line>エアでOK 雰囲気大事 不意に刻むリズム</line>
+            <line>通じ合っちゃうビート マインド 自由にエンジョイ </line>
+            <line>楽しんだもんが勝ち </line>
+        </verse>
+
+        <verse>
+            <line>ごめん ゆずれない ゆずらない </line>
+            <line>縦・横・斜めswinging around </line>
+            <line>好きな音出してるだけ<feature type="SFP" gen="MMN">だよ</feature> Girls Go Maniac </line>
+            <line>あんなグルーヴ こんなリバーヴ</line>
+            <line>試していきたい<feature type="SFP" gen="MMN">んだ</feature> ずっとずっと </line>
+            <line>息合わせて<feature type="SFP" gen="N">ね</feature> Chase Chase 明日を </line>
+            <line>Break Break 夢見て</line>
+            <line>Faith Faith 強気で Shake Shake 盛り上がろう </line>
+            <line>浴びたら忘れらんない<feature type="SFP" gen="N">っしょ</feature>、喝采！ </line>
+        </verse>
+
+        <verse>
+            <line>ほんとは現実はまじ奇なり 小説より </line>
+            <line>ボーッといくらしてても<feature type="SFP" gen="N">ね</feature> ぶつかる出会い </line>
+            <line>キュンってなったり グットきたりしてfunny </line>
+            <line>なにこれって運命？じゃ溺れちゃおう </line>
+            <line>めいっぱい堪能しちゃおう </line>
+        </verse>
+
+        <verse>
+            <line>試験前も通常通り 引き裂けない Friendship </line>
+            <line>約束してないのに つい集まる放課後 </line>
+            <line>どこだってメンバー揃った場所 即ステージ</line>
+            <line>聞こえる<feature type="SFP" gen="MMN">よね</feature>？ カウント </line>
+        </verse>
+
+        <chorus>
+            <line>当然 笑顔だし 笑顔で<feature type="SFP" gen="N">ね</feature>
+            </line>
+            <line>春も夏も秋もstepping out, now </line>
+            <line>好きな仲間(ひと)といるだけ<feature type="SFP" gen="MMN">だよ</feature> Girls Go Maniac</line>
+            <line>あんなドラミング こんなカッティング </line>
+            <line>受けて止めて欲しい<feature type="SFP" gen="MMN">んだ</feature> どうかどうか </line>
+            <line>目合わせて<feature type="SFP" gen="N">ね</feature> Tune Tune ココロも </line>
+            <line>Amuse Amuse 重ねて</line>
+            <line>Loose Loose 気楽に Shoot Shoot ワザ磨こう </line>
+            <line>まだまだいけるはず<feature type="SFP" gen="N">でしょ</feature>、実際！</line>
+        </chorus>
+
+        <verse>
+            <line>大人たちは言うけど 好きなことばっかしちゃ </line>
+            <line>ダメんなるって言うけど そう<feature type="SFP" gen="N">かな</feature>!? どう<feature type="SFP"
+                    gen="N">かな</feature>?? </line>
+            <line>ねえ 好きなことに夢中んなってる瞬間って<feature type="SFP" gen="MMN">さ</feature></line>
+            <line>生きてるって感じだし･･･幸せだし･･････だからいい<feature type="SFP" gen="N">や</feature>。 </line>
+            <line>つーかダメんなるわけない。</line>
+        </verse>
+
+
+        <chorus>
+            <line>やっぱし 止まれない 止まらない </line>
+            <line>昼に夜に朝にsinging so loud </line>
+            <line>好きなことしてるだけ<feature type="SFP" gen="MMN">だよ</feature> Girls Go Maniac </line>
+            <line>あんなメロディ こんなリリック</line>
+            <line>探していきたい<feature type="SFP" gen="MMN">んだ</feature> もっともっと </line>
+            <line>みんな一緒に<feature type="SFP" gen="N">ね</feature> Chance Chance 願いを </line>
+            <line>Jump Jump 掲げて </line>
+            <line>Fun Fun 想いを Shout Shout more </line>
+            <line>Chance Chance 願いを Jump Jump 掲げて </line>
+            <line>Fun Fun 想いを Shout Shout 伝えよう </line>
+            <line>気持ちいいから Yeahアンコール、もっかい！</line>
+        </chorus>
+
+        <chorus>
+            <line>Oh My God! No No music, No smile </line>
+            <line>Oh My God! No No friends, No life</line>
+            <line>All Right! No No No stop going our way </line>
+            <line>We have a fabulous BODY, SOUL &amp; LOVE </line>
+        </chorus>
+
+        <chorus>
+            <line>No No music, No smile </line>
+            <line>Oh My God! No No friends, No life </line>
+            <line>All Right! No No No stop going our way</line>
+            <line>We have a fabulous BODY, SOUL &amp; LOVE </line>
+        </chorus>
+        <chorus>
+            <line>No No music, No smile</line>
+            <line>Oh My God! No No friends, No life</line>
+            <line>All Right! No No No stop going our way</line>
+            <line>We have a fabulous BODY, SOUL &amp; LOVE</line>
+        </chorus>
+
+        <chorus>
+            <line>No No music, No smile </line>
+            <line>Oh My God! No No friends, No life</line>
+            <line>All Right! No No No stop going our way</line>
+            <line>We have a fabulous BODY, SOUL &amp; LOVE</line>
+        </chorus>
+    </body>
+</song>

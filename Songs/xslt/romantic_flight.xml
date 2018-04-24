@@ -1,0 +1,61 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">浪漫飛行</title>
+        <title language="english">Romantic Flight</title>
+
+        <singer language="japanese" gender="male">米米Club</singer>
+        <singer language="english" gender="male">Kome Kome Club</singer>
+        <lyricist language="japanese" gender="male">米米Club</lyricist>
+        <lyricist language="english" gender="male">Kome Kome Club</lyricist>
+
+        <release>4-8-1990</release>
+
+    </meta>
+
+    <body>
+        <verse>
+            <line>「逢いたい」と思うことが　何よりも大切<feature type="SFP" gen="MMN">だよ</feature></line>
+            <line>苦しさの裏側にあることに眼を向けて</line>
+            <line>夢をみて<feature type="SFP" gen="MMN">よ</feature>　どんな時でも</line>
+            <line>全てはそこから始まるはず<feature type="SFP" gen="MMN">さ</feature></line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>と出逢ってから　いくつもの夜を語り明かした</line>
+            <line>はちきれるほど My Dream</line>
+            <line>トランク一つだけで浪漫飛行へ In The Sky</line>
+            <line>飛びまわれ　このMy Heart</line>
+        </verse>
+
+        <verse>
+            <line>そこから「逃げだす」ことは誰にでもできること<feature type="SFP" gen="MMN">さ</feature></line>
+            <line>あきらめという名の傘じゃ雨はしのげない</line>
+            <line>何もかもが知らないうちに</line>
+            <line>形を変えてしまう前に</line>
+        </verse>
+
+        <chorus>
+            <line>いつかその胸の中までも　くもらぬように　Right Away</line>
+            <line>あおいかける<feature type="SFP" gen="MMN">のさ</feature>　My Friend</line>
+            <line>トランク一つだけで浪漫飛行へ　In The Sky</line>
+            <line>飛びまわれ　このMy Heart</line>
+        </chorus>
+
+        <bridge>
+            <line>忘れないで　あのときめき</line>
+            <line>一人じゃない　もう一度空へ</line>
+        </bridge>
+        <chorus>
+            <line>その胸の中までも　くもらぬように　Right Away</line>
+            <line>あおいかける<feature type="SFP" gen="MMN">のさ</feature>　My Friend</line>
+            <line>トランク一つだけで浪漫飛行へ　In The Sky</line>
+            <line>飛びまわれ　このMy Heart</line>
+        </chorus>
+        <verse>
+            <line>時が流れて誰もが行き過ぎても You're Just A Friend!</line>
+            <line>この胸に</line>
+            <line>トランク一つだけで浪漫飛行へ In The Sky</line>
+            <line>飛びまわれ　このMy Heart</line>
+        </verse>
+    </body>
+</song>

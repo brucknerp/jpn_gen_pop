@@ -1,0 +1,83 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">Family Song</title>
+
+        <singer language="japanese" gender="male">星野源 </singer>
+        <singer language="english" gender="male">Gen Hoshino</singer>
+
+        <lyricist language="japanese" gender="male">星野源</lyricist>
+        <lyricist language="english" gender="male">Gen Hoshino</lyricist>
+        <release>8-16-2017</release>
+
+    </meta>
+    <body>
+        <verse>
+            <line>目が覚めて涎を拭いたら</line>
+            <line>窓辺に光が微笑んでた</line>
+            <line>空の青　踊る緑の葉</line>
+            <line>畳んだタオルの痕</line>
+        </verse>
+
+        <verse>
+            <line>救急車のサイレンが</line>
+            <line>胸の糸を締めるから</line>
+            <line>夕方のメロディに</line>
+            <line>想い乗せて届けてくれない<feature type="SFP" gen="N">か</feature></line>
+        </verse>
+
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>橋になりますように</line>
+            <line>遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></line>
+        </chorus>
+
+        <verse>
+            <line>出会いに意味などないけれど</line>
+            <line>血の色　形も違うけれど</line>
+            <line>いつまでも側にいろことが</line>
+            <line>できたらいい<feature type="SFP" gen="MMN">だろうな</feature></line>
+        </verse>
+
+        <verse>
+            <line>遠きビルに日が跳ねて</line>
+            <line>帰り道を照らすように</line>
+            <line>道頭のメロディに</line>
+            <line>祈りのせて届けてくれない<feature type="SFP" gen="N">か</feature></line>
+        </verse>
+
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>架け橋になるように</line>
+        </chorus>
+
+        <bridge>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は　何処でも行ける</line>
+            <line><feature type="2p" gen="SM" polite="polite">あなた</feature>は　何にでもなれる</line>
+        </bridge>
+        <chorus>
+            <line>ただ　幸せが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>悲しみは</line>
+            <line>次の<feature type="2p" gen="SM" polite="polite">あなた</feature>への</line>
+            <line>橋になりますように</line>
+        </chorus>
+        <verse>
+            <line>微笑みが</line>
+            <line>一日でも多く</line>
+            <line>側にありますように</line>
+            <line>涙の味は</line>
+            <line>橋になりますように</line>
+            <line>遠い場所も繋がっている<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
+    </body>
+</song>

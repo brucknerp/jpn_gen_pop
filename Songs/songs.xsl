@@ -3,16 +3,29 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
     xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
-    <xsl:template match="/">
-        <html>
-            <head>
-                <link rel="stylesheet" type="text/css" href="index.css"/>
-                <title>Songs</title>
-            </head>
-            <body>
-                <xsl:apply-templates/>
-            </body>
-        </html>
+    <xsl:variable name="collection" select="collection('xslt/?select=*.xml')" as="document-node(element(song))+"/>
+    <xsl:template match="/">s
+        <xsl:message><xsl:value-of select="count($collection)"/></xsl:message>
+        
+        
+            <xsl:for-each select="$collection">
+                <xsl:variable name="filename" select="concat(substring-before(tokenize(base-uri(current()), '/')[last()], '.xml'), '.xhtml')"/>
+          <xsl:message><xsl:value-of select="$filename"/></xsl:message>
+                <xsl:result-document method="xhtml" href="{$filename}">
+            <html>
+                <head>
+                    <link rel="stylesheet" type="text/css" href="index.css"/>
+                    <title>Songs</title>
+                </head>
+                <body>
+                    <div class="main">
+                        <xsl:apply-templates/>
+                    </div>
+                </body>
+            </html>
+              </xsl:result-document>
+        </xsl:for-each>
+        
     </xsl:template>
     <xsl:template match="meta">
         <section class="meta">
@@ -44,7 +57,7 @@
         </p>
     </xsl:template>
     <xsl:template match="feature">
-        <div class="tooltip">
+        <span class="tooltip">
             <xsl:apply-templates/>
             <span class="tooltiptext">
                 <xsl:value-of select="@type"/>
@@ -59,7 +72,7 @@
                     <xsl:value-of select="@quote"/>
                 </xsl:if>
             </span>
-        </div>
+        </span>
     </xsl:template>
     <xsl:template match="line">
         <xsl:apply-templates/>

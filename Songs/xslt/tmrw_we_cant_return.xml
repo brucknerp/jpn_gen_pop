@@ -1,0 +1,61 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">戻れない明日</title>
+        <title language="english">The Tomorrow we can't return to</title>
+
+        <singer language="english" gender="female">aiko</singer>
+        <lyricist language="english" gender="female">AIKO</lyricist>
+        <release>2-3-2010</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>想い出は人を切なくさせる　それは<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>だけじゃない</line>
+            <line>心に生まれた影が多い時程　涙は出るもの<feature type="SFP" gen="SF">なの</feature></line>
+        </verse>
+        <verse>
+            <line>細い手首に巻いた大切な赤いひも</line>
+            <line>願いが叶って切れる日を</line>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>気が付くといつも祈ってた</line>
+        </verse>
+
+        <chorus>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>は<feature type="2p"
+                    gen="SF" polite="plain">あなた</feature>じゃないから</line>
+            <line>全てを同じように感じられないからこそ</line>
+            <line>隣で笑っていたい<feature type="SFP" gen="SF">の</feature>　悲しくなった時は沢山泣いてもいいけど</line>
+            <line>ずっとそこにいないで　うずくまったりしないで</line>
+        </chorus>
+        <verse>
+            <line>毎日悩んでしまう事はそんなに悪い事じゃない</line>
+        </verse>
+
+        <verse>
+            <line>すっと上向いて何を思っている<feature type="SFP" gen="SF">の</feature>？</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>のその目が好きだった</line>
+            <line>誰にも奪えない大切な物</line>
+        </verse>
+
+        <verse>
+            <line>心の向かった場所が本当か間違ってるかなんて解らないから</line>
+            <line><feature type="2p" gen="SF" polite="plain">あなた</feature>に降る星　<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>に吹く風</line>
+            <line>見守っていて　包んで　離れないでいて</line>
+        </verse>
+
+        <verse>
+            <line>どんなに考えても答えはない<feature type="SFP" gen="MMN">よ</feature>　ふたつとしてないものだから</line>
+        </verse>
+
+        <chorus>
+            <line><feature type="1p" gen="SF" polite="plain">あたし</feature>は<feature type="1p"
+                    gen="SF" polite="plain">あたし</feature>じゃないから</line>
+            <line>全てを同じように感じられないからこそ</line>
+            <line>隣で笑っていたい<feature type="SFP" gen="SF">の</feature>　悲しくなった時は沢山泣いてもいいけど</line>
+            <line>ずっとそこにいないで　うずくまったりしないで</line>
+            <line>一緒に見たい<feature type="SFP" gen="SF">の</feature>　戻れない明日を</line>
+        </chorus>
+    </body>
+</song>

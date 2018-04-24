@@ -1,0 +1,90 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">Gloria</title>
+
+        <singer language="english" gender="female">YUI</singer>
+
+        <lyricist language="english" gender="female">YUI</lyricist>
+        <release>1-20-2010</release>
+
+
+    </meta>
+    <body>
+        <verse>
+            <line>魅惑の扉　将来の展望だって</line>
+            <line>揺らぎそうになる</line>
+            <line>青春時代で</line>
+            <line>人生が終わる？</line>
+            <line>恋したいのに</line>
+            <line>臆病になる</line>
+            <line>問題　山積みな<feature type="SFP" gen="MMN">んだ</feature></line>
+        </verse>
+
+        <pre-chorus>
+            <line>答えを導く為には</line>
+            <line>this feeling</line>
+            <line>切り捨てられない</line>
+            <line>all my love</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>ユメじゃないやいやいやいやい</line>
+            <line>手が届きそうな　GLORIA</line>
+            <line>たまに見えなくなって</line>
+            <line>Cryやいやいやいやい</line>
+            <line>近道を探しても同じ<feature type="SFP" gen="MF">ね</feature></line>
+            <line>また迷ってしまう<feature type="SFP" gen="MF">でしょ</feature>？</line>
+        </chorus>
+
+        <verse>
+            <line>成功者の声高々に</line>
+            <line>語るエピソード</line>
+            <line>他人事みたい</line>
+            <line>今の<feature type="1p" gen="SF" polite="plain">アタシ</feature></line>
+            <line>小さな部屋で</line>
+            <line>考えている</line>
+            <line>空想の未来に...</line>
+        </verse>
+
+        <pre-chorus>
+            <line>問いかけてみるけれど</line>
+            <line>bad feeling</line>
+            <line>イメージ出来ないのが</line>
+            <line>all my love</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>負けてないやいやいやい</line>
+            <line>輝く先に　GLORIA</line>
+            <line>近づいてるはず<feature type="SFP" gen="MMN">さ</feature></line>
+            <line>Cryやいやいやいやい</line>
+            <line>もう誰のせいにもしない<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>全部抱きしめてゆく</line>
+            <line>夢中になれなきゃウソ<feature type="SFP" gen="MF">ね</feature></line>
+        </chorus>
+
+        <bridge>
+            <line>wo~サクラが咲く頃にきっと</line>
+            <line>wo~新しい自分に出会える<feature type="SFP" gen="SF">の</feature></line>
+
+            <line>ユメじゃないはず<feature type="SFP" gen="SF">よ</feature></line>
+            <line>報われると信じてる</line>
+            <line>本当は怖いけど</line>
+
+            <line>Cryやいやいやいやい</line>
+            <line>くやしいキモチがあるから</line>
+            <line>Get glory day</line>
+        </bridge>
+
+        <chorus>
+            <line>負けてないやいやいやい</line>
+            <line>輝く先に　GLORIA</line>
+            <line>近づいてるはず<feature type="SFP" gen="MMN">さ</feature></line>
+            <line>Cryやいやいやいやい</line>
+            <line>眠れない夜にひとり</line>
+            <line>膝を抱え込んでも</line>
+            <line>Baby 泣いてる時間はない</line>
+        </chorus>
+    </body>
+</song>

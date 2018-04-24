@@ -2,10 +2,12 @@
     display: flex;
     flex-flow: row wrap;
     text-align: center;
-    border: 2px solid #c30000;
+    
 }
 .main {
     flex: 3 0px;
+    border: 2px solid #c30000;
+    
 }
 .nav {
     order: 1;

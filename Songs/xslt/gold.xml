@@ -1,0 +1,97 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song><meta>
+        <title language="english">GOLD</title>
+
+        <singer language="japanese" gender="female">ハピネス</singer>
+        <singer language="english" gender="female">HAPPINESS</singer>
+
+        <lyricist language="japanese" gender="female">岡嶋 かな多</lyricist>
+        <lyricist language="english" gender="female">Kanata Okajima</lyricist>
+        <release>9-20-2017</release>
+    </meta>
+    <body>
+        <verse>
+            <line>意外で　未知で</line>
+            <line>気づいたら　U like a dynamo</line>
+            <line>きっともう　ほっとけない</line>
+            <line>（何故だか　You feel so right）</line>
+            <line>さりげなく　Hidden diamond</line>
+            <line>ぶつかるココロ　Firework</line>
+            <line>この恋　眠れない</line>
+            <line>（不思議と　Feel so alive）</line>
+        </verse>
+
+        <pre-chorus>
+            <line>Hey a</line>
+            <line>いつの間にか　We going higher?</line>
+            <line>Hey a</line>
+            <line>サラケダシテ　Red hot desire</line>
+            <line>Hey a</line>
+            <line>触れ合う度に　Starting a fire, a fire</line>
+            <line>この恋は　Like touching the sun</line>
+        </pre-chorus>
+        <chorus>
+            <line>確実に　Crush on you</line>
+            <line>強烈に　Hyped on you</line>
+            <line>U make me feel like Gold, Gold</line>
+            <line>大胆に　甘く　Groove with me</line>
+            <line>U make me feel like Gold, Gold </line>
+            <line>G.O.L.D</line>
+        </chorus>
+
+        <verse>
+            <line>気の強い　<feature type="1p" gen="SF" polite="plain">私</feature>に</line>
+            <line>良く近づいて来た<feature type="SFP" gen="N">ね</feature>？</line>
+            <line>Enigmatic だらけの　Night</line>
+            <line>（But 何故か Feel so right）</line>
+            <line>理性と危うさ</line>
+            <line>駆け引きだらけの　Our life</line>
+            <line>それでも　Won't stop till it's light</line>
+            <line>（不思議と　Feel so alive）</line>
+        </verse>
+
+        <pre-chorus>
+            <line>Hey a </line>
+            <line>楽しもう<feature type="SFP" gen="MMN">よ</feature>　Higher &amp; higher</line>
+            <line>Hey a</line>
+            <line>明らかに　You're real looker</line>
+            <line>Hey a</line>
+            <line>もう戻れない　二人だから　Even more</line>
+            <line>この恋は　Like touching the sun</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>確実に　Crush on you</line>
+            <line>強烈にHyped on you</line>
+            <line>U make me feel like Gold, Gold</line>
+            <line>大胆に　甘く　Groove with me</line>
+            <line>U make me feel like Gold, Gold</line>
+
+            <line>G.O.L.D</line>
+        </chorus>
+        <bridge>
+            <line>When ya shine</line>
+            <line>Make me glow</line>
+            <line>全てが溶ける　Gold</line>
+            <line>何してくれる<feature type="SFP" gen="N">の</feature>？　To my life</line>
+            <line>気になって Ah もう仕方無い</line>
+
+            <line>When ya shine</line>
+            <line>Make me glow</line>
+            <line>ココロとカラダ　Gold</line>
+            <line>夢見てる<feature type="SFP" gen="N">の</feature>？　Floating so high</line>
+            <line>どっちでもいい<feature type="SFP" gen="N">や</feature>　Truth or Lie</line>
+
+            <line>Gold, Gold...</line>
+        </bridge>
+
+        <chorus>
+            <line>確実に　Crush on you</line>
+            <line>強烈にHyped on you</line>
+            <line>U make me feel like Gold, Gold</line>
+            <line>大胆に　甘く　Groove with me</line>
+            <line>U make me feel like Gold, Gold</line>
+
+            <line>G.O.L.D</line>
+        </chorus>
+    </body></song>

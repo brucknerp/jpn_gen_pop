@@ -1,0 +1,84 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">愛情</title>
+        <title language="english">Love Feeling</title>
+
+        <singer language="japanese" gender="female">小柳ゆき</singer>
+        <singer language="english" gender="female">Yuki Koyanagi</singer>
+
+        <lyricist language="japanese" gender="female">小柳ゆき</lyricist>
+        <lyricist language="english" gender="female">Yuki Koyanagi</lyricist>
+        <release> 4-12-2000</release>
+
+    </meta>
+    <body>
+        <verse>
+            <line>壊れそうな明日に向かい</line>
+            <line>信じあう奇跡を</line>
+            <line>傷ついた翼ひろげ</line>
+            <line>飛びたつ　true heart uh yeah Hey</line>
+        </verse>
+
+        <verse>
+            <line>眠れない朝に震えてた</line>
+            <line>冷たい壁にもたれてた</line>
+            <line>同じこと　繰り返しつぶやいてた</line>
+        </verse>
+        <verse>
+            <line>何も手につかづ過ごしてる</line>
+            <line>わからない何か期待して</line>
+            <line>欲しいのは　<feature type="2p" gen="SF" polite="plain">あなた</feature>の愛だけ</line>
+        </verse>
+        <verse>
+            <line>振り向いて　今すぐに抱きしめて</line>
+            <line>Ah 止められず溢れる　想い受け止めて</line>
+            <line>少しずつ明けてゆく　暗闇に</line>
+            <line>Ah いつかくる　二人の光を夢見て</line>
+        </verse>
+        <chorus>
+            <line>壊れそうな明日に向かい</line>
+            <line>信じあう奇跡を</line>
+            <line>傷ついた翼ひろげ</line>
+            <line>飛びたつ　true heart uh yeah Hey</line>
+        </chorus>
+        <verse>
+            <line>もっともっともっと会いたい</line>
+            <line>会えない時を飛び越えて</line>
+            <line>どこにだって　いつでも会いに行く<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
+
+        <verse>
+            <line>零れてく　<feature type="1p" gen="SF" polite="plain">私</feature>の愛が溶けて</line>
+            <line>Ah 流れ出す<feature type="2p" gen="SF" polite="plain">あなた</feature>の胸をたどって</line>
+            <line>崩れてく Ah 今までの<feature type="1p" gen="SF" polite="plain">私</feature></line>
+            <line>もう止められない<feature type="2p" gen="SF" polite="plain">あなた</feature>色に染まっていく</line>
+        </verse>
+
+        <chorus>
+            <line>壊れそうな明日に向かい</line>
+            <line>信じあう奇跡を</line>
+            <line>傷ついた翼ひろげ</line>
+            <line>飛びたつ　true heart uh yeah Hey</line>
+        </chorus>
+
+        <verse>
+            <line>uh yeah yeah yeah yeah</line>
+            <line>oh Ah oh Ah No No No No Dah Dah Ah</line>
+        </verse>
+
+        <verse>
+            <line>立ち止まり　その姿探すけど</line>
+            <line>Ah <feature type="2p" gen="SF" polite="plain">あなた</feature>の声遠くに　離れて聞こえる</line>
+            <line>恋しくて　いますぐに触れたくて</line>
+            <line>Ah 止まらない<feature type="SFP" gen="SF">の</feature>　<feature type="1p" gen="SF"
+                    polite="plain">私</feature>の叫んでる　願いが</line>
+        </verse>
+        <chorus>
+            <line>壊れそうな明日に向かい</line>
+            <line>信じあう奇跡を</line>
+            <line>傷ついた翼ひろげ</line>
+            <line>願いは　true heart</line>
+        </chorus>
+    </body>
+</song>

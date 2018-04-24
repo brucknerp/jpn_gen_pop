@@ -1,0 +1,56 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">慕情</title>
+        <title language="english">Love</title>
+
+        <singer language="japanese" gender="female">中島みゆき</singer>
+        <singer language="english" gender="female">Miyuki Nakajima</singer>
+
+        <lyricist language="japanese" gender="female">中島みゆき </lyricist>
+        <lyricist language="english" gender="female">Miyuki Nakajima</lyricist>
+
+        <release>9-4-2017</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>愛より急ぐものが　どこにあったの<feature type="SFP" gen="N">だろう</feature></line>
+            <line>愛を後回しにして何を急いだの<feature type="SFP" gen="N">だろう</feature></line>
+            <line>甘えてはいけない　時に情けは無い</line>
+            <line>手離してならぬ筈の何かを　間違える<feature type="SFP" gen="MMN">な</feature></line>
+            <line>振り向く景色はあまりに遠い</line>
+            <line>もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と歩きだせるなら</line>
+            <line>もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい</line>
+        </verse>
+        <verse>
+            <line>海から産まれて来た　それは知ってるのに</line>
+            <line>どこへ流れ着くのかを知らなくて怯えた</line>
+            <line>生き残る歳月　ひとりで歩ける<feature type="SFP" gen="N">かな</feature></line>
+            <line> 生き残らない歳月　ひとりで歩ける<feature type="SFP" gen="N">かな</feature></line>
+            <line>限りない愚かさ　限りない慕情</line>
+            <line>もいちど出逢いから　もしも<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と歩きだせるなら</line>
+            <line>もいちど出逢いから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい</line>
+        </verse>
+
+        <verse>
+            <line>少し嬉しかった事や　少し悲しかった事で</line>
+            <line>明日の行方は　たやすくたやすく</line>
+            <line>翻るものだから</line>
+            <line>甘えてはいけない　時に情けは無い</line>
+            <line>手離してならぬ筈の何かを　間違える<feature type="SFP" gen="MMN">な</feature></line>
+        </verse>
+
+        <verse>
+            <line>限りない愚かさ　限りない慕情</line>
+            <line>もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と歩きだせるなら</line>
+            <line>もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい</line>
+            <line>もいちどはじめから　もしも<feature type="2p" gen="SF" polite="plain"
+                >あなた</feature>と歩きだせるなら</line>
+            <line>もいちどはじめから　ただ<feature type="2p" gen="SF" polite="plain">あなた</feature>に尽くしたい</line>
+        </verse>
+    </body>
+</song>

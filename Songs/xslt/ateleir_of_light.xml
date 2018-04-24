@@ -1,0 +1,90 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">ヒカリノアトリエ　</title>
+        <title language="english">Atelier of Light</title>
+
+        <singer language="english" gender="male">Mr.Children</singer>
+
+        <lyricist language="japanese" gender="male">桜井和寿</lyricist>
+        <lyricist language="english" gender="male">Kazutoshi Sakurai</lyricist>
+
+        <release>1-11-2017</release>
+    </meta>
+    <body>
+        <verse>
+            <line>「雨上がりの空に七色の虹がかかる」</line>
+            <line>って　そんなに単純じゃない</line>
+            <line>この夢想家でも</line>
+            <line>それくらい理解ってる</line>
+        </verse>
+
+        <verse>
+            <line>大量の防腐剤</line>
+            <line>心の中に忍ばせる</line>
+            <line>晴れた時ばっかりじゃない</line>
+            <line>湿った日が続いても腐らぬように</line>
+        </verse>
+        <pre-chorus>
+            <line>例えば100万回のうち</line>
+            <line>たった一度ある奇跡</line>
+            <line>下を向いてばかりいたら</line>
+            <line>見逃してしまう<feature type="SFP" gen="N">だろう</feature></line>
+        </pre-chorus>
+
+        <chorus>
+            <line>さぁ</line>
+            <line>空に架かる虹を今日も信じ</line>
+            <line>歩き続けよう</line>
+            <line>優しすぎる嘘で涙を拭いたら</line>
+            <line>虹はもうそこにある</line>
+        </chorus>
+
+        <verse>
+            <line>「一体何の意味がある？」</line>
+            <line>つい　損か得かで考えてる</line>
+            <line>でも　たった一人でも笑ってくれるなら</line>
+            <line>それが宝物</line>
+        </verse>
+
+        <verse>
+            <line>誰の胸の中にだって薄暗い雲はある</line>
+            <line>その闇に飲まれぬように</line>
+            <line>今日をそっと照らしていこう</line>
+        </verse>
+        <verse>
+            <line>過去は消えず</line>
+            <line>未来は読めず</line>
+            <line>不安が付きまとう</line>
+            <line>だけど明日を変えていくんなら今</line>
+            <line>今だけがここにある</line>
+        </verse>
+
+        <verse>
+            <line>遥か遠く地平線の奥の方から</line>
+            <line>心地好い風がそのヒカリ運んで</line>
+            <line><feature type="1p" gen="SM" polite="plain">僕ら</feature>を包んでく</line>
+        </verse>
+
+        <pre-chorus>
+            <line>例えば100万回のうち</line>
+            <line>たった一度ある奇跡</line>
+            <line>ただひたむきに前を見てたら</line>
+            <line>会える<feature type="SFP" gen="N">かな</feature></line>
+        </pre-chorus>
+
+        <chorus>
+            <line>空に架かる虹を今日も信じ</line>
+            <line>歩き続けよう</line>
+            <line>優しすぎる嘘で涙を拭いたら</line>
+            <line>虹はほらそこに</line>
+            <line>過去は消えず</line>
+            <line>未来は読めず</line>
+            <line>不安が付きまとう</line>
+            <line>だけど明日を変えていくんなら今</line>
+            <line>今だけがここにある</line>
+            <line>きっと</line>
+            <line>虹はもうここにある</line>
+        </chorus>
+    </body>
+</song>

@@ -1,0 +1,99 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">Wait &amp; See~リスク~ (~risk~)</title>
+
+        <singer language="japanese" gender="female">宇多田ヒカル</singer>
+        <singer language="english" gender="female">Hikaru Utada</singer>
+
+        <lyricist language="japanese" gender="female">宇多田ヒカル</lyricist>
+        <lyricist language="english" gender="female">Hikaru Utada</lyricist>
+        <release>4-19-2000</release>
+
+    </meta>
+
+
+    <body>
+        <verse>
+            <line>だって「つまずきながら」って</line>
+            <line>口で言う程　楽じゃないはず<feature type="SFP" gen="MF">でしょ</feature></line>
+            <line>待って</line>
+            <line>もう少し分かってくれたらきっと</line>
+            <line>もっといい雨が降るから</line>
+        </verse>
+
+        <verse>
+            <line>勝手。</line>
+            <line>そう呼ばれちゃって</line>
+            <line>時々孤独　感じても大丈夫</line>
+            <line>二人で出した答に乗り込んで</line>
+            <line>曇り空を追い抜くから</line>
+        </verse>
+        <verse>
+            <line>廻らないタイヤが目の前に</line>
+            <line>並んでるけど</line>
+            <line>Accel 踏まずにいるのは誰<feature type="SFP" gen="N">だろうね</feature></line>
+            <line>矛盾屋</line>
+        </verse>
+
+        <chorus>
+            <line>Oh baby wait and see</line>
+            <line>たまには痛さもいい<feature type="SFP" gen="MMN">よね</feature></line>
+            <line>リスクがあるからこそ</line>
+            <line>信じることに意味がある<feature type="SFP" gen="MMN">のさ</feature></line>
+            <line>迷わないなんて無理</line>
+            <line>Oh baby can't you see</line>
+            <line>待つのは得意じゃないけど</line>
+            <line>決めつけるのは早すぎる<feature type="SFP" gen="MMN">んだ</feature></line>
+            <line>占いなんて信じたりしないで</line>
+        </chorus>
+
+        <verse>
+            <line>愛情</line>
+            <line>向かって左に欠乏</line>
+            <line>だから<feature type="2p" gen="SM" polite="plain">君</feature>が必要</line>
+            <line>冷たい態度で自分を</line>
+            <line>守ってるつもり<feature type="SFP" gen="SF">なの</feature>？</line>
+        </verse>
+        <verse>
+            <line>変えられないものを受け入れる力</line>
+            <line>そして受け入れられないものを</line>
+            <line>変える力をちょうだい<feature type="SFP" gen="MMN">よ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>Oh baby wait and see</line>
+            <line>やっぱ痛いのはイヤだけど</line>
+            <line>リスクがあるからこそ</line>
+            <line>戦う程に強くなる<feature type="SFP" gen="MMN">のさ</feature></line>
+            <line>怖れないなんて無理</line>
+            <line>Oh baby can't you see</line>
+            <line>待つのは得意じゃないけど</line>
+            <line>決めつけるのは早すぎる<feature type="SFP" gen="MMN">んだ</feature></line>
+            <line>占いなんて信じたりしないで</line>
+        </chorus>
+
+        <chorus>
+            <line>So baby wait and see</line>
+            <line>癒せない傷なんてない</line>
+            <line>リスクがあるからこそ</line>
+            <line>愛する程にせつないの<feature type="SFP" gen="N">かな</feature></line>
+            <line>そんなに悪くはない</line>
+            <line>どこか遠くへ</line>
+            <line>逃げたら楽になるの<feature type="SFP" gen="N">かな</feature></line>
+            <line>そんなわけ無い<feature type="SFP" gen="MMN">よね</feature></line>
+            <line>どこにいたって<feature type="1p" gen="SF" polite="plain">私</feature>は<feature type="1p"
+                    gen="SF" polite="plain">私</feature>なんだから</line>
+        </chorus>
+
+        <verse>
+            <line>キーが高すぎるなら下げてもいい<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>歌は変わらない強さ持ってる</line>
+            <line>悩みなんて一つの通過点</line>
+            <line>大きすぎるけどブレスレットのように　するり</line>
+        </verse>
+        <verse>
+            <line>Don't believe until you see all there is to see...</line>
+        </verse>
+    </body>
+</song>

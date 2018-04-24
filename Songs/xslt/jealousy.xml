@@ -1,0 +1,68 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+
+    <meta>
+        <title language="japanese">JEALOUSYを眠らせて</title>
+        <title language="english">let jealousy sleep</title>
+        <singer language="japanese" gender="male">氷室京介</singer>
+        <singer language="english" gender="male">Kyosuke Himuro</singer>
+
+        <lyricist language="japanese" gender="male">氷室京介, 松井五郎</lyricist>
+        <lyricist language="english" gender="male">Kyosuke Himuro, Gorou Matsui</lyricist>
+        <release>5-16-1990</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>抱き合う指に　眠れないジェラシー</line>
+        </verse>
+
+        <verse>
+            <line>風を追い越して Midnight Cruise</line>
+            <line>今ふたりは　流れ星に変わる<feature type="SFP" gen="MMN">のさ</feature></line>
+            <line>足りない言葉のすきまを KISSで埋めて</line>
+            <line>永遠を　踊るだけ</line>
+            <line>I can't stop my Heart</line>
+            <line>ワインの海に唇をぬらして</line>
+            <line>誰も来ない夜へ</line>
+        </verse>
+
+        <chorus>
+            <line>抱き合う指に　眠れないジェラシー</line>
+            <line><feature type="2p" gen="SM" polite="depr">おまえ</feature>のすべてを　奪うものがあれば　許せない</line>
+            <line>Baby I'm in blue いつだってジェラシー</line>
+            <line>離しはしない<feature type="SFP" gen="MMN">さ</feature>　Just fall in love</line>
+            <line>この世界が終わっても...</line>
+        </chorus>
+
+        <verse>
+            <line>シーツのDressにくるまって　今<feature type="2p" gen="SM" polite="depr">おまえ</feature>は</line>
+            <line>まどろみを続けてる</line>
+            <line>そして　真夜中のランゲブー</line>
+            <line>何度目かの運命に　出会う<feature type="SFP" gen="N">だろう</feature></line>
+            <line>I can't stop my heart</line>
+            <line>言葉の鎖を　溜息でほどいて</line>
+            <line>肌に溶けていた</line>
+        </verse>
+        <verse>
+            <line>抱き合う指に　眠れないジェラシー</line>
+            <line>なくした記憶を　甘い予感に変えて　始めよう</line>
+            <line>Baby I'm in blue いつだってジェラシー</line>
+            <line>確かめていた　Just fall in love</line>
+            <line>ときめきは消せない</line>
+        </verse>
+
+        <bridge>
+            <line>I can't stop my heart</line>
+            <line>欲しいものを　すべて知りたい<feature type="SFP" gen="MMN">のさ</feature></line>
+            <line>熱い夜のために</line>
+        </bridge>
+        <chorus>
+            <line>抱き合う指に　眠れないジェラシー</line>
+            <line><feature type="2p" gen="SM" polite="depr">おまえ</feature>のすべてを　奪うものがあれば　許せない</line>
+            <line>Baby I'm in blue いつだってジェラシー</line>
+            <line>離しはしない<feature type="SFP" gen="MMN">さ</feature>　Just fall in love</line>
+            <line>この世界が終わっても...</line>
+        </chorus>
+    </body>
+</song>

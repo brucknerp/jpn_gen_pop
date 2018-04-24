@@ -1,0 +1,59 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+
+    <meta>
+
+        <title language="english">Dear Friend</title>
+
+        <singer language="japanese" gender="female">中森明菜</singer>
+        <singer language="english" gender="female">Akina Nakamori</singer>
+
+        <lyricist language="japanese" gender="female">伊東真由美</lyricist>
+        <lyricist language="english" gender="female">Mayumi Itou</lyricist>
+        <release>7-17-1990</release>
+    </meta>
+
+    <body>
+
+        <verse>
+            <line>回転ドアの向こうで</line>
+            <line>手を振る　彼女の影</line>
+            <line>たぶん誰も　気づかない</line>
+            <line>ほほえみ…失くしてるなんて</line>
+            <line>気弱なうすいrougeの溜息…らしくない<feature type="SFP" gen="SF">わ</feature></line>
+            <line>思い出して！見つめる<feature type="SFP" gen="SF">の</feature></line>
+            <line>瞳の奥にある　かがやきを</line>
+        </verse>
+
+        <chorus>
+            <line>Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる</line>
+            <line>ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature></line>
+            <line>Dream もっと気ままに　ダイス投げる時</line>
+            <line>新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you</line>
+        </chorus>
+
+        <verse>
+            <line>誰かに　振り回されて　泣くのは似合わない<feature type="SFP" gen="SF">わ</feature>　For you</line>
+            <line>思い出して！　ほほえんで</line>
+            <line>その胸の鼓動を確かめて</line>
+            <line>Chance そう<feature type="SFP" gen="SF">よ</feature></line>
+            <line>わがままな　視線が魅きつける</line>
+            <line>想いは　ちがう風　よぶはず</line>
+            <line>Chance きっと</line>
+            <line>待ってるだけじゃ　タイクツ<feature type="SFP" gen="MF">ね</feature></line>
+            <line>新しい波... 起こす時<feature type="SFP" gen="SF">よ</feature>　For you</line>
+        </verse>
+
+        <bridge>
+            <line>Uh You make me smile again ほほえみを</line>
+            <line>Uh You make me love again もう一度</line>
+            <line>Uh you make me smile again ほほえみを</line>
+        </bridge>
+        <chorus>
+            <line>Dream そう<feature type="SFP" gen="SF">よ</feature>　光る風とまいあがる</line>
+            <line>ひとみに夢を　うつす<feature type="SFP" gen="SF">のよ</feature></line>
+            <line>Dream もっと　気ままに　ダイス投げるとき</line>
+            <line>新しい何かが映る<feature type="SFP" gen="SF">わ</feature>　For you　For you</line>
+        </chorus>
+    </body>
+</song>

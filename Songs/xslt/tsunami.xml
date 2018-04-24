@@ -1,0 +1,80 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="english">TSUNAMI</title>
+
+        <singer language="japanese" gender="male">サザンオールスターズ</singer>
+        <singer language="english" gender="male">Sazan All Stars</singer>
+
+        <lyricist language="japanese" gender="male">桑田佳祐</lyricist>
+        <lyricist language="english" gender="male">Keisuke Kuwata</lyricist>
+        <release>1-26-2000</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>風に戸惑う弱気な<feature type="1p" gen="SM" polite="plain">僕</feature></line>
+            <line>通りすがるあの日の幻影</line>
+            <line>本当は見た目以上</line>
+            <line>涙もろい過去がある</line>
+        </verse>
+
+        <verse>
+            <line>止めど流る清か水<feature type="SFP" gen="SF">よ</feature></line>
+            <line>消せど燃ゆる魔性の火<feature type="SFP" gen="SF">よ</feature></line>
+            <line>あんなに好きな女性に</line>
+            <line>出逢う夏は二度とない</line>
+        </verse>
+
+        <verse>
+            <line>人は誰れも愛求めて　闇に彷徨う運命</line>
+            <line>そして風まかせ　Oh, My destiny</line>
+            <line>涙枯れるまで</line>
+        </verse>
+
+        <chorus>
+            <line>見つめ合うと素直にお喋り出来ない</line>
+            <line>津波のような侘しさに</line>
+            <line>I know... 怯えてる Hoo...</line>
+            <line>めぐり逢えた瞬間から魔法が解けない</line>
+            <line>鏡のような夢の中で</line>
+            <line>思い出はいつの日も雨</line>
+        </chorus>
+
+        <verse>
+            <line>夢が終わる目覚める時</line>
+            <line>深い闇に夜明けが来る</line>
+            <line>本当は見た目以上</line>
+            <line>打たれ強い<feature type="1p" gen="SM" polite="plain">僕</feature>がいる</line>
+        </verse>
+
+        <verse>
+            <line>泣き出しそうな空眺めて　波に漂うカモメ</line>
+            <line>きっと世は情け Oh, Sweet memory</line>
+            <line>旅立ちを胸に</line>
+        </verse>
+
+        <verse>
+            <line>人は涙見せずに大人になれない</line>
+            <line>カラスのような恋だとは</line>
+            <line>I know... 気付いてる Hoo...</line>
+            <line>身も心も愛しい女性しか見えない</line>
+            <line>張り裂けそうな胸の奥で</line>
+            <line>悲しみに耐えるのは何故？</line>
+        </verse>
+
+        <chorus>
+            <line>見つめ合うと素直にお喋り出来ない</line>
+            <line>津波のような侘しさに</line>
+            <line>I know... 怯えてる Hoo...</line>
+            <line>めぐり逢えた瞬間から死ぬまで好きと言って</line>
+            <line>鏡のような夢の中で</line>
+            <line>微笑をくれたのは誰？</line>
+        </chorus>
+
+        <verse>
+            <line>好きなのに泣いたのは何故？</line>
+            <line>思い出はいつの日も...雨</line>
+        </verse>
+    </body>
+</song>

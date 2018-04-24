@@ -1,0 +1,83 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">桜坂 </title>
+        <title language="english">Cherry Blossom Hill</title>
+
+        <singer language="japanese" gender="male">福山雅治</singer>
+        <singer language="english" gender="male">Masaharu Fukuyama</singer>
+
+        <lyricist language="japanese" gender="male">福山雅治</lyricist>
+        <lyricist language="english" gender="male">Masaharu Fukuyama</lyricist>
+        <release>4-26-2000</release>
+
+
+    </meta>
+    <body>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature><feature type="SFP" gen="SF"
+                    >よ</feature>ずっと幸せに</line>
+            <line>風にそっと歌う<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>愛は今も　愛のままで</line>
+        </verse>
+
+        <verse>
+            <line>揺れる木漏れ日　薫る桜坂</line>
+            <line>悲しみに似た　薄紅色</line>
+        </verse>
+
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>がいたい　恋をしていた</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>じゃなきゃダメなのに</line>
+            <line>ひとつになれず></line>
+        </verse>
+
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>春はやってくるのに</line>
+            <line>夢は今も　夢のままで</line>
+        </chorus>
+        <verse>
+            <line>頰にくちづけ　染まる桜坂</line>
+            <line>抱きしめたい気持ちでいっぱいだった</line>
+        </verse>
+
+        <verse>
+            <line>この街で　ずっとふたりで</line>
+            <line>無邪気過ぎた約束</line>
+            <line>涙に変わる</line>
+        </verse>
+
+
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>花はそっと咲くのに</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>は今も　<feature type="2p"
+                    gen="SM" polite="plain">君</feature>のままで</line>
+        </chorus>
+
+        <verse>
+            <line>逢えないけど</line>
+            <line>季節は変わるけど</line>
+            <line>愛しき人</line>
+        </verse>
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>だけが　わかってくれた</line>
+            <line>憧れを追いかけた</line>
+            <line><feature type="1p" gen="SM" polite="plain">僕</feature>は生きる<feature type="SFP"
+                    gen="MMN">よ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>愛と知っていたのに</line>
+            <line>春はやってくるのに</line>
+            <line>夢は今も　夢のままで</line>
+        </chorus>
+
+        <verse>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>よずっと幸せに</line>
+            <line>風にそっと歌う<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>愛は今も　愛のままで</line>
+        </verse>
+    </body>
+</song>

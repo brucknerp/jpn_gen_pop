@@ -1,0 +1,63 @@
+
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">真夏の果実</title>
+        <title language="english">mid summer fruit</title>
+
+        <singer language="japanese" gender="male">サザンオールスターズ</singer>
+        <singer language="english" gender="male">sazan all stars</singer>
+
+        <lyricist language="japanese" gender="male">桑田佳祐</lyricist>
+        <lyricist language="english" gender="male">keisuke kuwata</lyricist>
+
+        <release>7-25-1990</release>
+    </meta>
+    <body>
+        <verse>
+            <line>涙があふれる　悲しい季節は</line>
+            <line>誰かに抱かれた夢を見る</line>
+            <line>泣きたいに気持ちは言葉に出来ない</line>
+            <line>今夜も冷たい雨が降る</line>
+            <line>こらえきれなくて　ため息ばかり</line>
+            <line>今もこの胸に　夏は巡る</line>
+        </verse>
+        <chorus>
+            <line>四六時中も好きと言って</line>
+            <line>夢の中へ連れて行って</line>
+            <line>忘れられない　Heart &amp; Soul </line>
+            <line>声にならない</line>
+            <line>砂に書いた名前消して</line>
+            <line>波はどこへ帰る<feature type="SFP" gen="N">のか</feature></line>
+            <line>通り過ぎ行く　Love &amp; Roll</line>
+            <line>愛をそのままに</line>
+        </chorus>
+
+        <verse>
+            <line>マイナス１００度の太陽みたいに</line>
+            <line>身体を湿らす恋をして</line>
+            <line>めまいがしそうな真夏の果実は</line>
+            <line>今でも心に咲いている</line>
+            <line>遠く離れても　黄昏時は</line>
+            <line>熱い面影が胸に迫る</line>
+        </verse>
+
+        <chorus>
+            <line>四六時中も好きと言って</line>
+            <line>夢の中へ連れて行って</line>
+            <line>忘れられない　Heart &amp; Soul</line>
+            <line>夜が待てない</line>
+            <line>砂に書いた名前消して</line>
+            <line>波はどこへ帰る<feature type="SFP" gen="N">のか</feature></line>
+            <line>通り過ぎ行く　Love &amp; Roll </line>
+            <line>愛をそのままに</line>
+        </chorus>
+
+        <verse>
+            <line>こんな夜は涙見せずに</line>
+            <line>また逢えると言って欲しい</line>
+            <line>忘れられない　Heart &amp; Soul </line>
+            <line>涙の果実<feature type="SFP" gen="SF">よ</feature></line>
+        </verse>
+    </body>
+</song>

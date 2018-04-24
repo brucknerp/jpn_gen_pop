@@ -1,0 +1,77 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">さよなら人類</title>
+        <title language="english">Goodbye Humanity</title>
+        <singer language="japanese" gender="male">たま</singer>
+        <singer language="english" gender="male">Tama</singer>
+
+        <lyricist language="japanese" gender="male">柳原幼一郎</lyricist>
+        <lyricist language="english" gender="male">Youichiro Yanagihara</lyricist>
+
+        <release>5-5-1990</release>
+
+    </meta>
+
+    <body>
+        <verse>
+            <line>二酸化炭素をはきだして あの子が呼吸をしている<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>どん天もようの空の下　つぼみのままでゆれながら</line>
+            <line>野良犬は<feature type="1p" gen="SM" polite="plain">僕</feature>の骨くわえ　野生の力をためしてる</line>
+            <line>路地裏に月がおっこちて　犬の目玉は四角<feature type="SFP" gen="MMN">だよ</feature></line>
+        </verse>
+        <chorus>
+            <line>今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature></line>
+        </chorus>
+
+        <verse>
+            <line>アラビアの笛の音ひびく　街のはずれの夢のあと</line>
+            <line>つばさをなくしたペガサスが</line>
+            <line>夜空にはしごをかけている</line>
+            <line>武器をかついだ兵隊さん　南にゆこうとしてるけど</line>
+            <line>サーベルの音はチャラチャラと　街の空気を汚してる</line>
+        </verse>
+        <chorus>
+            <line>今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature></line>
+        </chorus>
+        <verse>
+            <line>歌をわすれた　カナリア</line>
+            <line>牛をわすれた　牛小屋</line>
+            <line>こわれた磁石を　ひろい集める博士は　まるはげ<feature type="SFP" gen="MMN">さ</feature></line>
+        </verse>
+
+        <verse>
+            <line>あのこは花火をうちあげて　この日がきたのを祝ってる</line>
+            <line>冬の花火は強すぎて　<feature type="1p" gen="SM" polite="plain">僕ら</feature>の身体はくだけちる</line>
+            <line>ブーゲンビルアの木の下で　<feature type="1p" gen="SM" polite="plain"
+                >僕</feature>はあのこを探すけど</line>
+            <line>月の光にじゃまされて　あのこのカケラはみつからない</line>
+        </verse>
+
+        <chorus>
+            <line>今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature></line>
+        </chorus>
+        <chorus>
+            <line>今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature></line>
+        </chorus>
+
+        <verse>
+            <line>さるにはなりたくない　さるにはなりたくない</line>
+            <line>こわれた磁石を　砂浜でひろっているだけ<feature type="SFP" gen="MMN">さ</feature></line>
+        </verse>
+
+        <chorus>
+            <line>今日人類がはじめて　木星についた<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>ピテカントロプスになる日も　近づいたん<feature type="SFP" gen="MMN">だよ</feature></line>
+        </chorus>
+
+        <verse>
+            <line>さるに　なる<feature type="SFP" gen="MMN">よ</feature>　さるに　なる<feature type="SFP"
+                    gen="MMN">よ</feature></line>
+        </verse>
+    </body>
+</song>

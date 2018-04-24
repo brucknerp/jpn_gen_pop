@@ -1,0 +1,81 @@
+﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">パープルタウン~You Oughta Know by Now~</title>
+        <title language="english">Purple Town ~You Oughta Know by Now~</title>
+
+        <singer language="japanese" gender="female">八神純子</singer>
+        <singer language="english" gender="female">Junko Yagami</singer>
+
+        <lyricist language="japanese" gender="female">八神純子</lyricist>
+        <lyricist language="english" gender="female">Junko Yagami</lyricist>
+
+        <release>1980</release>
+    </meta>
+
+    <body>
+        <verse>
+            <line>哀しみのヴェールをはずす</line>
+            <line>気まぐれなこの都会（まち）だけど</line>
+            <line>まるで今<feature type="2p" gen="SF" polite="plain">あなた</feature>の　胸にいるよう</line>
+            <line>エアメールさりげない愛</line>
+            <line>届ける<feature type="SFP" gen="SF">わ</feature>　<feature type="2p" gen="SF"
+                    polite="plain">あなた</feature>のドアに</line>
+            <line>いつも想い出して どこにいても</line>
+        </verse>
+
+        <pre-chorus>
+            <line>I love you more and more</line>
+            <line>Love you more and more</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>Purple town Purple town</line>
+            <line>素晴らしい朝に hu hu hu.</line>
+            <line>Purple town Purple town</line>
+            <line>翼広げて　hu hu hu.</line>
+            <line>New York</line>
+            <line>愛する気持ちを呼びさます都会<feature type="SFP" gen="MF">ね</feature></line>
+            <line>New York 紫にけむる夜明け</line>
+        </chorus>
+        <verse>
+            <line>傷ついた心もいつか</line>
+            <line>癒えてゆく新しい風</line>
+            <line>そう<feature type="SFP" gen="SF">よ</feature>すぐ戻る<feature type="SFP" gen="SF"
+                    >わ</feature>　<feature type="2p" gen="SF" polite="plain">あなた</feature>のもとへ</line>
+        </verse>
+
+        <pre-chorus>
+            <line>I love you more and more</line>
+            <line>Love you more and more</line>
+        </pre-chorus>
+
+        <chorus>
+            <line>Purple town Purple town</line>
+            <line>素晴らしい朝に hu hu hu.</line>
+            <line>Purple town Purple town</line>
+            <line>翼広げて hu hu hu.</line>
+            <line>New York</line>
+            <line>愛する気持ちを呼びさます都会<feature type="SFP" gen="MF">ね</feature></line>
+            <line>New York 紫にけむる夜明け</line>
+        </chorus>
+
+        <chorus>
+            <line>Purple town Purple town</line>
+            <line>素晴らしい朝に hu hu hu.</line>
+            <line>Purple town Purple town</line>
+            <line>翼広げて hu hu hu.</line>
+            <line>New York</line>
+            <line>愛する気持ちを呼びさます都会<feature type="SFP" gen="MF">ね</feature></line>
+            <line>New York 紫にけむる夜明け</line>
+        </chorus>
+
+        <chorus>
+            <line>Purple town Purple town</line>
+            <line>素晴らしい朝に hu hu hu.</line>
+            <line>Purple town Purple town</line>
+            <line>翼広げて hu hu hu.</line>
+        </chorus>
+    </body>
+
+</song>

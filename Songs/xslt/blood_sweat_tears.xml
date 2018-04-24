@@ -1,0 +1,114 @@
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">血，汗，涙 -Japanese ver.-　</title>
+        <title language="english">Blood, Sweat, Tears</title>
+
+        <singer language="english" gender="male">BTS</singer>
+
+        <lyricist language="english" gender="male">KM-Markit</lyricist>
+
+        <release>5-10-2017</release>
+    </meta>
+
+    <body>
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>捧げる今も</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>この想いが　oh</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <chorus>
+            <line>血，汗，涙...</line>
+        </chorus>
+
+        <verse>
+            <line>この血，汗，涙と</line>
+            <line>昨日，今日，明日も</line>
+            <line>全て<feature type="2p" gen="SM" polite="plain">君</feature>のものだと</line>
+            <line>知ってる<feature type="SFP" gen="MMN">さ</feature>そんな事など</line>
+        </verse>
+        <verse>
+            <line>Peaches and cream</line>
+            <line>Sweeter than sweet</line>
+            <line>Chocolate cheeks</line>
+            <line>and chocolate wings</line>
+            <line>But その羽＿は悪魔みたい</line>
+            <line>逆にsweetがbitter bitter</line>
+        </verse>
+        <verse>
+            <line>Kiss me</line>
+            <line>苦しくてもいいからもう</line>
+            <line>いっそ締め付けてくれ </line>
+            <line>Baby</line>
+            <line>酔うと知っていても<feature type="2p" gen="SM" polite="plain">君</feature>を飲む</line>
+            <line>You're リスキーなウイスキー</line>
+        </verse>
+
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>捧げる今も</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>この想いが　oh</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <verse>
+            <line>ウォネ　マニ　マニ　マニ　マニ</line>
+        </verse>
+
+        <verse>
+            <line>苦しくて　いいから</line>
+            <line>二度と離さぬよう</line>
+            <line>縛る付けて欲しいただ</line>
+            <line>おかしくなるほど</line>
+        </verse>
+
+        <verse>
+            <line>Kiss me on the lips lips 二人の秘密</line>
+            <line>捕まるよう　毒される<feature type="2p" gen="SM" polite="plain">君</feature>に</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>以外じゃもう従いきれない</line>
+            <line>自ら飲む毒入りの聖杯</line>
+        </verse>
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>捧げる今も</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <chorus>
+            <line>血，汗，涙</line>
+            <line>この想いが　oh</line>
+            <line>溢れる　ただただ...</line>
+        </chorus>
+
+        <verse>
+            <line>ウォネ　マニ　マニ　マニ　マニ</line>
+        </verse>
+
+        <verse>
+            <line>そっと今伝えて</line>
+            <line>終わらせてその手で</line>
+            <line>どうせ無理なんて言えない<feature type="SFP" gen="MMN">よ</feature></line>
+            <line>逃げる事もできないもう</line>
+            <line><feature type="2p" gen="SM" polite="plain">君</feature>が甘すぎて，甘すぎて，甘すぎて，もう...</line>
+        </verse>
+
+        <chorus>
+            <line>血，汗，涙...</line>
+        </chorus>
+        <chorus>
+            <line>血，汗，涙...</line>
+        </chorus>
+    </body>
+</song>

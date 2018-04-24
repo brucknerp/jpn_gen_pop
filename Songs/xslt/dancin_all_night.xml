@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <title language="japanese">ダンシング・オールナイト</title>
+        <title language="english">Dancing All Night</title>
+
+        <singer language="japanese" gender="male">もんた＆ブラザーズ </singer>
+        <singer language="english" gender="male">Monta and Bros</singer>
+
+        <lyricist language="japanese" gender="male">水谷啓二</lyricist>
+        <lyricist language="english" gender="male">Keisuke Mizutani</lyricist>
+
+        <release>1980</release>
+
+    </meta>
+
+    <body>
+        <verse>
+            <line>甘い時　はずむ</line>
+            <line>一夜のきらめきに　揺れる</line>
+            <line>キャンドルがうるむ　瞳の中で</line>
+            <line>無邪気に　踊ってみせる</line>
+        </verse>
+
+        <chorus>
+            <line>Dancin' all night 言葉にすれば</line>
+            <line>Dancin' all night 嘘に染まる</line>
+            <line>Dancin' all night このままずっと</line>
+            <line>Dancin' all night 瞳を閉じて</line>
+        </chorus>
+
+        <verse>
+            <line>独り言　吐息ひとつ</line>
+            <line>それだけで　崩れてしまう</line>
+            <line>危な気な　恋と知らず</line>
+            <line>ぬくもりを手さぐりしてた</line>
+        </verse>
+
+        <chorus>
+            <line>Dancin' all night 言葉にすれば</line>
+            <line>Dancin' all night 嘘に染まる</line>
+            <line>Dancin' all night このままずっと</line>
+            <line>Dancin' all night 瞳を閉じて</line>
+        </chorus>
+        <verse>
+            <line>その店で　最後の夜を</line>
+            <line>どちらからともなく　そう決めて</line>
+            <line>想い出を　なぞるように踊る</line>
+            <line>初めて会った　夜のように</line>
+        </verse>
+
+        <chorus>
+            <line>Dancin' all night 言葉にすれば</line>
+            <line>Dancin' all night 嘘に染まる</line>
+            <line>Dancin' all night このままずっと</line>
+            <line>Dancin' all night 瞳を閉じて</line>
+        </chorus>
+        <chorus>
+            <line>Dancin' all night 言葉にすれば</line>
+            <line>Dancin' all night 嘘に染まる</line>
+            <line>Dancin' all night このままずっと</line>
+            <line>Dancin' all night 瞳を閉じて</line>
+        </chorus>
+    </body>
+</song>
