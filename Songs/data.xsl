@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
-    <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
+    <xsl:output indent="yes" method="xml"/>
     <xsl:variable name="collection" select="collection('xslt/?select=*.xml')"
         as="document-node(element(song))+"/>
     <xsl:template match="/">
-        <xsl:for-each select="$collection">
-            <data><xsl:apply-templates select="song"/></data>
-        </xsl:for-each>
+        <data>
+            <xsl:for-each select="$collection">
+                <xsl:apply-templates select="song"/>
+            </xsl:for-each>
+        </data>
     </xsl:template>
     <xsl:template match="song">
         <xsl:choose>
@@ -40,9 +42,6 @@
             <feature gen="SM">
                 <xsl:apply-templates select="count(//feature[@gen = 'SM'])"/>
             </feature>
-            <feature gen="SM">
-                <xsl:apply-templates select="count(//feature[@gen = 'SM'])"/>
-            </feature>
         </gender>
         <politeness>
             <feature polite="polite">
@@ -55,7 +54,8 @@
                 <xsl:apply-templates select="count(//feature[@polite = 'depr'])"/>
             </feature>
         </politeness>
-        <type>"SFP"|"1p"|"2p"|"3p"|"hon"|"other" <feature type="SFP"><xsl:apply-templates
+        <type>
+            <feature type="SFP"><xsl:apply-templates
                     select="count(//feature[@type = 'SFP'])"/></feature>
             <feature type="1p"><xsl:apply-templates select="count(//feature[@type = '1p'])"
                 /></feature>

@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">1</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">1</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">2</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">2</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">2</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">8</feature>
+         <feature gen="MF">2</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">7</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">3</feature>
+         <feature type="1p">4</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">0</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">11</feature>
+         <feature gen="MF">1</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">12</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">2</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">8</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">4</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">1</feature>
+         <feature polite="depr">2</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">12</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">1</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">14</feature>
+         <feature gen="MF">1</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">12</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">11</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">3</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">5</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">4</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">13</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">10</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">11</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">12</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">8</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">3</feature>
+         <feature gen="MF">3</feature>
+         <feature gen="N">4</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">1</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">9</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">1</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">4</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">1</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">16</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">3</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">16</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">11</feature>
+         <feature gen="MMN">11</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">22</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">3</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">2</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">1</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">7</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">7</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">0</feature>
+         <feature type="1p">5</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">4</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">7</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">7</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">4</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">0</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">4</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">3</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">3</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">9</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">18</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">17</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">9</feature>
+         <feature type="1p">9</feature>
+         <feature type="2p">8</feature>
+         <feature type="3p">1</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">5</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">3</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">6</feature>
+         <feature gen="MMN">3</feature>
+         <feature gen="SM">9</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">9</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">9</feature>
+         <feature type="1p">4</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">8</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">2</feature>
+         <feature gen="MMN">4</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">8</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">8</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">7</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">4</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">8</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">2</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">3</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">8</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">7</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">2</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">4</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">1</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">3</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">2</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">2</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">2</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">3</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">10</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">2</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">2</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">1</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">5</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">7</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">7</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">13</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">7</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">13</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">8</feature>
+         <feature type="1p">12</feature>
+         <feature type="2p">1</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">1</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">6</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">1</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">1</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">1</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">3</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">4</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">1</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">1</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">3</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">8</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">8</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">7</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">3</feature>
+         <feature gen="SM">2</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">2</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">1</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">1</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">10</feature>
+         <feature gen="MMN">3</feature>
+         <feature gen="SM">20</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">8</feature>
+         <feature polite="plain">12</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">14</feature>
+         <feature type="1p">12</feature>
+         <feature type="2p">8</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">7</feature>
+         <feature gen="MF">1</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">1</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">4</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">5</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">6</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">1</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">2</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">13</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">1</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">8</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">8</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">14</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">1</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">9</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">5</feature>
+         <feature type="2p">4</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <male>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">3</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">1</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">4</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">4</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">1</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <male>
+      <gender>
+         <feature gen="SF">2</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">2</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">2</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">2</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">0</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </male>
+   <female>
+      <gender>
+         <feature gen="SF">3</feature>
+         <feature gen="MF">1</feature>
+         <feature gen="N">8</feature>
+         <feature gen="MMN">3</feature>
+         <feature gen="SM">1</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">13</feature>
+         <feature type="1p">2</feature>
+         <feature type="2p">1</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">10</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">5</feature>
+         <feature gen="MMN">2</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">9</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">8</feature>
+         <feature type="1p">3</feature>
+         <feature type="2p">6</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">1</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">7</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">6</feature>
+         <feature polite="plain">0</feature>
+         <feature polite="depr">1</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">1</feature>
+         <feature type="1p">1</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">1</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">6</feature>
+         <feature gen="MF">3</feature>
+         <feature gen="N">0</feature>
+         <feature gen="MMN">0</feature>
+         <feature gen="SM">0</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">3</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">3</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+   <female>
+      <gender>
+         <feature gen="SF">0</feature>
+         <feature gen="MF">0</feature>
+         <feature gen="N">2</feature>
+         <feature gen="MMN">4</feature>
+         <feature gen="SM">5</feature>
+      </gender>
+      <politeness>
+         <feature polite="polite">0</feature>
+         <feature polite="plain">5</feature>
+         <feature polite="depr">0</feature>
+      </politeness>
+      <type>
+         <feature type="SFP">6</feature>
+         <feature type="1p">0</feature>
+         <feature type="2p">5</feature>
+         <feature type="3p">0</feature>
+         <feature type="hon">0</feature>
+         <feature type="other">0</feature>
+      </type>
+   </female>
+</data>
