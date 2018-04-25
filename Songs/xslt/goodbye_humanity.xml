@@ -1,5 +1,6 @@
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="male" year="1990">
     <meta>
         <title language="japanese">さよなら人類</title>
         <title language="english">Goodbye Humanity</title>

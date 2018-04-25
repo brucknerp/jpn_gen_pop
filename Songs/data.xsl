@@ -2,10 +2,12 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="3.0">
     <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
+    <xsl:variable name="collection" select="collection('xslt/?select=*.xml')"
+        as="document-node(element(song))+"/>
     <xsl:template match="/">
-        <data>
-            <xsl:apply-templates select="//song"/>
-        </data>
+        <xsl:for-each select="$collection">
+            <data><xsl:apply-templates select="song"/></data>
+        </xsl:for-each>
     </xsl:template>
     <xsl:template match="song">
         <xsl:choose>

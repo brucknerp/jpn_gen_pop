@@ -1,5 +1,6 @@
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="female" year="1990">
     <meta>
         <title language="japanese">サイレント・イブ</title>
         <title language="english">Silent Eve</title>

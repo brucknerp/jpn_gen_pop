@@ -4,7 +4,7 @@
     xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output indent="yes" method="xml" doctype-system="about:legacy-compat"/>
     <xsl:variable name="collection" select="collection('xslt/?select=*.xml')" as="document-node(element(song))+"/>
-    <xsl:template match="/">s
+    <xsl:template match="/">
         <xsl:message><xsl:value-of select="count($collection)"/></xsl:message>
         
         

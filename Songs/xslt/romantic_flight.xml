@@ -1,5 +1,6 @@
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="male" year="1990">
     <meta>
         <title language="japanese">浪漫飛行</title>
         <title language="english">Romantic Flight</title>

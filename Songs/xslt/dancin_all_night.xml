@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="male" year="1980">
     <meta>
         <title language="japanese">ダンシング・オールナイト</title>
         <title language="english">Dancing All Night</title>
@@ -11,8 +11,7 @@
         <lyricist language="japanese" gender="male">水谷啓二</lyricist>
         <lyricist language="english" gender="male">Keisuke Mizutani</lyricist>
 
-        <release>1980</release>
-
+        <release>4-21-1980</release>
     </meta>
 
     <body>

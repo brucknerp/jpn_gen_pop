@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="female" year="1980">
     <meta>
         <title language="japanese">贈る言葉</title>
         <title language="english">words to send off</title>
