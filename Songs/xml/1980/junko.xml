@@ -1,5 +1,5 @@
 ﻿<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song gender="male" year="1980">
     <meta>
         <title language="japanese">曲名 順子</title>
         <title language="english">junko</title>

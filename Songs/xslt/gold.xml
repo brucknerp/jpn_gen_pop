@@ -1,5 +1,7 @@
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song><meta>
+
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="female" year="2017">
+    <meta>
         <title language="english">GOLD</title>
 
         <singer language="japanese" gender="female">ハピネス</singer>
@@ -94,4 +96,5 @@
 
             <line>G.O.L.D</line>
         </chorus>
-    </body></song>
+    </body>
+</song>

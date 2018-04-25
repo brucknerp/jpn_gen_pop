@@ -1,5 +1,5 @@
-<?xml-model href="../../songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<?xml-model href="songsSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<song gender="male" year="2017">
     <meta>
         <title language="japanese">ヒカリノアトリエ　</title>
         <title language="english">Atelier of Light</title>
