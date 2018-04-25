@@ -14,11 +14,13 @@
                 <xsl:result-document method="xhtml" href="{$filename}">
             <html>
                 <head>
-                    <link rel="stylesheet" type="text/css" href="index.css"/>
+                    <link rel="stylesheet" type="text/css" href="songs.css"/>
                     <title>Songs</title>
                 </head>
                 <body class="body">
-             
+                    <div class="img">
+                        <img src="feature_key.jpg" alt="Key of Feature abbreviations"/>
+                    </div>
                     <div class="main">
                         <xsl:apply-templates/>
                     </div>
@@ -30,7 +32,9 @@
     </xsl:template>
     <xsl:template match="meta">
         <section class="meta">
-            <xsl:apply-templates/>
+            <h3><xsl:text>Title | Singer | Songwriter | Release Date</xsl:text></h3>
+            <h3><xsl:apply-templates select="title | singer | lyricist | release"/></h3>
+            
         </section>
     </xsl:template>
     <xsl:template match="body">
@@ -39,20 +43,22 @@
         </section>
     </xsl:template>
     <xsl:template match="title | singer | lyricist | release">
-        <xsl:choose>
+           <xsl:choose>
             <xsl:when test="@language = 'japanese'">
-                <h2 class="japanese">
+                <span class="japanese">
                     <xsl:apply-templates/>
-                </h2>
+                </span>
+                <xsl:text> </xsl:text>
             </xsl:when>
             <xsl:otherwise>
-                <h2 class="english">
+                <span class="english">
                     <xsl:apply-templates/>
-                </h2>
+                </span>
+                <br/>
             </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
-    <xsl:template match="verse | chorus">
+        </xsl:choose> 
+    </xsl:template> 
+    <xsl:template match="verse | chorus | pre-chorus | bridge">
         <p>
             <xsl:apply-templates/>
         </p>

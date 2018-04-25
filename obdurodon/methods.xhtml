@@ -45,19 +45,21 @@
             pronouns. There were a handful of other features we noted in our markup, such as the addition of an
             honorific marker (お- o-, ご- go-) to a noun (marks femininity), but these were few in total.</p>
         <p> SFP’s are perhaps the easiest gendered language to identify in Japanese, and are added
-            at the end of utterances, often optionally or stylistically. The chart below identifies
-            some of these particles, and how they can differ between dialects: </p>
+            at the end of utterances, often optionally or stylistically. Table 15.1 identifies
+            some of these particles, and how they can differ between dialects. </p>
         <p> Pronouns in Japanese change depending on the gender of the speaker, the gender of the
             recipient, and the level of politeness necessary for the situation. For a plain level of politeness, 
             a man could use "君" <span class="romaji">kimi</span> for the second
-            person, while a women is expected to use "あなた" <span class="romaji">anata</span>. The chart below
-            details usage for different first-person pronouns: </p>
+            person, while a women is expected to use "あなた" <span class="romaji">anata</span>. Table 2
+            details usage for different first-person pronouns. </p>
         </section>
         <section><h2>Computational Methods</h2>
         <p>We transcribed the songs first in .txt files, then converted them to XML with both
             structural and linguistic mark-up. In the structural markup, we accounted for verses and
             lines. For linguistic mark-up, we tagged features with attributes for the type (SFP or
-            pronoun) and associated gender. </p>
+            pronoun) and associated gender. After markup was complete, we transformed the XML files
+            to HTML utilizing XSLT. Our visualizations on the <a
+                href="http://jpop.obdurodon.org/analysis.xhtml">Analysis</a> page are made with SVG.</p>
         <p>Because SFP’s can vary in their degree of gender markedness as shown in the diagram
             above, we utilized the same grading scale in our markup of the gender attribute, on a
             scale from Strongly Feminine > Moderately Feminine > Neutral/Moderately Masculine >

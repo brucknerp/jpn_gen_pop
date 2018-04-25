@@ -14,7 +14,20 @@
 }
 .main{
     order: 2;
+    padding: 5px;
 }
+
+.img {
+    order: 3;
+    align-self: center;
+    
+}
+img{
+    max-width: 100%;
+    
+}
+
+
 
 
 body {
@@ -48,14 +61,12 @@ figure {
     float: right;
     padding: 10px;
     top: 100px;
-    
 
 }
 
 figure img {
     width: 320px;
     height: 192px;
-    
 }
 
 figcaption {
