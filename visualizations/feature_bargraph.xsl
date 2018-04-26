@@ -40,15 +40,15 @@
                 <!-- x-axis label -->
                 <text x="{$xLength div 2}" y="45" text-anchor="middle" font-size="85%">Gender
                     Feature Type</text>
-                <xsl:apply-templates select="//data"/>
+            <xsl:apply-templates/> 
             </g>
         </svg>
     </xsl:template>
-    <xsl:template match="male/gender/feature">
-        <rect x="$barShift"
-            y="-(sum(.[@gen='SF'] div {$maleGenTotal}) * {$barHeight}"
+    <xsl:template match="male">
+        <rect x="{$barShift}"
+            y="-{sum(gender/feature[@gen='SF'])}"
             width="{$barWidth}"
-            height="(sum(male/gender/feature[@gen='SF'] div {$maleGenTotal}) * {$barHeight}"
+            height="{sum(gender/feature[@gen='SF'])}"
             stroke="black" stroke-width=".5" fill="blue"/>
     </xsl:template>
 </xsl:stylesheet>
