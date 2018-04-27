@@ -7,95 +7,462 @@
     </head>
     <body class="body">
         <!--#include virtual="menu.xhtml" -->
-        <div class="main"><h2>Linguistic Features Recorded</h2>
-        <p>Chart of SFP recorded</p>
-        <p>Chart of pronouns recorded</p>
-        <p>other</p>
-        <h2>Graphs</h2>
-        <div class="svg">
-            <svg xmlns="http://www.w3.org/2000/svg" height="375" width="500">
-                <g transform="translate(30, 300)">
-                    <line x1="50"
-                        x2="50"
-                        y1="0"
-                        y2="-300"
-                        stroke="black"
-                        stroke-width="1"/>
-                    <line x1="50"
-                        x2="370"
-                        y1="0"
-                        y2="0"
-                        stroke="black"
-                        stroke-width="1"/>
-                    <line x1="50"
-                        y1="-150"
-                        x2="370"
-                        y2="-150"
-                        stroke="black"
-                        opacity="0.5"
-                        stroke-dasharray="8 4"
-                        stroke-width="1"/>
-                    <text x="1" y="-150">50%</text>
-                    <text x="-20"
-                        y="-150"
-                        font-size="85%"
-                        text-anchor="middle"
-                        transform="rotate(270 -20 -150)">Percentage of
-                        Features</text>
-                    <text x="185" y="45" text-anchor="middle" font-size="85%">Gender Feature Type</text>
-                    
-                    <rect x="70"
-                        y="-174.9034749034749"
-                        width="20"
-                        height="174.9034749034749"/>
-                    <rect x="130"
-                        y="-12.741312741312742"
-                        width="20"
-                        height="12.741312741312742"/>
-                    <rect x="190"
-                        y="-28.957528957528957"
-                        width="20"
-                        height="28.957528957528957"/>
-                    <rect x="250"
-                        y="-49.80694980694981"
-                        width="20"
-                        height="49.80694980694981"/>
-                    <rect x="310"
-                        y="-33.59073359073359"
-                        width="20"
-                        height="33.59073359073359"/>
-                    
-                    
-                    <rect x="90"
-                        y="-11.894273127753305"
-                        width="20"
-                        height="11.894273127753305"
-                        fill="blue"/>
-                    <rect x="150"
-                        y="-5.286343612334802"
-                        width="20"
-                        height="5.286343612334802"
-                        fill="blue"/>
-                    <rect x="210"
-                        y="-33.03964757709251"
-                        width="20"
-                        height="33.03964757709251"
-                        fill="blue"/>
-                    <rect x="270"
-                        y="-75.33039647577093"
-                        width="20"
-                        height="75.33039647577093"
-                        fill="blue"/>
-                    <rect x="330"
-                        y="-174.44933920704844"
-                        width="20"
-                        height="174.44933920704844"
-                        fill="blue"/>
-                    
-                </g>
-            </svg>
-            
-        </div>  
+        <div class="main">
+            <h2>Linguistic Features Recorded</h2>
+           <!--  <div class="svg">
+                <svg xmlns="http://www.w3.org/2000/svg" width="750" height="500">
+                    <g transform="translate(40,400)">
+                        <text x="225" y="-320" stroke="#c30000" font-size="150%">Percentage by
+                            Features</text>
+                        <line x1="50" x2="50" y1="0" y2="-300" stroke="black" stroke-width="2"/>
+                        <line x1="50" x2="650" y1="0" y2="0" stroke="black" stroke-width="2"/>
+                        <line x1="50" y1="-150" x2="650" y2="-150" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="1" y="-150">50%</text>
+                        <text x="-20" y="-150" font-size="85%" text-anchor="middle"
+                            transform="rotate(270 -20 -150)">Percentage of Features</text>
+                        <text x="355" y="45" text-anchor="middle" font-size="85%">Gender Feature
+                            Type</text>
+                        <rect x="550" y="-250" width="100" height="70" stroke="black"
+                            stroke-width="1" fill="white"/>
+                        <rect x="560" y="-240" width="10" height="10" stroke="black"
+                            stroke-width="1" fill="#e6ccff"/>
+                        <text x="580" y="-230" font-size="75%">Male</text>
+                        <rect x="560" y="-210" width="10" height="10" stroke="black"
+                            stroke-width="1" fill="#ffcccc"/>
+                        <text x="580" y="-200" font-size="75%">Female</text>
+                        <rect x="100" y="-11.440677966101696" width="50" height="11.440677966101696"
+                            stroke=" #6900cc" stroke-width=".5" fill="#7700e6"/>
+                        <rect x="100" y="-300" width="50" height="143.64406779661016"
+                            stroke="#dab3ff" stroke-width=".5" fill=" #e6ccff"/>
+                        <rect x="100" y="-15.254237288135593" width="50" height="3.8135593220338984"
+                            stroke="#901aff" stroke-width=".5" fill="#9c33ff"/>
+                        <rect x="100" y="-124.57627118644068" width="50" height="109.32203389830508"
+                            stroke="#a94dff" stroke-width=".5" fill="#b566ff"/>
+                        <rect x="100" y="-156.35593220338984" width="50" height="31.779661016949152"
+                            stroke="#c180ff" stroke-width=".5" fill="#ce99ff"/>
+                        <text x="150" y="30" transform="rotate(-50 135 0)" text-anchor="end"
+                            font-size="75%">Gender</text>
+                        <text x="125" y="-4.279661016949152" text-anchor="middle" font-size="100%"
+                            fill="white">4%</text>
+                        <text x="125" y="-11.720338983050848" text-anchor="middle" font-size="100%"
+                            fill="white">SF</text>
+                        <text x="125" y="-213.17796610169492" text-anchor="middle" font-size="100%"
+                            fill="white">48%</text>
+                        <text x="125" y="-228.17796610169492" text-anchor="middle" font-size="100%"
+                            fill="white">SM</text>
+                        <text x="125" y="-49.91525423728814" text-anchor="middle" font-size="100%"
+                            fill="white">36%</text>
+                        <text x="125" y="-69.91525423728814" text-anchor="middle" font-size="100%"
+                            fill="white">N</text>
+                        <text x="125" y="-121.46610169491527" text-anchor="middle" font-size="100%"
+                            fill="white">11%</text>
+                        <text x="125" y="-141.46610169491527" text-anchor="middle" font-size="100%"
+                            fill="white">MMN</text>
+                        <rect x="150" y="-152.41157556270096" width="50" height="152.41157556270096"
+                            stroke="#cc0000" stroke-width=".5" fill="#e60000"/>
+                        <rect x="150" y="-300" width="50" height="34.72668810289389"
+                            stroke="#ffb3b3" stroke-width=".5" fill="#ffcccc"/>
+                        <rect x="150" y="-164.95176848874598" width="50" height="12.540192926045016"
+                            stroke="#ff1a1a" stroke-width=".5" fill="#ff3333"/>
+                        <rect x="150" y="-219.93569131832797" width="50" height="54.98392282958199"
+                            stroke="#ff4d4d" stroke-width=".5" fill="#ff6666"/>
+                        <rect x="150" y="-265.2733118971061" width="50" height="45.33762057877813"
+                            stroke="#ff8080" stroke-width=".5" fill="#ff9999"/>
+                        <text x="175" y="-56.20578778135048" text-anchor="middle" font-size="100%"
+                            fill="white">51%</text>
+                        <text x="175" y="-76.20578778135048" text-anchor="middle" font-size="100%"
+                            fill="white">SF</text>
+                        <text x="175" y="-263.6366559485531" text-anchor="middle" font-size="100%"
+                            fill="white">12%</text>
+                        <text x="175" y="-283.6366559485531" text-anchor="middle" font-size="100%"
+                            fill="white">SM</text>
+                        <text x="175" y="-143.68167202572346" text-anchor="middle" font-size="100%"
+                            fill="white">4%</text>
+                        <text x="175" y="-158.68167202572346" text-anchor="middle" font-size="100%"
+                            fill="white">MF</text>
+                        <text x="175" y="-175.44372990353696" text-anchor="middle" font-size="100%"
+                            fill="white">18%</text>
+                        <text x="175" y="-195.44372990353696" text-anchor="middle" font-size="100%"
+                            fill="white">N</text>
+                        <text x="175" y="-222.60450160771703" text-anchor="middle" font-size="100%"
+                            fill="white">15%</text>
+                        <text x="175" y="-242.60450160771703" text-anchor="middle" font-size="100%"
+                            fill="white">MMN</text>
+                        <rect x="250" y="-44.44444444444444" width="50" height="44.44444444444444"
+                            stroke="#a94dff" stroke-width=".5" fill="#b566ff"/>
+                        <rect x="250" y="-300" width="50" height="25" stroke="#dab3ff"
+                            stroke-width=".5" fill=" #e6ccff"/>
+                        <rect x="250" y="-275" width="50" height="230.55555555555554"
+                            stroke="#c180ff" stroke-width=".5" fill="#ce99ff"/>
+                        <text x="300" y="30" transform="rotate(-50 285 0)" text-anchor="end"
+                            font-size="75%">Politeness</text>
+                        <text x="275" y="-2.2222222222222214" text-anchor="middle" font-size="100%"
+                            fill="white">15%</text>
+                        <text x="275" y="-22.22222222222222" text-anchor="middle" font-size="100%"
+                            fill="white">Polite</text>
+                        <text x="275" y="-268.5" text-anchor="middle" font-size="100%" fill="white"
+                            >8%</text>
+                        <text x="275" y="-288.5" text-anchor="middle" font-size="100%" fill="white"
+                            >Depr</text>
+                        <text x="275" y="-139.72222222222223" text-anchor="middle" font-size="100%"
+                            fill="white">77%</text>
+                        <text x="275" y="-159.72222222222223" text-anchor="middle" font-size="100%"
+                            fill="white">Plain</text>
+                        <rect x="300" y="-12.587412587412588" width="50" height="12.587412587412588"
+                            stroke="#ff1a1a" stroke-width=".5" fill="#ff3333"/>
+                        <rect x="300" y="-300" width="50" height="2.097902097902098"
+                            stroke="#dab3ff" stroke-width=".5" fill="#ffcccc"/>
+                        <rect x="300" y="-297.9020979020979" width="50" height="285.31468531468533"
+                            stroke="#ff4d4d" stroke-width=".5" fill="#ff6666"/>
+                        <text x="325" y="-13.706293706293707" text-anchor="middle" font-size="100%"
+                            fill="white">4%</text>
+                        <text x="325" y="-12.293706293706293" text-anchor="middle" font-size="100%"
+                            fill="white">Polite</text>
+                        <text x="325" y="-135.24475524475525" text-anchor="middle" font-size="100%"
+                            fill="white">95%</text>
+                        <text x="325" y="-155.24475524475525" text-anchor="middle" font-size="100%"
+                            fill="white">Plain</text>
+                        <rect x="400" y="-157.62711864406782" width="50" height="157.62711864406782"
+                            stroke=" #5c00b3" stroke-width=".5" fill="#6900cc"/>
+                        <rect x="400" y="-300" width="50" height="1.271186440677966"
+                            stroke="#dab3ff" stroke-width=".5" fill="#e6ccff"/>
+                        <rect x="400" y="-218.6440677966102" width="50" height="61.016949152542374"
+                            stroke="#7700e6" stroke-width=".5" fill="#8400ff"/>
+                        <rect x="400" y="-294.9152542372882" width="50" height="76.27118644067797"
+                            stroke="#901aff" stroke-width=".5" fill="#9c33ff"/>
+                        <rect x="400" y="-296.1864406779661" width="50" height="1.271186440677966"
+                            stroke="#a94dff" stroke-width=".5" fill="#b566ff"/>
+                        <rect x="400" y="-298.728813559322" width="50" height="2.542372881355932"
+                            stroke="#c180ff" stroke-width=".5" fill="#ce99ff"/>
+                        <text x="450" y="30" transform="rotate(-50 435 0)" text-anchor="end"
+                            font-size="75%">Type</text>
+                        <text x="425" y="-58.81355932203391" text-anchor="middle" font-size="100%"
+                            fill="white">53%</text>
+                        <text x="425" y="-78.81355932203391" text-anchor="middle" font-size="100%"
+                            fill="white">SFP</text>
+                        <text x="425" y="-168.13559322033902" text-anchor="middle" font-size="100%"
+                            fill="white">20%</text>
+                        <text x="425" y="-188.13559322033902" text-anchor="middle" font-size="100%"
+                            fill="white">1p</text>
+                        <text x="425" y="-236.77966101694915" text-anchor="middle" font-size="100%"
+                            fill="white">25%</text>
+                        <text x="425" y="-256.77966101694915" text-anchor="middle" font-size="100%"
+                            fill="white">2p</text>
+                        <rect x="450" y="-162.05787781350483" width="50" height="162.05787781350483"
+                            stroke="#ff0000" stroke-width=".5" fill="#ff1a1a"/>
+                        <rect x="450" y="-300" width="50" height="0" stroke="#ffb3b3"
+                            stroke-width=".5" fill="#ffcccc"/>
+                        <rect x="450" y="-210.28938906752413" width="50" height="48.231511254019296"
+                            stroke="#ff3333" stroke-width=".5" fill="#ff4d4d"/>
+                        <rect x="450" y="-299.0353697749196" width="50" height="88.74598070739549"
+                            stroke="#ff6666" stroke-width=".5" fill="#ff8080"/>
+                        <rect x="450" y="-300" width="50" height="0.9646302250803859"
+                            stroke="#ffb3b3" stroke-width=".5" fill="#ffcccc"/>
+                        <rect x="450" y="-300" width="50" height="0" stroke="#ff4d4d"
+                            stroke-width=".5" fill="#ff6666"/>
+                        <text x="475" y="-61.028938906752416" text-anchor="middle" font-size="100%"
+                            fill="white">54%</text>
+                        <text x="475" y="-81.02893890675242" text-anchor="middle" font-size="100%"
+                            fill="white">SFP</text>
+                        <text x="475" y="-167.1736334405145" text-anchor="middle" font-size="100%"
+                            fill="white">16%</text>
+                        <text x="475" y="-187.1736334405145" text-anchor="middle" font-size="100%"
+                            fill="white">1p</text>
+                        <text x="475" y="-234.66237942122189" text-anchor="middle" font-size="100%"
+                            fill="white">30%</text>
+                        <text x="475" y="-254.66237942122189" text-anchor="middle" font-size="100%"
+                            fill="white">2p</text>
+                    </g>
+                </svg>
+                <p>*note: features of less than 4% were not labeled</p>
+                <p>The values in this graph were calculated by dividing the feature subcategory by
+                    the toal amount of features marked in that category. For example the percentage
+                    of strong male particles or pronouncs used by men was found by diving the amount
+                    of pronons and particles marked strong male in songs sung by men by the total
+                    amount of particles or pronouns marked for gender in songs sung by men We chose
+                    to use percentages rather than counts to account for differences in amounts of
+                    particles and pronouns used.</p>
+                <svg xmlns="http://www.w3.org/2000/svg" width="975" height="500">
+                    <g transform="translate(40,400)">
+                        <text x="197.5" y="-320" stroke="#c30000" font-size="150%">Gendered Language
+                            Over Time</text>
+                        <line x1="50" x2="50" y1="0" y2="-300" stroke="black" stroke-width="2"/>
+                        <line x1="50" x2="675" y1="0" y2="0" stroke="black" stroke-width="2"/>
+                        <line x1="50" y1="-300" x2="675" y2="-300" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-300">100%</text>
+                        <line x1="50" y1="-270" x2="675" y2="-270" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-270">90%</text>
+                        <line x1="50" y1="-240" x2="675" y2="-240" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-240">80%</text>
+                        <line x1="50" y1="-210" x2="675" y2="-210" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-210">70%</text>
+                        <line x1="50" y1="-180" x2="675" y2="-180" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-180">60%</text>
+                        <line x1="50" y1="-150" x2="675" y2="-150" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-150">50%</text>
+                        <line x1="50" y1="-120" x2="675" y2="-120" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-120">40%</text>
+                        <line x1="50" y1="-90" x2="675" y2="-90" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-90">30%</text>
+                        <line x1="50" y1="-60" x2="675" y2="-60" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-60">20%</text>
+                        <line x1="50" y1="-30" x2="675" y2="-30" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-30">10%</text>
+                        <text x="-20" y="-150" font-size="85%" text-anchor="middle"
+                            transform="rotate(270 -20 -150)">Percentage of Features</text>
+                        <text x="337.5" y="45" text-anchor="middle" font-size="85%">Year</text>
+                        <rect x="565" y="-240" width="280" height="90" stroke="black"
+                            stroke-width="1" fill="white"/>
+                        <line x1="575" x2="620" y1="-220" y2="-220" stroke-width="1" stroke="black"/>
+                        <text x="630" y="-218" font-size="60%">Male Artist</text>
+                        <line x1="575" x2="620" y1="-200" y2="-200" stroke-width="1" stroke="black"
+                            stroke-dasharray="20,10,5,5,5,10"/>
+                        <text x="630" y="-198" font-size="60%">Female Artist</text>
+                        <line x1="705" x2="750" y1="-220" y2="-220" stroke-width="1" stroke="blue"/>
+                        <text x="760" y="-218" font-size="60%">Male Feature</text>
+                        <line x1="705" x2="750" y1="-200" y2="-200" stroke-width="1" stroke="green"/>
+                        <text x="760" y="-198" font-size="60%">Neutral Feature</text>
+                        <line x1="705" x2="750" y1="-180" y2="-180" stroke-width="1" stroke="red"/>
+                        <text x="760" y="-178" font-size="60%">Female Feature</text>
+                        <circle r="4" cx="100" cy="-0" fill="red"/>
+                        <circle r="4" cx="200" cy="-27.272727272727273" fill="red"/>
+                        <circle r="4" cx="300" cy="-30" fill="red"/>
+                        <circle r="4" cx="400" cy="-13.636363636363637" fill="red"/>
+                        <circle r="4" cx="500" cy="-4.918032786885246" fill="red"/>
+                        <line x1="100" x2="200" y1="-0" y2="-27.272727272727273" stroke-width=""
+                            stroke="red"/>
+                        <line x1="200" x2="300" y1="-27.272727272727273" y2="-30" stroke-width=""
+                            stroke="red"/>
+                        <line x1="300" x2="400" y1="-30" y2="-13.636363636363637" stroke-width=""
+                            stroke="red"/>
+                        <line x1="400" x2="500" y1="-13.636363636363637" y2="-4.918032786885246"
+                            stroke-width="" stroke="red"/>
+                        <circle r="4" cx="100" cy="-97.2972972972973" fill="green"/>
+                        <circle r="4" cx="200" cy="-177.27272727272728" fill="green"/>
+                        <circle r="4" cx="300" cy="-84.00000000000001" fill="green"/>
+                        <circle r="4" cx="400" cy="-129.54545454545456" fill="green"/>
+                        <circle r="4" cx="500" cy="-73.77049180327869" fill="green"/>
+                        <line x1="100" x2="200" y1="-97.2972972972973" y2="-177.27272727272728"
+                            stroke-width="" stroke="green"/>
+                        <line x1="200" x2="300" y1="-177.27272727272728" y2="-84.00000000000001"
+                            stroke-width="" stroke="green"/>
+                        <line x1="300" x2="400" y1="-84.00000000000001" y2="-129.54545454545456"
+                            stroke-width="" stroke="green"/>
+                        <line x1="400" x2="500" y1="-129.54545454545456" y2="-73.77049180327869"
+                            stroke-width="" stroke="green"/>
+                        <circle r="4" cx="100" cy="-202.7027027027027" fill="blue"/>
+                        <circle r="4" cx="200" cy="-95.45454545454545" fill="blue"/>
+                        <circle r="4" cx="300" cy="-186" fill="blue"/>
+                        <circle r="4" cx="400" cy="-156.8181818181818" fill="blue"/>
+                        <circle r="4" cx="500" cy="-221.31147540983608" fill="blue"/>
+                        <line x1="100" x2="200" y1="-202.7027027027027" y2="-95.45454545454545"
+                            stroke-width="" stroke="blue"/>
+                        <line x1="200" x2="300" y1="-95.45454545454545" y2="-186" stroke-width=""
+                            stroke="blue"/>
+                        <line x1="300" x2="400" y1="-186" y2="-156.8181818181818" stroke-width=""
+                            stroke="blue"/>
+                        <line x1="400" x2="500" y1="-156.8181818181818" y2="-221.31147540983608"
+                            stroke-width="" stroke="blue"/>
+                        <circle r="4" cx="100" cy="-237.93103448275863" fill="red"/>
+                        <circle r="4" cx="200" cy="-220.83333333333334" fill="red"/>
+                        <circle r="4" cx="300" cy="-150" fill="red"/>
+                        <circle r="4" cx="400" cy="-88.73239436619718" fill="red"/>
+                        <circle r="4" cx="500" cy="-128.57142857142856" fill="red"/>
+                        <line x1="100" x2="200" y1="-237.93103448275863" y2="-220.83333333333334"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="red"/>
+                        <line x1="200" x2="300" y1="-220.83333333333334" y2="-150"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="red"/>
+                        <line x1="300" x2="400" y1="-150" y2="-88.73239436619718"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="red"/>
+                        <line x1="400" x2="500" y1="-88.73239436619718" y2="-128.57142857142856"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="red"/>
+                        <circle r="4" cx="100" cy="-20.689655172413794" fill="green"/>
+                        <circle r="4" cx="200" cy="-25" fill="green"/>
+                        <circle r="4" cx="300" cy="-66.66666666666666" fill="green"/>
+                        <circle r="4" cx="400" cy="-97.1830985915493" fill="green"/>
+                        <circle r="4" cx="500" cy="-64.28571428571428" fill="green"/>
+                        <line x1="100" x2="200" y1="-20.689655172413794" y2="-25"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <line x1="200" x2="300" y1="-25" y2="-66.66666666666666"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="" stroke="green"/>
+                        <line x1="300" x2="400" y1="-66.66666666666666" y2="-97.1830985915493"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <line x1="400" x2="500" y1="-97.1830985915493" y2="-64.28571428571428"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <circle r="4" cx="100" cy="-41.37931034482759" fill="blue"/>
+                        <circle r="4" cx="200" cy="-54.166666666666664" fill="blue"/>
+                        <circle r="4" cx="300" cy="-83.33333333333334" fill="blue"/>
+                        <circle r="4" cx="400" cy="-114.08450704225352" fill="blue"/>
+                        <circle r="4" cx="500" cy="-107.14285714285714" fill="blue"/>
+                        <line x1="100" x2="200" y1="-41.37931034482759" y2="-54.166666666666664"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="blue"/>
+                        <line x1="200" x2="300" y1="-54.166666666666664" y2="-83.33333333333334"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="blue"/>
+                        <line x1="300" x2="400" y1="-83.33333333333334" y2="-114.08450704225352"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="blue"/>
+                        <line x1="400" x2="500" y1="-114.08450704225352" y2="-107.14285714285714"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="blue"/>
+                        <text x="85" y="15" font-size="75%">1980</text>
+                        <text x="185" y="15" font-size="75%">1990</text>
+                        <text x="285" y="15" font-size="75%">2000</text>
+                        <text x="385" y="15" font-size="75%">2010</text>
+                        <text x="485" y="15" font-size="75%">2017</text>
+                    </g>
+                </svg>
+                <p>Values were caculated the same way as for the bar graph but were further
+                    separated by year. Additionally, strong male and moderate male/neutral were
+                    combined into one male category and strong female and moderate female were
+                    combined into one female category.</p>
+                <svg xmlns="http://www.w3.org/2000/svg" width="975" height="500">
+                    <g transform="translate(40,400)">
+                        <text x="237.5" y="-320" stroke="#c30000" font-size="150%">Politeness Over
+                            Time</text>
+                        <line x1="50" x2="50" y1="0" y2="-300" stroke="black" stroke-width="2"/>
+                        <line x1="50" x2="675" y1="0" y2="0" stroke="black" stroke-width="2"/>
+                        <line x1="50" y1="-300" x2="675" y2="-300" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-300">100%</text>
+                        <line x1="50" y1="-270" x2="675" y2="-270" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-270">90%</text>
+                        <line x1="50" y1="-240" x2="675" y2="-240" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-240">80%</text>
+                        <line x1="50" y1="-210" x2="675" y2="-210" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-210">70%</text>
+                        <line x1="50" y1="-180" x2="675" y2="-180" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-180">60%</text>
+                        <line x1="50" y1="-150" x2="675" y2="-150" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-150">50%</text>
+                        <line x1="50" y1="-120" x2="675" y2="-120" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-120">40%</text>
+                        <line x1="50" y1="-90" x2="675" y2="-90" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-90">30%</text>
+                        <line x1="50" y1="-60" x2="675" y2="-60" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-60">20%</text>
+                        <line x1="50" y1="-30" x2="675" y2="-30" stroke="black" opacity="0.5"
+                            stroke-dasharray="8 4" stroke-width="1"/>
+                        <text x="-5" y="-30">10%</text>
+                        <text x="-20" y="-150" font-size="85%" text-anchor="middle"
+                            transform="rotate(270 -20 -150)">Percentage of Features</text>
+                        <text x="337.5" y="45" text-anchor="middle" font-size="85%">Year</text>
+                        <rect x="565" y="-240" width="280" height="90" stroke="black"
+                            stroke-width="1" fill="white"/>
+                        <line x1="575" x2="620" y1="-220" y2="-220" stroke-width="1" stroke="black"/>
+                        <text x="630" y="-218" font-size="60%">Male Artist</text>
+                        <line x1="575" x2="620" y1="-200" y2="-200" stroke-width="1" stroke="black"
+                            stroke-dasharray="20,10,5,5,5,10"/>
+                        <text x="630" y="-198" font-size="60%">Female Artist</text>
+                        <line x1="705" x2="750" y1="-220" y2="-220" stroke-width="1" stroke="blue"/>
+                        <text x="760" y="-218" font-size="60%">Polite</text>
+                        <line x1="705" x2="750" y1="-200" y2="-200" stroke-width="1" stroke="green"/>
+                        <text x="760" y="-198" font-size="60%">Plain</text>
+                        <line x1="705" x2="750" y1="-180" y2="-180" stroke-width="1" stroke="red"/>
+                        <text x="760" y="-178" font-size="60%">Deprecatory</text>
+                        <circle r="4" cx="100" cy="-13.636363636363637" fill="red"/>
+                        <circle r="4" cx="200" cy="-0" fill="red"/>
+                        <circle r="4" cx="300" cy="-21.428571428571427" fill="red"/>
+                        <circle r="4" cx="400" cy="-0" fill="red"/>
+                        <circle r="4" cx="500" cy="-102.63157894736842" fill="red"/>
+                        <line x1="100" x2="200" y1="-13.636363636363637" y2="-0" stroke-width=""
+                            stroke="red"/>
+                        <line x1="200" x2="300" y1="-0" y2="-21.428571428571427" stroke-width=""
+                            stroke="red"/>
+                        <line x1="300" x2="400" y1="-21.428571428571427" y2="-0" stroke-width=""
+                            stroke="red"/>
+                        <line x1="400" x2="500" y1="-0" y2="-102.63157894736842" stroke-width=""
+                            stroke="red"/>
+                        <circle r="4" cx="100" cy="-231.8181818181818" fill="green"/>
+                        <circle r="4" cx="200" cy="-171.42857142857142" fill="green"/>
+                        <circle r="4" cx="300" cy="-278.57142857142856" fill="green"/>
+                        <circle r="4" cx="400" cy="-253.84615384615384" fill="green"/>
+                        <circle r="4" cx="500" cy="-197.3684210526316" fill="green"/>
+                        <line x1="100" x2="200" y1="-231.8181818181818" y2="-171.42857142857142"
+                            stroke-width="" stroke="green"/>
+                        <line x1="200" x2="300" y1="-171.42857142857142" y2="-278.57142857142856"
+                            stroke-width="" stroke="green"/>
+                        <line x1="300" x2="400" y1="-278.57142857142856" y2="-253.84615384615384"
+                            stroke-width="" stroke="green"/>
+                        <line x1="400" x2="500" y1="-253.84615384615384" y2="-197.3684210526316"
+                            stroke-width="" stroke="green"/>
+                        <circle r="4" cx="100" cy="-54.54545454545455" fill="blue"/>
+                        <circle r="4" cx="200" cy="-128.57142857142856" fill="blue"/>
+                        <circle r="4" cx="300" cy="-0" fill="blue"/>
+                        <circle r="4" cx="400" cy="-46.15384615384615" fill="blue"/>
+                        <circle r="4" cx="500" cy="-0" fill="blue"/>
+                        <line x1="100" x2="200" y1="-54.54545454545455" y2="-128.57142857142856"
+                            stroke-width="" stroke="blue"/>
+                        <line x1="200" x2="300" y1="-128.57142857142856" y2="-0" stroke-width=""
+                            stroke="blue"/>
+                        <line x1="300" x2="400" y1="-0" y2="-46.15384615384615" stroke-width=""
+                            stroke="blue"/>
+                        <line x1="400" x2="500" y1="-46.15384615384615" y2="-0" stroke-width=""
+                            stroke="blue"/>
+                        <circle r="4" cx="100" cy="-0" fill="red"/>
+                        <circle r="4" cx="200" cy="-0" fill="red"/>
+                        <circle r="4" cx="300" cy="-0" fill="red"/>
+                        <circle r="4" cx="400" cy="-0" fill="red"/>
+                        <circle r="4" cx="500" cy="-0" fill="red"/>
+                        <line x1="100" x2="200" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="red"/>
+                        <line x1="200" x2="300" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="red"/>
+                        <line x1="300" x2="400" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="red"/>
+                        <line x1="400" x2="500" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="red"/>
+                        <circle r="4" cx="100" cy="-236.36363636363635" fill="green"/>
+                        <circle r="4" cx="200" cy="-300" fill="green"/>
+                        <circle r="4" cx="300" cy="-300" fill="green"/>
+                        <circle r="4" cx="400" cy="-300" fill="green"/>
+                        <circle r="4" cx="500" cy="-300" fill="green"/>
+                        <line x1="100" x2="200" y1="-236.36363636363635" y2="-300"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <line x1="200" x2="300" y1="-300" y2="-300"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="" stroke="green"/>
+                        <line x1="300" x2="400" y1="-300" y2="-300"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <line x1="400" x2="500" y1="-300" y2="-300"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="green"/>
+                        <circle r="4" cx="100" cy="-9.090909090909092" fill="blue"/>
+                        <circle r="4" cx="200" cy="-0" fill="blue"/>
+                        <circle r="4" cx="300" cy="-0" fill="blue"/>
+                        <circle r="4" cx="400" cy="-0" fill="blue"/>
+                        <circle r="4" cx="500" cy="-0" fill="blue"/>
+                        <line x1="100" x2="200" y1="-9.090909090909092" y2="-0"
+                            stroke-dasharray="20,10,5,5,5,10" stroke-width="1" stroke="blue"/>
+                        <line x1="200" x2="300" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="blue"/>
+                        <line x1="300" x2="400" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="blue"/>
+                        <line x1="400" x2="500" y1="-0" y2="-0" stroke-dasharray="20,10,5,5,5,10"
+                            stroke-width="1" stroke="blue"/>
+                        <text x="85" y="15" font-size="75%">1980</text>
+                        <text x="185" y="15" font-size="75%">1990</text>
+                        <text x="285" y="15" font-size="75%">2000</text>
+                        <text x="385" y="15" font-size="75%">2010</text>
+                        <text x="485" y="15" font-size="75%">2017</text>
+                    </g>
+                </svg>
+                <p>Values were calculated the same way as for the other two graphs.</p>
+            </div> -->
         </div>
     </body>
 </html>

@@ -6,17 +6,17 @@
 }
 .main {
     flex: 3 0px;
-    
-    
+
 }
 .nav {
     order: 1;
 }
 .main{
     order: 2;
+.svg {
+    order: 3;
 }
-
-
+}
 body {
     padding: 2em;
     

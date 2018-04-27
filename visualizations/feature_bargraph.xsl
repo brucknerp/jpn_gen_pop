@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
     xmlns="http://www.w3.org/2000/svg">
-    <xsl:output method="xml" indent="yes"/>
+    <xsl:output method="xml" indent="yes" omit-xml-declaration="yes"/>
     <!-- feature totals -->
     <xsl:output omit-xml-declaration="yes" method="xml" indent="yes"/>
     <xsl:variable name="maleGenTotal" select="sum(//male/gender/feature)" as="xs:double"/>
@@ -17,7 +17,7 @@
     <xsl:variable name="interbarSpacing" select="$barWidth" as="xs:double"/>
     <!-- space from left of bar to left of next bar of same gender-->
     <xsl:variable name="barInterval" select="($barWidth * 2) + $interbarSpacing" as="xs:double"/>
-    <xsl:variable name="barHeight" select="600" as="xs:integer"/>
+    <xsl:variable name="barHeight" select="300" as="xs:integer"/>
     <!-- shifts away from x-axis -->
     <xsl:variable name="shift" select="50" as="xs:integer"/>
     <!-- shifts bar from x-axis -->
@@ -27,6 +27,9 @@
     <xsl:template match="/">
         <svg width="{$xLength+ 100}" height="{$barHeight + 200}">
             <g transform="translate(40,{$barHeight + 100})">
+                <!-- title -->
+                <text x="{$xLength div 2 - 100}" y="-{$barHeight + 20}" stroke="#c30000" font-size="150%">Percentage by
+                    Features</text>
                 <!-- y-axis -->
                 <line x1="{$shift}" x2="{$shift}" y1="0" y2="-{$barHeight}" stroke="black"
                     stroke-width="2"/>
@@ -44,11 +47,14 @@
                 <text x="{$xLength div 2 +30}" y="45" text-anchor="middle" font-size="85%">Gender
                     Feature Type</text>
                 <!-- legend -->
-                <rect x="{$xLength - 100}" y="-{$barHeight - 50}" width="100" height="70" stroke="black" stroke-width="1" fill="white"/>
-                <rect x= "{$xLength - 90}" y="-{$barHeight - 60}" width="10" height="10" stroke="black" stroke-width="1" fill="#e6ccff" />
-                <text x= "{$xLength - 70}" y="-{$barHeight - 70}" font-size="75%">Male</text>
-                <rect x= "{$xLength - 90}" y="-{$barHeight - 90}" width="10" height="10" stroke="black" stroke-width="1" fill="#ffcccc"/>
-                <text x= "{$xLength - 70}" y="-{$barHeight - 100}" font-size="75%">Female</text>
+                <rect x="{$xLength - 100}" y="-{$barHeight - 50}" width="100" height="70"
+                    stroke="black" stroke-width="1" fill="white"/>
+                <rect x="{$xLength - 90}" y="-{$barHeight - 60}" width="10" height="10"
+                    stroke="black" stroke-width="1" fill="#e6ccff"/>
+                <text x="{$xLength - 70}" y="-{$barHeight - 70}" font-size="75%">Male</text>
+                <rect x="{$xLength - 90}" y="-{$barHeight - 90}" width="10" height="10"
+                    stroke="black" stroke-width="1" fill="#ffcccc"/>
+                <text x="{$xLength - 70}" y="-{$barHeight - 100}" font-size="75%">Female</text>
                 <xsl:apply-templates/>
             </g>
         </svg>
@@ -162,14 +168,14 @@
             stroke-width=".5" fill="#ce99ff"/>
         <!-- Gender label-->
         <text x="{($barShift + $femBarShift + $barWidth) div 2}" y="30"
-            transform="rotate(-50 {(($barShift + $femBarShift + $barWidth) div 2)-15} 0)" text-anchor="end"
-            font-size="75%">Gender</text>
+            transform="rotate(-50 {(($barShift + $femBarShift + $barWidth) div 2)-15} 0)"
+            text-anchor="end" font-size="75%">Gender</text>
         <!-- MaleSF per -->
         <text x="{$barShift  + ($barWidth div 2)}" y="-{(($maleSFper * $barHeight) div 2 - 10)}"
             text-anchor="middle" font-size="100%" fill="white"><xsl:value-of
                 select="round($maleSFper * 100)"/>%</text>
         <!-- MaleSF label -->
-        <text x="{$barShift  + ($barWidth div 2)}" y="-{(($maleSFper * $barHeight) div 2 + 2)}"
+        <text x="{$barShift  + ($barWidth div 2)}" y="-{(($maleSFper * $barHeight) div 2 + 6)}"
             text-anchor="middle" font-size="100%" fill="white">SF</text>
         <!-- MaleSM per -->
         <text x="{$barShift  + (
@@ -192,12 +198,12 @@
             text-anchor="middle" font-size="100%" fill="white">N</text>
         <!-- MaleMMN per -->
         <text x="{$barShift  + ($barWidth div 2)}"
-            y="-{((($maleMMNper * $barHeight) div 2)+ ($maleNper * $barHeight) + ($maleMFper * $barHeight) + ($maleSFper * $barHeight)) - 20}"
+            y="-{((($maleMMNper * $barHeight) div 2)+ ($maleNper * $barHeight) + ($maleMFper * $barHeight) + ($maleSFper * $barHeight)) - 19}"
             text-anchor="middle" font-size="100%" fill="white"><xsl:value-of
                 select="round($maleMMNper * 100)"/>%</text>
         <!-- MaleMMN label -->
         <text x="{$barShift  + ($barWidth div 2)}"
-            y="-{((($maleMMNper * $barHeight) div 2)+ ($maleNper * $barHeight) + ($maleMFper * $barHeight) + ($maleSFper * $barHeight))}"
+            y="-{((($maleMMNper * $barHeight) div 2)+ ($maleNper * $barHeight) + ($maleMFper * $barHeight) + ($maleSFper * $barHeight)) + 1}"
             text-anchor="middle" font-size="100%" fill="white">MMN</text>
         <!-- end of male gender -->
 
@@ -231,11 +237,11 @@
             text-anchor="middle" font-size="100%" fill="white">SF</text>
         <!-- femaleSM per -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
-            y="-{($barHeight - ($femSMper * $barHeight div 2)) -20}" text-anchor="middle"
+            y="-{($barHeight - ($femSMper * $barHeight div 2)) -19}" text-anchor="middle"
             font-size="100%" fill="white"><xsl:value-of select="round($femSMper * 100)"/>%</text>
         <!-- femaleSM label -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
-            y="-{($barHeight - ($femSMper * $barHeight div 2))}" text-anchor="middle"
+            y="-{($barHeight - ($femSMper * $barHeight div 2)) + 1}" text-anchor="middle"
             font-size="100%" fill="white">SM</text>
         <!-- femaleMF per -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
@@ -248,12 +254,12 @@
             font-size="100%" fill="white">MF</text>
         <!-- femaleN per -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
-            y="-{((($femNper * $barHeight) div 2) + ($femMFper * $barHeight) + ($femSFper * $barHeight)) - 20}"
+            y="-{((($femNper * $barHeight) div 2) + ($femMFper * $barHeight) + ($femSFper * $barHeight)) - 17}"
             text-anchor="middle" font-size="100%" fill="white"><xsl:value-of
                 select="round($femNper * 100)"/>%</text>
         <!-- femaleN label -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
-            y="-{((($femNper * $barHeight) div 2) + ($femMFper * $barHeight) + ($femSFper * $barHeight))}"
+            y="-{((($femNper * $barHeight) div 2) + ($femMFper * $barHeight) + ($femSFper * $barHeight)) + 3}"
             text-anchor="middle" font-size="100%" fill="white">N</text>
         <!-- femaleMMN per -->
         <text x="{$femBarShift  + ($barWidth div 2)}"
@@ -279,8 +285,8 @@
             stroke-width=".5" fill="#ce99ff"/>
         <!-- Politeness label-->
         <text x="{($politePos + $femPolitePos + $barWidth) div 2}" y="30"
-            transform="rotate(-50 {(($politePos + $femPolitePos + $barWidth) div 2)-15} 0)" text-anchor="end"
-            font-size="75%">Politeness</text>
+            transform="rotate(-50 {(($politePos + $femPolitePos + $barWidth) div 2)-15} 0)"
+            text-anchor="end" font-size="75%">Politeness</text>
         <!-- MalePolite per -->
         <text x="{$politePos  + ($barWidth div 2)}"
             y="-{((($malePoliteper * $barHeight) div 2)- 20)}" text-anchor="middle" font-size="100%"
@@ -290,11 +296,11 @@
             text-anchor="middle" font-size="100%" fill="white">Polite</text>
         <!-- MaleDepr per -->
         <text x="{$politePos  + ($barWidth div 2)}"
-            y="-{(($barHeight) - ($maledeprper * $barHeight div 2) )-20}" text-anchor="middle"
+            y="-{(($barHeight) - ($maledeprper * $barHeight div 2) )-19}" text-anchor="middle"
             font-size="100%" fill="white"><xsl:value-of select="round($maledeprper * 100)"/>%</text>
         <!-- MaleDepr label -->
         <text x="{$politePos  + ($barWidth div 2)}"
-            y="-{(($barHeight) - ($maledeprper * $barHeight div 2) )}" text-anchor="middle"
+            y="-{(($barHeight) - ($maledeprper * $barHeight div 2)) + 1}" text-anchor="middle"
             font-size="100%" fill="white">Depr</text>
         <!-- MalePlain per -->
         <text x="{$politePos  + ($barWidth div 2)}"
@@ -323,7 +329,7 @@
             y="-{(($femPoliteper * $barHeight div 2) - 20)}" text-anchor="middle" font-size="100%"
             fill="white"><xsl:value-of select="round($femPoliteper * 100)"/>%</text>
         <!-- femalePolite label -->
-        <text x="{$femPolitePos  + ($barWidth div 2)}" y="-{(($femPoliteper * $barHeight div 2))}"
+        <text x="{$femPolitePos  + ($barWidth div 2)}" y="-{(($femPoliteper * $barHeight div 2)) + 6}"
             text-anchor="middle" font-size="100%" fill="white">Polite</text>
         <!-- femalePlain per -->
         <text x="{$femPolitePos  + ($barWidth div 2)}"
@@ -364,8 +370,8 @@
             stroke-width=".5" fill="#ce99ff"/>
         <!-- Type label-->
         <text x="{($typePos + $femTypePos + $barWidth) div 2}" y="30"
-            transform="rotate(-50 {(($typePos + $femTypePos + $barWidth) div 2)-15} 0)" text-anchor="end"
-            font-size="75%">Type</text>
+            transform="rotate(-50 {(($typePos + $femTypePos + $barWidth) div 2)-15} 0)"
+            text-anchor="end" font-size="75%">Type</text>
         <!-- MaleSFP per -->
         <text x="{$typePos  + ($barWidth div 2)}" y="-{((($maleSFPper * $barHeight) div 2)- 20)}"
             text-anchor="middle" font-size="100%" fill="white"><xsl:value-of
@@ -428,12 +434,12 @@
             text-anchor="middle" font-size="100%" fill="white">SFP</text>
         <!-- female1p per -->
         <text x="{$femTypePos  + ($barWidth div 2)}"
-            y="-{(($fem1pper * $barHeight div 2) + ($femSFPper * $barHeight )) - 20}"
+            y="-{(($fem1pper * $barHeight div 2) + ($femSFPper * $barHeight )) - 19}"
             text-anchor="middle" font-size="100%" fill="white"><xsl:value-of
                 select="round($fem1pper * 100)"/>%</text>
         <!-- female1pper label -->
         <text x="{$femTypePos  + ($barWidth div 2)}"
-            y="-{(($fem1pper * $barHeight div 2) + ($femSFPper * $barHeight))}" text-anchor="middle"
+            y="-{(($fem1pper * $barHeight div 2) + ($femSFPper * $barHeight)) + 1}" text-anchor="middle"
             font-size="100%" fill="white">1p</text>
         <!-- female2p per -->
         <text x="{$femTypePos  + ($barWidth div 2)}"

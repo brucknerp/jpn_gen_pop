@@ -1,0 +1,347 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="975" height="500">
+   <g transform="translate(40,400)">
+      <text x="197.5" y="-320" stroke="#c30000" font-size="150%">Gendered Language Over Time</text>
+      <line x1="50"
+            x2="50"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="50"
+            x2="675"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="50"
+            y1="-300"
+            x2="675"
+            y2="-300"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-300">100%</text>
+      <line x1="50"
+            y1="-270"
+            x2="675"
+            y2="-270"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-270">90%</text>
+      <line x1="50"
+            y1="-240"
+            x2="675"
+            y2="-240"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-240">80%</text>
+      <line x1="50"
+            y1="-210"
+            x2="675"
+            y2="-210"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-210">70%</text>
+      <line x1="50"
+            y1="-180"
+            x2="675"
+            y2="-180"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-180">60%</text>
+      <line x1="50"
+            y1="-150"
+            x2="675"
+            y2="-150"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-150">50%</text>
+      <line x1="50"
+            y1="-120"
+            x2="675"
+            y2="-120"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-120">40%</text>
+      <line x1="50"
+            y1="-90"
+            x2="675"
+            y2="-90"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-90">30%</text>
+      <line x1="50"
+            y1="-60"
+            x2="675"
+            y2="-60"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-60">20%</text>
+      <line x1="50"
+            y1="-30"
+            x2="675"
+            y2="-30"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-5" y="-30">10%</text>
+      <text x="-20"
+            y="-150"
+            font-size="85%"
+            text-anchor="middle"
+            transform="rotate(270 -20 -150)">Percentage of Features</text>
+      <text x="337.5" y="45" text-anchor="middle" font-size="85%">Year</text>
+      <rect x="565"
+            y="-240"
+            width="280"
+            height="90"
+            stroke="black"
+            stroke-width="1"
+            fill="white"/>
+      <line x1="575"
+            x2="620"
+            y1="-220"
+            y2="-220"
+            stroke-width="1"
+            stroke="black"/>
+      <text x="630" y="-218" font-size="60%">Male Artist</text>
+      <line x1="575"
+            x2="620"
+            y1="-200"
+            y2="-200"
+            stroke-width="1"
+            stroke="black"
+            stroke-dasharray="20,10,5,5,5,10"/>
+      <text x="630" y="-198" font-size="60%">Female Artist</text>
+      <line x1="705"
+            x2="750"
+            y1="-220"
+            y2="-220"
+            stroke-width="1"
+            stroke="blue"/>
+      <text x="760" y="-218" font-size="60%">Male Feature</text>
+      <line x1="705"
+            x2="750"
+            y1="-200"
+            y2="-200"
+            stroke-width="1"
+            stroke="green"/>
+      <text x="760" y="-198" font-size="60%">Neutral Feature</text>
+      <line x1="705"
+            x2="750"
+            y1="-180"
+            y2="-180"
+            stroke-width="1"
+            stroke="red"/>
+      <text x="760" y="-178" font-size="60%">Female Feature</text>
+      <circle r="4" cx="100" cy="-0" fill="red"/>
+      <circle r="4" cx="200" cy="-27.272727272727273" fill="red"/>
+      <circle r="4" cx="300" cy="-30" fill="red"/>
+      <circle r="4" cx="400" cy="-13.636363636363637" fill="red"/>
+      <circle r="4" cx="500" cy="-4.918032786885246" fill="red"/>
+      <line x1="100"
+            x2="200"
+            y1="-0"
+            y2="-27.272727272727273"
+            stroke-width=""
+            stroke="red"/>
+      <line x1="200"
+            x2="300"
+            y1="-27.272727272727273"
+            y2="-30"
+            stroke-width=""
+            stroke="red"/>
+      <line x1="300"
+            x2="400"
+            y1="-30"
+            y2="-13.636363636363637"
+            stroke-width=""
+            stroke="red"/>
+      <line x1="400"
+            x2="500"
+            y1="-13.636363636363637"
+            y2="-4.918032786885246"
+            stroke-width=""
+            stroke="red"/>
+      <circle r="4" cx="100" cy="-97.2972972972973" fill="green"/>
+      <circle r="4" cx="200" cy="-177.27272727272728" fill="green"/>
+      <circle r="4" cx="300" cy="-84.00000000000001" fill="green"/>
+      <circle r="4" cx="400" cy="-129.54545454545456" fill="green"/>
+      <circle r="4" cx="500" cy="-73.77049180327869" fill="green"/>
+      <line x1="100"
+            x2="200"
+            y1="-97.2972972972973"
+            y2="-177.27272727272728"
+            stroke-width=""
+            stroke="green"/>
+      <line x1="200"
+            x2="300"
+            y1="-177.27272727272728"
+            y2="-84.00000000000001"
+            stroke-width=""
+            stroke="green"/>
+      <line x1="300"
+            x2="400"
+            y1="-84.00000000000001"
+            y2="-129.54545454545456"
+            stroke-width=""
+            stroke="green"/>
+      <line x1="400"
+            x2="500"
+            y1="-129.54545454545456"
+            y2="-73.77049180327869"
+            stroke-width=""
+            stroke="green"/>
+      <circle r="4" cx="100" cy="-202.7027027027027" fill="blue"/>
+      <circle r="4" cx="200" cy="-95.45454545454545" fill="blue"/>
+      <circle r="4" cx="300" cy="-186" fill="blue"/>
+      <circle r="4" cx="400" cy="-156.8181818181818" fill="blue"/>
+      <circle r="4" cx="500" cy="-221.31147540983608" fill="blue"/>
+      <line x1="100"
+            x2="200"
+            y1="-202.7027027027027"
+            y2="-95.45454545454545"
+            stroke-width=""
+            stroke="blue"/>
+      <line x1="200"
+            x2="300"
+            y1="-95.45454545454545"
+            y2="-186"
+            stroke-width=""
+            stroke="blue"/>
+      <line x1="300"
+            x2="400"
+            y1="-186"
+            y2="-156.8181818181818"
+            stroke-width=""
+            stroke="blue"/>
+      <line x1="400"
+            x2="500"
+            y1="-156.8181818181818"
+            y2="-221.31147540983608"
+            stroke-width=""
+            stroke="blue"/>
+      <circle r="4" cx="100" cy="-237.93103448275863" fill="red"/>
+      <circle r="4" cx="200" cy="-220.83333333333334" fill="red"/>
+      <circle r="4" cx="300" cy="-150" fill="red"/>
+      <circle r="4" cx="400" cy="-88.73239436619718" fill="red"/>
+      <circle r="4" cx="500" cy="-128.57142857142856" fill="red"/>
+      <line x1="100"
+            x2="200"
+            y1="-237.93103448275863"
+            y2="-220.83333333333334"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="red"/>
+      <line x1="200"
+            x2="300"
+            y1="-220.83333333333334"
+            y2="-150"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="red"/>
+      <line x1="300"
+            x2="400"
+            y1="-150"
+            y2="-88.73239436619718"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="red"/>
+      <line x1="400"
+            x2="500"
+            y1="-88.73239436619718"
+            y2="-128.57142857142856"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="red"/>
+      <circle r="4" cx="100" cy="-20.689655172413794" fill="green"/>
+      <circle r="4" cx="200" cy="-25" fill="green"/>
+      <circle r="4" cx="300" cy="-66.66666666666666" fill="green"/>
+      <circle r="4" cx="400" cy="-97.1830985915493" fill="green"/>
+      <circle r="4" cx="500" cy="-64.28571428571428" fill="green"/>
+      <line x1="100"
+            x2="200"
+            y1="-20.689655172413794"
+            y2="-25"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="green"/>
+      <line x1="200"
+            x2="300"
+            y1="-25"
+            y2="-66.66666666666666"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width=""
+            stroke="green"/>
+      <line x1="300"
+            x2="400"
+            y1="-66.66666666666666"
+            y2="-97.1830985915493"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="green"/>
+      <line x1="400"
+            x2="500"
+            y1="-97.1830985915493"
+            y2="-64.28571428571428"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="green"/>
+      <circle r="4" cx="100" cy="-41.37931034482759" fill="blue"/>
+      <circle r="4" cx="200" cy="-54.166666666666664" fill="blue"/>
+      <circle r="4" cx="300" cy="-83.33333333333334" fill="blue"/>
+      <circle r="4" cx="400" cy="-114.08450704225352" fill="blue"/>
+      <circle r="4" cx="500" cy="-107.14285714285714" fill="blue"/>
+      <line x1="100"
+            x2="200"
+            y1="-41.37931034482759"
+            y2="-54.166666666666664"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="blue"/>
+      <line x1="200"
+            x2="300"
+            y1="-54.166666666666664"
+            y2="-83.33333333333334"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="blue"/>
+      <line x1="300"
+            x2="400"
+            y1="-83.33333333333334"
+            y2="-114.08450704225352"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="blue"/>
+      <line x1="400"
+            x2="500"
+            y1="-114.08450704225352"
+            y2="-107.14285714285714"
+            stroke-dasharray="20,10,5,5,5,10"
+            stroke-width="1"
+            stroke="blue"/>
+      <text x="85" y="15" font-size="75%">1980</text>
+      <text x="185" y="15" font-size="75%">1990</text>
+      <text x="285" y="15" font-size="75%">2000</text>
+      <text x="385" y="15" font-size="75%">2010</text>
+      <text x="485" y="15" font-size="75%">2017</text>
+   </g>
+</svg>
