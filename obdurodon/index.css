@@ -13,9 +13,10 @@
 }
 .main{
     order: 2;
-.svg {
-    order: 3;
 }
+
+.svg{
+    order: 3;
 }
 body {
     padding: 2em;
@@ -41,14 +42,11 @@ h3 {
     text-align: center;
     font-family: helvetica, open-sans, sans-serif;
 }
-
-
 figure {
     display: table;
     float: right;
     padding: 10px;
     top: 100px;
-
 }
 
 figure img {

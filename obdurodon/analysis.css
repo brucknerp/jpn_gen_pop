@@ -1,0 +1,44 @@
+.body {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    
+}
+.main {
+    flex: 3 0px;
+
+}
+.nav {
+    order: 1;
+}
+.main{
+    order: 2;
+}
+.svg {
+    order: 3;
+}
+body {
+    padding: 2em;
+    
+}
+h1 {
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+    text-decoration: underline;
+}
+h2 {
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
+
+p {
+
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    color: #c30000;
+    text-align: center;
+    font-family: helvetica, open-sans, sans-serif;
+}
